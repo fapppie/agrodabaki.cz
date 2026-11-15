@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "celestin",
+    "name": "Celestin",
+    "price": "4 490 Kč jednorázově bez DPH",
+    "description": "Tmavý postranní panel drží kategorie po ruce. Velký banner haly doplňují dvě menší nabídky.",
+    "source": "https://doplnky.shoptet.cz/sablona-celestin",
+    "demo": "https://celestin.shoptetak.cz/"
+  },
+  {
+    "slug": "orion",
+    "name": "Orion",
+    "price": "4 990 Kč jednorázově bez DPH",
+    "description": "Barevný strom kategorií vedle širokého banneru dává prostor halám i zemědělské technice.",
+    "source": "https://doplnky.shoptet.cz/sablona-orion",
+    "demo": "https://orion.shoptak.cz/"
+  },
+  {
+    "slug": "sniper-one",
+    "name": "Sniper ONE",
+    "price": "4 490 Kč jednorázově bez DPH",
+    "description": "Posuvný pás vysokých fotografických karet představuje sortiment. Zboží lze přidat přímo z výpisu.",
+    "source": "https://doplnky.shoptet.cz/sablona-sniper-one",
+    "demo": "https://sniperone.myshoptet.com/"
+  },
+  {
+    "slug": "titan",
+    "name": "Titan",
+    "price": "4 990 Kč jednorázově bez DPH",
+    "description": "Pro srovnání podobných hal: přehledné kategorie a detail s prostorem pro fotografie, popis a technické parametry.",
+    "source": "https://doplnky.shoptet.cz/sablona-titan",
+    "demo": "https://titan.shoptak.cz/"
+  }
+]

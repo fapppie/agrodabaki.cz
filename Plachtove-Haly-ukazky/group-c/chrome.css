@@ -1,0 +1,112 @@
+.chrome-utility {display:flex;justify-content:space-between;align-items:center;gap:18px;padding:10px clamp(16px,2.4vw,40px);border-bottom:1px solid #e0e3e7;font-size:13px;background:white}
+.chrome-utility>div {display:flex;align-items:center;gap:clamp(10px,1.6vw,28px)}
+.facebook {display:inline-grid;place-items:center;border-radius:50%;background:currentColor;font-size:0;width:20px;height:20px}
+.facebook::after {content:"f";color:white;font:bold 18px/1 Arial}
+.store-notice {background:#edf1f1;color:#254242;text-align:center;padding:9px 16px;font-size:13px}
+.mast-inner {min-height:94px}
+.mast .account {display:flex;align-items:center;justify-content:center;flex-direction:column;gap:5px}
+.mast .account a {display:inline-flex}
+.action-icon {background:none;border:0;color:inherit;cursor:pointer}
+.celestin .mast {background:#121116}
+.celestin .mast-inner {padding-inline:16px;gap:25px}
+.celestin .brand {background:transparent;padding:0}
+.celestin .brand img {width:125px}
+.celestin-nav {display:flex;align-items:center;gap:clamp(14px,4vw,76px);margin-left:auto;margin-right:auto;color:white}
+.celestin .celestin-nav .nav-toggle {display:inline-flex}
+.celestin .store-notice {background:#dfdfdf;color:#242424}
+.celestin .action-icon,.celestin .cart-btn {position:relative;display:flex;align-items:center;flex-direction:column;gap:4px}
+.celestin .cart-btn span,.celestin .account small,.celestin .action-icon small {font-size:11px}
+.celestin .cart-btn b {position:absolute;right:-6px;font-size:9px}
+.header-search {padding:12px;background:#18191d}
+.header-search .search {width:min(100%,540px);margin:auto}
+.orion .mast {background:#f8f8f8}
+.orion .search {background:white;border:0;height:48px;padding:6px}
+.orion .search button {background:#f58a00}
+.orion .mast .cart-btn {background:#fff;padding:10px 18px}
+.orion .mast .cart-btn span,.sniper-one .mast .cart-btn span {display:none}
+.sniper-one .store-notice,.sniper-one footer {background:#162d55;color:white}
+.sniper-one .mast-inner {gap:clamp(12px,2.2vw,35px)}
+.sniper-one .portrait {flex-basis:calc((100% - 32px)/3);aspect-ratio:.79}
+.sniper-one .portrait strong {font-size:clamp(24px,2.6vw,42px)}
+.sniper-one .mast-link {font-weight:650;white-space:nowrap}
+.orion .lead>div {margin-left:4%;padding:clamp(15px,2vw,30px);width:min(55%,430px);height:auto;background:#26282aaf;position:absolute;top:50%;transform:translateY(-50%)}
+.orion .spot span {background:#ee8500;color:#fff;padding:9px 16px}
+footer {display:block;max-width:none;margin:0;padding:0}
+footer .brand {display:inline-flex}
+footer .brand img {width:min(200px,100%);height:80px}
+.foot-columns {display:grid;gap:clamp(18px,2.8vw,46px)}
+.foot-columns>section {min-width:0}
+.foot-columns section>a {display:block;margin-block:8px}
+.foot-columns h2 {font-size:19px;margin:0 0 19px}
+.copyright,.pay-strip {border-top:1px solid #8995aa44;padding:26px 2.5vw;font-size:13px}
+.checkout-foot {background:#eff1f3;color:#52606b;text-align:center;display:flex;align-items:center;justify-content:center;gap:20px;padding:20px 15px}
+.checkout-foot .brand img {width:78px;height:35px}
+.celestin footer {background:#121116;color:white}
+.celestin .foot-columns {padding:60px 3vw 46px clamp(50px,22vw,310px);grid-template-columns:repeat(4,minmax(0,1fr))}
+.celestin .foot-columns .brand img {width:175px}
+.celestin .signin-link {display:inline-block;padding:11px 18px;background:#ed4243;font-weight:600}
+.celestin .copyright {padding-left:clamp(36px,22vw,310px)}
+.orion footer {background:white;color:#12252c}
+.news-band {margin:0 16px 40px;background:#373737;color:white;padding:34px clamp(20px,5vw,90px);display:flex;align-items:center;justify-content:space-between;gap:28px}
+.news-band h2 {font-size:28px;margin:0}
+.news-band p {margin:6px 0}
+.demo-news {display:flex;gap:8px;flex-wrap:wrap;max-width:48%;flex:1}
+.demo-news label {flex:1;min-width:100px}
+.demo-news input,.demo-news button {width:100%;border:0;font:inherit;padding:13px}
+.demo-news button {width:auto;background:var(--brand);color:#fff}
+.demo-news output {width:100%;font-size:12px}
+.orion .foot-columns {grid-template-columns:1.7fr repeat(4,minmax(0,1fr));padding:0 16px 34px;gap:clamp(14px,2.7vw,45px)}
+.orion .foot-columns>section:not(:first-child) {padding-top:22px}
+.orion .foot-columns h2 {font-size:16px}
+.orion-contact {position:relative;border:2px solid #e9eaea;padding:38px 24px 20px}
+.phone-pill {position:absolute;top:0;left:50%;transform:translate(-50%,-52%);white-space:nowrap;background:var(--brand);border-radius:25px;padding:9px 14px;color:white;font-weight:650}
+.orion-contact .brand img {width:min(225px,100%)}
+.orion .copyright {text-align:center}
+.footer-search.search {display:block;width:100%;height:auto;padding:0;background:none}
+.footer-search.search input {background:#eee;height:40px;padding:8px}
+.footer-search.search button {background:var(--brand);color:white;padding:8px 18px;margin-top:8px}
+.foot-support {display:flex;align-items:center;gap:clamp(20px,4vw,60px);padding:28px 3vw;border-bottom:1px solid #8293b677}
+.foot-support strong {font-size:23px}
+.foot-support small {display:block;color:#bcceef}
+.foot-support>a:last-child {margin-left:auto}
+.sniper-one .foot-columns {grid-template-columns:repeat(4,minmax(0,1fr));padding:36px 3vw}
+.sniper-one .foot-columns h2 {color:#abc7fb;font-size:23px}
+.sniper-one .facebook,.celestin .facebook {background:white}
+.sniper-one .facebook::after,.celestin .facebook::after {color:#142e54}
+.pay-strip {display:flex;align-items:center;justify-content:center;gap:26px}
+@media(max-width:840px){
+  .chrome-utility {font-size:11px}
+  .mast-inner {gap:12px}
+  .orion .foot-columns {grid-template-columns:1.3fr 1fr 1fr}
+  .celestin .foot-columns {padding-left:6vw}
+}
+@media(max-width:680px){
+  .chrome-utility,.mast .lang,.mast-link,.celestin-nav,.celestin .action-icon,.celestin .mast .account,.orion .mast .account,.orion .mast .search {display:none}
+  .store-notice {font-size:12px;padding:6px}
+  .celestin .store-notice,.orion .store-notice {display:none}
+  .mast-inner,.sniper-one .mast-inner {display:flex;flex-wrap:wrap;min-height:60px;padding:8px 14px;gap:6px 12px}
+  .mast .mobile-toggle {display:inline-flex}
+  .celestin .mast .brand,.orion .mast .brand,.sniper-one .mast .brand {margin-right:auto}
+  .celestin .mast .cart-btn span,.orion .mast .cart-btn span,.sniper-one .mast .cart-btn span {display:none}
+  .celestin .mast .brand img {width:92px}
+  .orion .mast .cart-btn {padding:6px 8px}
+  .sniper-one .mast .search {flex:0 0 100%;height:37px}
+  .sniper-one .portrait {flex-basis:86%;aspect-ratio:.74}
+  .sniper-one .portrait strong {font-size:24px}
+  .celestin .banners,.orion .banners {display:block}
+  .celestin .spot,.orion .spot {margin-bottom:12px;min-height:145px}
+  .celestin .lead {min-height:220px}
+  .orion .lead {min-height:200px}
+  .orion .lead>div {width:72%}
+  .foot-columns,.orion .foot-columns,.celestin .foot-columns,.sniper-one .foot-columns {display:block;padding:24px 16px}
+  .foot-columns>section {margin-bottom:25px}
+  .celestin .foot-columns>section {padding-bottom:16px;border-bottom:1px solid #555}
+  .celestin .copyright {padding-left:16px}
+  .orion .foot-columns>section:not(:first-child) {padding-top:0}
+  .news-band,.foot-support {display:block}
+  .news-band {margin:0 12px 20px;padding:20px}
+  .demo-news {max-width:100%;margin-top:15px}
+  .foot-support>div,.foot-support>a {display:block;margin-top:12px}
+  .pay-strip {flex-wrap:wrap;gap:12px}
+  .checkout-foot {flex-wrap:wrap;gap:8px 14px}
+}

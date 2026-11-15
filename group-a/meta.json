@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "apollo",
+    "name": "Apollo",
+    "price": "4 990 Kč jednorázově bez DPH",
+    "description": "Celoplošný banner, vzdušná světlá hlavička a produktové bloky pod sebou.",
+    "source": "https://doplnky.shoptet.cz/sablona-apollo",
+    "demo": "https://apollo.jakubtursky.sk/"
+  },
+  {
+    "slug": "merkur",
+    "name": "Merkur",
+    "price": "4 990 Kč jednorázově bez DPH",
+    "description": "Výrazné vyhledávání, hlavní banner se dvěma menšími a kompaktní produktové karty.",
+    "source": "https://doplnky.shoptet.cz/sablona-merkur",
+    "demo": "https://merkur.paxio.cz/"
+  },
+  {
+    "slug": "jupiter",
+    "name": "Jupiter",
+    "price": "5 990 Kč jednorázově bez DPH",
+    "description": "Tmavá navigace, pojmenované záložky bannerů a nákupní lišta v detailu.",
+    "source": "https://doplnky.shoptet.cz/sablona-jupiter",
+    "demo": "https://jupiter.paxio.cz/"
+  },
+  {
+    "slug": "adamin",
+    "name": "Adamin",
+    "price": "3 990 Kč jednorázově bez DPH",
+    "description": "Zelená fixní navigace, hustší přehled kategorií a rozbalovací košík.",
+    "source": "https://doplnky.shoptet.cz/sablona-adamin",
+    "demo": "https://adamin.shoptetak.cz/"
+  }
+]

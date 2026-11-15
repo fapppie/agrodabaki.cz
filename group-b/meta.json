@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "jaspis",
+    "name": "Classic Jaspis",
+    "price": "1 990 Kč jednorázově bez DPH",
+    "description": "Oranžové akcenty a trvalý sloupec kategorií vedle hlavního banneru. Úprava základní šablony Classic.",
+    "source": "https://doplnky.shoptet.cz/uprava-sablony-classic-jaspis",
+    "demo": "https://jaspis.shoptetak.cz/"
+  },
+  {
+    "slug": "apeti-clear",
+    "name": "Apeti Clear",
+    "price": "3 990 Kč jednorázově bez DPH",
+    "description": "Světlá hlavička spojuje logo, menu a košík v jedné řadě. Celou šířku pod ní využívá fotografie s úvodní nabídkou.",
+    "source": "https://doplnky.shoptet.cz/sablona-apeti-clear",
+    "demo": "https://apeti-clear.klubus.cz/"
+  },
+  {
+    "slug": "apeti-standard",
+    "name": "Apeti Standard",
+    "price": "3 990 Kč jednorázově bez DPH",
+    "description": "Vyhledávání uprostřed hlavičky, samostatná barevná lišta kategorií a široké prezentační bannery.",
+    "source": "https://doplnky.shoptet.cz/sablona-apeti-standard",
+    "demo": "https://apeti-standard.klubus.cz/"
+  },
+  {
+    "slug": "tmavy-vzhled",
+    "name": "Tmavý vzhled šablony",
+    "price": "1 990 Kč jednorázově bez DPH",
+    "description": "Barevný doplněk pro stávající šablonu. Ukázka kombinuje Classic s tmavou paletou podle srovnávacího snímku autora.",
+    "source": "https://doplnky.shoptet.cz/tmavy-vzhled-sablony",
+    "demo": "https://classic.shoptet.cz/",
+    "demoLabel": "Původní šablona Classic"
+  }
+]
