@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# ACTIVE 24 předává protokol návštěvníka v hlavičce X-Forwarded-Proto.
+RewriteCond %{HTTP:X-Forwarded-Proto} !^https$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www\.agrodabaki\.cz(:[0-9]+)?$ [NC]
+RewriteRule ^ https://agrodabaki.cz%{REQUEST_URI} [R=301,L,NE]

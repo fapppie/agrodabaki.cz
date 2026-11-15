@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Agro Dabaki — porovnání rozcestníků</title>
+  <style>
+    * { box-sizing: border-box }
+    body { margin: 0; background: #f4f2e9; color: #20281d; font: 16px/1.5 system-ui, sans-serif }
+    main { max-width: 1600px; margin: auto; padding: clamp(24px, 5vw, 88px) }
+    header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #bbbdb1; padding-bottom: 18px }
+    .brand { font: bold italic 22px Georgia, serif }
+    h1 { margin: 8vh 0 5vh; font: 500 clamp(42px, 6vw, 94px)/1.02 Georgia, serif; letter-spacing: -.05em }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(18px, 2.5vw, 42px) }
+    a { color: inherit; text-decoration: none; display: block }
+    a:focus-visible { outline: 3px solid #496a39; outline-offset: 6px }
+    img { display: block; width: 100%; aspect-ratio: 1.55; object-fit: cover; object-position: top; border: 1px solid #c4c6b8 }
+    h2 { margin: 18px 0 6px; font-size: 24px; letter-spacing: -.04em }
+    p { margin: 0; max-width: 38ch; color: #495142 }
+    .go { display: inline-block; margin-top: 18px; border-bottom: 1px solid; font-weight: 650 }
+    a:hover .go { color: #477239 }
+    @media(max-width:760px) { .grid {grid-template-columns: 1fr; gap: 38px} h1 {margin: 40px 0 28px} }
+  </style>
+</head>
+<body><main>
+  <header><span class="brand">Agro Dabaki</span><span>agrodabaki.cz</span></header>
+  <h1>Dvě nové podoby rozcestníku</h1>
+  <div class="grid">
+    <a href="panorama/index.html"><img src="media/panorama.jpg" alt="Panorama se dvěma fotografiemi přes šířku stránky"><h2>Panorama</h2><p>Tmavě zelený úvod a dvě velké fotografie vedle sebe.</p><span class="go">Otevřít návrh ↗</span></a>
+    <a href="katalog/index.html"><img src="media/katalog.jpg" alt="Světlý katalog se dvěma vodorovnými nabídkami"><h2>Polní katalog</h2><p>Dva přehledné řádky s fotografií, popisem a vstupem do obchodu.</p><span class="go">Otevřít návrh ↗</span></a>
+    <a href="rozcestnik/index.html"><img src="media/rozcestnik.jpg" alt="Současná podoba webu"><h2>Původní Rozcestník</h2><p>Předchozí varianta pro srovnání.</p><span class="go">Otevřít návrh ↗</span></a>
+  </div>
+</main></body></html>

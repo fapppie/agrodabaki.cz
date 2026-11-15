@@ -1,0 +1,25 @@
+:root { --ink:#14271e; --paper:#f1f2e8; }
+body { background:var(--ink); color:var(--paper); }
+.top { margin:0 var(--gutter); border-bottom:1px solid #87988a; padding-block:18px; }
+.brand { color:#17231a; }
+.intro { padding-block:clamp(28px,4vw,65px); align-items:center; }
+.intro h1 { font:normal clamp(50px,5.7vw,100px)/.95 Georgia,serif; letter-spacing:-.055em; }
+.intro p { padding-left:19px; border-left:2px solid var(--yellow); max-width:340px; font-size:17px; }
+.shop-grid { gap:2px; margin:0; }
+.shop-card { min-height:clamp(380px,38vw,660px); }
+.shop-card::before { background:linear-gradient(0deg,#08170fee 0%,#0b21177a 42%,transparent 78%); }
+.action-arrow { display:none; }
+.card-text { width:100%; padding:clamp(20px,3vw,60px); }
+.card-text h2 { font:500 clamp(36px,4.2vw,72px)/1.05 Georgia,serif; letter-spacing:-.055em; }
+.card-text h2 br { display:none; }
+.card-text h2 br::after { content:' '; }
+.shop-card .action-line { margin-top:18px; color:var(--ink); background:var(--yellow); border:0; padding:10px 17px; border-radius:30px; }
+.company { background:var(--paper); color:var(--ink); margin:0; padding-inline:var(--gutter); }
+.company h2,footer h2 { font:normal clamp(36px,4vw,72px)/1 Georgia,serif; letter-spacing:-.04em; }
+footer { border-top:1px solid #829486; }
+@media(max-width:760px){
+  .intro p { margin-top:16px; }
+  .shop-card { min-height:285px; }
+  nav { gap:14px; }
+}
+@media(max-width:370px){ nav a:first-child {display:none;} }
