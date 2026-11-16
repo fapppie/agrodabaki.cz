@@ -1,0 +1,2710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 12,2 m (334017P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;5 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027_4.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000026</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>22.02. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000026.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000027</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000027.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 15,25 m (335017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;6 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029_4.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000028</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000028.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000029</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000029.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m (336017P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;7 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031_4.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000030</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>189900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000030.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000031</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>189900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000031.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m (338017P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;9 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033_4.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000032</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>229900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>16.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000032.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000033</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>229900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>02.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000033.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 21,35 m (337017P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;8 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000227.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000227_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000227_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000226</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>209900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>08.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000226.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000227</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>209900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000227.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 24,4 m (408021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;9 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 3405kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388_6.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000229</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>309900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>26.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000229.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000388</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>309900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000388.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 21,3 m (407021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;8 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 3144kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000238.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000238_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000238_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000238_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>21,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000238</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>289900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>26.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 30,5 m (4010021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;11 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 4105kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000239.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000239_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000239_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000239_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000389.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000389_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000389_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000389_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000239</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>369900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000239.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000389</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>369900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000389.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 36,6 m (401202DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;13 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí, Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 4785kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000240.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000240_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000240_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000240_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>36,6 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000240</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>419900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 24,4 m (508023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;9 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 5135kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000242.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000242_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000242_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000242_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000242_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000242</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>439900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 30,5 m (5010023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;11 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Hmotnost 5696 kg&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 5878kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000243.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000243_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000243_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000243_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000243_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000243</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>529900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 6,1 m (SP202012P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 390kg&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;FOTO je ilustrační, hala je celá bílá&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 390kg&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;FOTO je ilustrační, hala je celá zelená&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000260.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000260_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000260_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000260_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000253</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>39900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000253.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000260</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>39900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000260.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 9,15 m (SP203012P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 510kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá bílá&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 510kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá zelená&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000261.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000261_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000261_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000261_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000254</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>49900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000254.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000261</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>49900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000261.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 12,2 m (SP204012P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,8m 630kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá bílá&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,8m 630kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá zelená&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000262.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000262_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000262_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000262_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000255</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>61900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000255.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000262</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>61900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000262.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 9,15 m (303020DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Hmotnost balení 1160kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá zelená Hmotnost balení 1160kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000256.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000256_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000256_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000256_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000263.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000263_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000263_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000263_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000256</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>139900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000256.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000263</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>139900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000263.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 12 m (304020DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Hmotnost balení 1350kg&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá zelená Hmotnost balení 1350kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264_4.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000257</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000257.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000264</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000264.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 18,3 m (306020DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;ODOLNÁ plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Hmotnost balení 1660kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;ODOLNÁ plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá zelená Hmotnost balení 1660kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265_5.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000258</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>179900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000258.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000265</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>179900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000265.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 24,4 m (308020DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm Rozpěrné zajištovací trubky: 48 x 1,5 mm Vrata 4,25m x 3,95m Průjezdová výška - 3,95m Výška stěny 3,6m Oblouková rozteč - 3,050m ODOLNÁ plachta 900g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Hmotnost balení 2100kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;ODOLNÁ plachta 900g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá zelená Hmotnost balení 2100kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266_5.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000259</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>219900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000259.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000266</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>219900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000266.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 12 m s bočním vstupem (P334020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 5,7m x 3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,- Foto ilustrační&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000267_8.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000267</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>219000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m s bočním vstupem (P336020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 5,7m x 3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,- Foto ilustrační&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000268_8.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000268</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>289000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m s bočním vstupem (P338020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 5,7m x 3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,- Foto ilustrační&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000269_8.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000269</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>329000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>31.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 12,2 m (PP334020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000287.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000287_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000287_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000287</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>179900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m (PP336020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000288.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000288_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000288_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000288</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>219900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m (PP338020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000289.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000289_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000289_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000289</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>279900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 9,76 m s dvojitou konstrukcí (203216DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat spedici Geis na dobírku ale pouze externí spedicí. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 916kg&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat spedici Geis na dobírku ale pouze externí spedicí. Při odběru v našem skladu SLEVA - 4000,- Hmotnost balení 916kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000296.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000296_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000296_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000370.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000370_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000296</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>94900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000296.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000370</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>94900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.02. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000370.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 12,2 m s dvojitou konstrukcí (204016DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- Hmotnost balení 1050kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 1050kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000298.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000298_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000298_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000299.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000299_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000299_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000298</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>104900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000298.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000299</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>104900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000299.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 17 m s dvojitou konstrukcí (205616DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladu SLEVA 4000,- Hmotnost balení 1317kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 1317kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000300.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000300_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000300_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000301.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000301_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000300</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>124900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000300.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000301</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>124900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000301.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 19,52 m s dvojitou konstrukcí (206416DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 1429kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000302.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000302_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000302_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000303.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000303_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000302</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>134900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000302.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000303</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>134900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000303.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 15,25 m (305020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- Hmotnost balení 1530kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000304.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000304_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000304_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000319.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000319_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000319_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000319_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000304</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000304.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000319</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000319.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 15,25 m (SP205012P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm Rozpěrné zajišťovací trubky 40 x 1,2 mm Zipová vrata 4,3m x 3,2m Plachta 750g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení: 2,2m x 0,8m x 0,9m 750kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá bílá&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení: 2,2m x 0,8m x 0,9m 750kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000306.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000306_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000306_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000306_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000374.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000374_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000374_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000306</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>72900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000306.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000374</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>72900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000374.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 21,35 m (307020DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;ODOLNÁ plachta 900g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- Hmotnost balení 1850kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm Rozpěrné zajištovací trubky: 48 x 1,5 mm Vrata 4,25m x 3,95m Průjezdová výška - 3,95m Výška stěny 3,6m Oblouková rozteč - 3,050m ODOLNÁ plachta 900g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- Hmotnost balení 1850kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000309.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000309_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000309_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000321.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000321_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000321_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000309</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>199900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000309.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000321</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>199900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000321.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 14,64 m s dvojitou konstrukcí (204816DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- Hmotnost balení 1250kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000322.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000322_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000323.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000323_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000322</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>114900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000322.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000323</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>114900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000323.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 30,5 m (3010020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,25m x 3,95m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,95m&lt;/p&gt;&lt;p&gt;Výška stěny 3,6m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;ODOLNÁ plachta 900g/m2 Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Hmotnost balení 2500kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000326.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000326_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000326_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000326</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>259900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>31.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 9,15 m (333017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;4 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000327.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000327_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000425.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000425_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000327</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>129900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000327.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000425</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>129900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000425.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 7,32 m s dvojitou konstrukcí (202416DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat spedici Geis na dobírku ale pouze externí spedicí. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 800 kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000339.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000339_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000340.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000340_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000339</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>84900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000339.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000340</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>84900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>01.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000340.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 24,4 m s dvojitou konstrukcí (208016DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 1729kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5 mm&lt;/p&gt;&lt;p&gt;Výška boční stěny - 3m&lt;/p&gt;&lt;p&gt;Navijáková rolovací vrata 3,8m x 3m&lt;/p&gt;&lt;p&gt;Plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Při odběru v našem skladě SLEVA - 4000,- Hmotnost balení 1729kg Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat spedici Geis na dobírku ale pouze externí spedicí.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000341.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000341_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000341_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000342.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000341</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>144900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000341.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000342</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>144900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000342.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 18,3 m (SP206012P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení: 2,2m x 0,8m x 0,9m 950kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá bílá&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení: 2,2m x 0,8m x 0,9m 950kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000345.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000345_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000345_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000345_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000377.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000377_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000377_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000345</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>84900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000345.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000377</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>84900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000377.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 27,45 m (339017P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;10 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000348.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000348_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000348_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000426.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000426_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000348</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>249900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000348.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000426</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>249900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000426.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 9,15 m (263017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,3m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000349.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000349_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>8 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000349</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>124900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>19.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 12,2 m (264017DP)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,3m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,3m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá v barvě vojenská zelená Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000350.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000350_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000350_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000378.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000378_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000378_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000378_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000350</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>139900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000350.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000378</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>139900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000378.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 27,45 m (269017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,3m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000355.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000355_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000355_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>8 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>27,45 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000355</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>239900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 30,5 m (2610017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,3m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,3m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- FOTO je ilustrační, hala je celá bílá Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000356.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000356_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000356_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>8 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000356</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>259900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 15,25 m (PP335020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000362.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000362_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000362_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000362</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>199900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 21,35 m (507023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;8 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 4750 kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000365.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000365_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000365_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>21,35 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000365</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>409900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>29.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 30,5 m (PP3310020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000368.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000368_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000368</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>339900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>26.02. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 18,3 m (506023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;7 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;&lt;p&gt;Hmotnost balení 4350 kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000369.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000369_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000369_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000369</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>369900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 12,2 m (404021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran jsou ovládané pomocí navijáku&lt;/p&gt;&lt;p&gt;5 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava ZDARMA!&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000385.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000385_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000385_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000385_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000371</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>209900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000371.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000385</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>209900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000385.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 27,45 m (409021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran jsou ovládané pomocí navijáku&lt;/p&gt;&lt;p&gt;10 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava ZDARMA!&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000372.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000372_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000372_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000372_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000372_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>27,45 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000372</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>339900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 33,55 m (4011021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran jsou ovládané pomocí navijáku&lt;/p&gt;&lt;p&gt;12 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava ZDARMA!&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000373.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000373_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000373_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000373_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000373_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>33,55 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000373</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>389900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 33,55 m (3311017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny 320cm&lt;/p&gt;&lt;p&gt;Nosné oblouky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 360 cm&lt;/p&gt;&lt;p&gt;Výška vrat 360 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;12 setů - rozteč 305 cm.&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000375.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000375_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000375_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000375_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>33,55 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000375</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>284900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 15,25 m (505023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;6 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000390.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000390_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000390_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000390_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000390</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>339900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>26.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 9,15 m (403021DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 300cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 400 cm&lt;/p&gt;&lt;p&gt;Výška vrat 400 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran jsou ovládané pomocí navijáku&lt;/p&gt;&lt;p&gt;4 sety - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava ZDARMA!&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000392.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000392_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000392_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000392_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000392</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>189900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 18,3 × 24,4 m (608025DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;11 setů - rozteč 244cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000397.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000397_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000397_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000397_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000397</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>549000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 18,3 × 31,72 m (6011025DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;14 setů - rozteč 244cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000398.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000398_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>31,72 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000398</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>699000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 18,3 × 36,6 m (6012025DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;16 setů - rozteč 244cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000399.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000399_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>36,6 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000399</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>749000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 27,45 m (509023DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Výška stěny: 350cm&lt;/p&gt;&lt;p&gt;Nosné oblouky: 60 x 1,8 mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajištovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 550 cm&lt;/p&gt;&lt;p&gt;Výška vrat 480 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran&lt;/p&gt;&lt;p&gt;10 setů - rozteč 305cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;ODOLNÁ PLACHTA - 900g/m2&lt;/p&gt;&lt;p&gt;Doprava po domluvě&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000406.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>27,45 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000406</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>469900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 9,15 m (PP333020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000407.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000407</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>159900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 33,55 m (PP3311020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 5000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000408.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>33,55 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000408</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>359900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 36,6 m (PP3312020DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 60 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 4,26m x 4,26m&lt;/p&gt;&lt;p&gt;Výška stěny 3,66m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. ODOLNÁ PLACHTA - 900g/m2 Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000409.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>36,6 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000409</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>379900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 7,62 m (SP202512P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 450kg&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000410.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000411.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000411_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000411_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000410</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>44900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000410.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000411</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>44900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000411.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 10,67 m (SP203512P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 560kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,6m 550kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000412.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000413.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000413_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000413_2.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000412</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>56900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000412.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000413</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>56900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000413.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 7 × 9,15 m (233017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,2m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,2m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000414.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000414_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000414_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000414_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>7 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000414</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>119900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 7 × 12,2 m (234017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,2m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,2m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000415.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000415_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000415_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000415_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>7 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000415</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>134900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 7 × 15,25 m (235017DP)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 48 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky: 48 x 1,5 mm&lt;/p&gt;&lt;p&gt;Vrata 3,66m x 3,2m&lt;/p&gt;&lt;p&gt;Průjezdová výška - 3,2m&lt;/p&gt;&lt;p&gt;Výška stěny 3,2m&lt;/p&gt;&lt;p&gt;Oblouková rozteč - 3,050m&lt;/p&gt;&lt;p&gt;Odolná plachta 900g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Vrata z obou stran. Při odběru v našem skladu SLEVA 4000,- Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000416.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000416_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000416_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000416_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Provedení plachty</NAME>
+        <VALUE>Bílá · 900 g/m²</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>7 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000416</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>154900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 13,72 m (SP204512P)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,8m 730kg Při odběru v našem skladě SLEVA 2000,- FOTO je ilustrační, hala je celá zelená&lt;/p&gt;&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2,2m x 0,7m x 0,8m 730kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000422.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000421</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>67900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000421.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000422</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>67900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000422.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 16,78 m (SP205512P)</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Zipová vrata 4,3m x 3,2m&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení: 2,2m x 0,8m x 0,9m 850kg Při odběru v našem skladě SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Sedlové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000424.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000423</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>79900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000423.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000424</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>79900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000424.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

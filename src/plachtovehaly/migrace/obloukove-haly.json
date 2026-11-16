@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1000010",
+    "name": "Oblouková hala 6,1 × 9,15 m (203012 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000011",
+    "name": "Oblouková hala 6,1 × 9,15 m (203012 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit jednotku tloušťky profilu."
+  },
+  {
+    "id": "1000013",
+    "name": "Oblouková hala 6,1 × 12,8 m (204212 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000014",
+    "name": "Oblouková hala 6,1 × 12,8 m (204212 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000016",
+    "name": "Oblouková hala 6,1 × 18,3 m (206012 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000017",
+    "name": "Oblouková hala 6,1 × 18,3 m (206012 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000279",
+    "name": "Oblouková hala 9,15 × 12 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000280",
+    "name": "Oblouková hala 9,15 × 20 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000281",
+    "name": "Oblouková hala 9,15 × 26 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000282",
+    "name": "Oblouková hala 9,15 × 12 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000283",
+    "name": "Oblouková hala 9,15 × 20 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000284",
+    "name": "Oblouková hala 9,15 × 26 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000317",
+    "name": "Oblouková hala 9,15 × 16 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000318",
+    "name": "Oblouková hala 9,15 × 16 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000324",
+    "name": "Oblouková hala 9,15 × 30 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000325",
+    "name": "Oblouková hala 9,15 × 30 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000337",
+    "name": "Oblouková hala 6,1 × 14,64 m (204812 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000338",
+    "name": "Oblouková hala 6,1 × 14,64 m (204812 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 650 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": false,
+    "reason": ""
+  },
+  {
+    "id": "1000346",
+    "name": "Oblouková hala 9,15 × 40 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit počet oblouků u délky 40 m."
+  },
+  {
+    "id": "1000347",
+    "name": "Oblouková hala 9,15 × 40 m s navijákem",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 900 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit počet oblouků u délky 40 m."
+  },
+  {
+    "id": "1000417",
+    "name": "Oblouková hala 6,1 × 10,98 m (203612 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit jednotku tloušťky profilu."
+  },
+  {
+    "id": "1000418",
+    "name": "Oblouková hala 6,1 × 10,98 m (203612 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit jednotku tloušťky profilu."
+  },
+  {
+    "id": "1000419",
+    "name": "Oblouková hala 6,1 × 16,47 m (205412 R)",
+    "category": "Obloukové haly",
+    "variant": "Vojenská zelená · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit jednotku tloušťky profilu."
+  },
+  {
+    "id": "1000420",
+    "name": "Oblouková hala 6,1 × 16,47 m (205412 R)",
+    "category": "Obloukové haly",
+    "variant": "Bílá · 750 g/m²",
+    "parameter": "Provedení plachty",
+    "hold": true,
+    "reason": "Ověřit jednotku tloušťky profilu."
+  }
+]

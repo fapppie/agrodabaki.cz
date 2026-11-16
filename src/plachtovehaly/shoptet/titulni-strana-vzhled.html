@@ -1,0 +1,77 @@
+<!-- Dabaki: titulní strana -->
+<style>
+
+.dh-hero,.dabaki-home {--dh-green:#007655;--dh-ink:#344d46}
+.dh-hero {display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);grid-template-rows:1fr 1fr;gap:12px;height:clamp(330px,34vw,475px);margin:12px 0 24px;text-align:left}
+.dh-feature {grid-row:span 2;position:relative;min-width:0}
+.dh-banner {position:relative;display:flex!important;align-items:flex-end;isolation:isolate;overflow:hidden;background:#344d46;color:white!important;text-decoration:none!important}
+.dh-feature .dh-banner {height:100%}
+.dh-feature .dh-secondary,.dh-feature .dh-banner[hidden] {display:none!important}
+.dh-feature .dh-secondary:not([hidden])[data-active] {display:flex!important}
+.dh-banner img {position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.dh-banner:after {content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,23,14,.78),rgba(10,23,14,.12) 80%);z-index:-1}
+.dh-caption {display:block;padding:clamp(20px,3.3vw,52px);max-width:90%}
+.dh-caption strong {display:block;color:white;font-size:clamp(28px,3.6vw,56px);line-height:1.05;letter-spacing:-.035em}
+.dh-side .dh-caption {padding:clamp(16px,2vw,32px)}
+.dh-side strong {font-size:clamp(20px,2vw,32px)}
+.dh-action {display:inline-block;margin-top:14px;padding:8px 15px;background:var(--dh-green);color:white;font-size:14px;font-weight:700}
+.dh-banner:hover .dh-action,.dh-banner:focus-visible .dh-action {background:#344d46}
+.dh-pager {position:absolute;right:14px;bottom:14px;display:flex;gap:5px}
+.dh-pager button {background:#fff;color:#344d46;border:0;width:39px;height:39px;line-height:1;font-size:23px}
+.dabaki-home {text-align:center}
+.dabaki-home h2 {color:var(--dh-ink);font-size:clamp(24px,2.5vw,36px);margin:16px 0 24px}
+.dh-categories {display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:14px}
+.dh-categories a {display:block;text-decoration:none!important;color:var(--dh-ink);font-weight:700}
+.dh-categories img {display:block;width:100%;aspect-ratio:1.55;object-fit:cover;margin-bottom:9px}
+.dh-categories a:hover span {text-decoration:underline}
+.dh-guide {margin:38px 0 24px;padding:26px 15px;background:#eff7f4}
+.dh-guide h2 {margin:0 0 7px}.dh-guide p {margin:0 0 12px}.dh-guide a {font-weight:bold;color:#007655}
+.welcome:has(.dabaki-home) {max-width:none;width:100%}
+.welcome:has(.dabaki-home)>[data-testid=eshopHeader] {display:none}
+@media(max-width:900px){.dh-categories{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:650px){
+.dh-hero {height:auto;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:auto auto;gap:6px;margin:8px 0 16px}
+.dh-feature {grid-column:1/-1;grid-row:auto;height:clamp(220px,64vw,330px)}
+.dh-side {min-height:145px}.dh-side .dh-caption {padding:12px}.dh-side strong{font-size:20px}
+.dh-action {font-size:12px;padding:6px 10px}.dh-caption{padding:20px;max-width:100%}
+.dh-feature strong{max-width:90%}.dh-pager{bottom:10px;right:10px}.dh-pager button{width:32px;height:32px}
+.dh-categories{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 10px}
+}
+.dh-selection {margin-top:42px}
+.dh-products {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;text-align:left}
+.dh-products a {display:block;border:1px solid #dce9e4;padding:12px;color:var(--dh-ink);text-decoration:none!important}
+.dh-products img {display:block;width:100%;aspect-ratio:1.5;object-fit:contain}
+.dh-products strong {display:block;margin:12px 0 6px;font-size:18px;line-height:1.25}
+.dh-products span {color:#007655;font-weight:bold}
+@media(max-width:760px){.dh-products{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.dh-products strong{font-size:15px}}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const hero = document.querySelector('.dabaki-home .dh-hero');
+  const main = document.querySelector('main#content');
+  if (!hero) return;
+  if (main) main.prepend(hero);
+  const feature = hero.querySelector('.dh-feature');
+  const slides = Array.from(feature.querySelectorAll('.dh-banner'));
+  if (slides.length !== 2) return;
+  const pager = document.createElement('div');
+  pager.className = 'dh-pager';
+  let active = 0;
+  slides[1].hidden = true;
+  for (const [label, sign, step] of [['Předchozí nabídka', '‹', -1], ['Další nabídka', '›', 1]]) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.setAttribute('aria-label', label);
+    button.textContent = sign;
+    button.addEventListener('click', function () {
+      slides[active].hidden = true;
+      active = (active + step + slides.length) % slides.length;
+      slides[active].hidden = false;
+      slides[active].setAttribute('data-active', '');
+    });
+    pager.append(button);
+  }
+  feature.append(pager);
+});
+</script>
+<!-- /Dabaki: titulní strana -->

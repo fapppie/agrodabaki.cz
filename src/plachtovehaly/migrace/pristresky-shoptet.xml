@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal, šířka 4 m</NAME>
+    <SHORT_DESCRIPTION>Vojensky zelený přístřešek s hrazením je vysoký 3,15 m. Vyberte si délku 4 nebo 6 m.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Rozteč oblouků 2 m. Nosné oblouky - oválný průřez 60 × 1,8 mm. Spoje oblouku 40 × 1,5 mm. Hrazení 40 × 1,2 mm. Plachta 750 g/m².&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 4 m&lt;/strong&gt;&lt;br&gt;Rozměry: 4 m x 4 m x 3,15 m. Rozměry balení 2,2 m x 1,1 m x 0,55 m 450 kg.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 6 m&lt;/strong&gt;&lt;br&gt;Rozměry: 4 m x 6 m x 3,15 m. Rozměry balení 2,2 m x 1,1 m x 0,55 m 550 kg.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Přístřešky pro zvířata</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000251.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000251_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000379.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000379_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>4 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3,15 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000251</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>44900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000251.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>4 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000379</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>49900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000379.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal, šířka 6 m</NAME>
+    <SHORT_DESCRIPTION>Přístřešek s hrazením má výšku 3,7 m a vstup 2 × 2 m. Vyrábí se ve třech délkách.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Rozteč oblouků 2 m. Nosné oblouky - oválný průřez 60 × 1,8 mm. Spoje oblouku 40 × 1,5 mm. Hrazení 40 × 1,2 mm. Plachta 750 g/m². Šířka vstupu 2 m. Výška vstupu 2 m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 6 m&lt;/strong&gt;&lt;br&gt;Rozměry: 6 m x 6 m x 3,7 m. Rozměry balení 3 m x 1 m x 1,15 m 750 kg.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 8 m&lt;/strong&gt;&lt;br&gt;Rozměry: 6 m x 8 m x 3,7 m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 10 m&lt;/strong&gt;&lt;br&gt;Rozměry: 6 m x 10 m x 3,7 m.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Přístřešky pro zvířata</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3,7 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000252</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>64900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000332</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>74900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>8 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000333</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>84900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal, šířka 8 m</NAME>
+    <SHORT_DESCRIPTION>Vojensky zelený přístřešek má výšku 4 m a plachtu 900 g/m². Vyberte si délku 8, 10 nebo 12 m.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Rozteč oblouků 2 m. Nosné oblouky - oválný průřez 60 × 1,8 mm. Spoje oblouku 40 × 1,5 mm. Hrazení 40 × 1,2 mm. Plachta 900 g/m².&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 8 m&lt;/strong&gt;&lt;br&gt;Rozměry: 8 m x 8 m x 4 m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 10 m&lt;/strong&gt;&lt;br&gt;Rozměry: 8 m x 10 m x 4 m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Délka – 12 m&lt;/strong&gt;&lt;br&gt;Rozměry: 8 m x 12 m x 4 m.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Přístřešky pro zvířata</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000400.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000401.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000295</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>96900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>8 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000400</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>104900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000400.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000401</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>114900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000401.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal 10 × 10 m</NAME>
+    <SHORT_DESCRIPTION>Přístřešek je vysoký 4,5 m a má vstup široký 2,44 m a vysoký 2 m.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Rozměry: 10 m x 10 m x 4,5 m. Rozteč oblouků 2,44 m. Nosné oblouky - oválný průřez 60 × 1,8 mm. Spoje oblouku 40 × 1,5 mm. Hrazení 40 × 1,2 mm. Plachta 900 g/m². Šířka vstupu 2,44 m. Výška vstupu 2 m.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Přístřešky pro zvířata</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000334.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000334_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>10 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000334</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>149900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>29.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal 12 × 12 m</NAME>
+    <SHORT_DESCRIPTION>Vojensky zelený přístřešek pro zvířata o výšce 5 m.</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Přístřešky pro zvířata</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000360.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000360_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000360</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>199900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 6 × 6 m (C2020)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 2 m a plachtu 750 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 45 × 1,5 mm. Rozpěrné zajišťovací trubky 32 × 1,2 mm. Rozteč obloukových setů - 1,2 m. Plachta - 750 g/m².&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Barva plachty – Bílá&lt;/strong&gt;&lt;br&gt;Zadní stěna součástí.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Barva plachty – Vojenská zelená&lt;/strong&gt;&lt;br&gt;Zadní stěna součástí. Vstup pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000285.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000285_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000366.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000394</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>2 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000285</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>44900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000285.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000366</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>44900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000366.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 6 × 12 m (C2040)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 2 m a plachtu 750 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 45 × 1,5 mm. Rozpěrné zajišťovací trubky 32 × 1,2 mm. Rozteč obloukových setů - 1,2 m. Plachta - 750 g/m².&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Barva plachty – Bílá&lt;/strong&gt;&lt;br&gt;Zadní stěna součástí.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Barva plachty – Vojenská zelená&lt;/strong&gt;&lt;br&gt;Zadní stěna součástí. Vstup pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000286.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000286_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000367.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000394</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>2 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000286</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>64900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000286.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000367</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>64900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000367.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 8 × 6 m (C2620)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 3 m a plachtu 750 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 × 1,8 mm. Rozpěrné zajišťovací trubky 40 × 1,5 mm. Rozteč obloukových setů - 1 m. Plachta - 750 g/m². Zadní stěna součástí.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000344.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000344_1.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000395</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000344</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>64900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 10 × 6 m (C3320S)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 3,6 m a plachtu 900 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dvojitá konstrukce. Nosné oblouky - 60 × 1,5 mm. Rozpěrné zajišťovací trubky 48 × 1,5 mm. Rozteč obloukových setů - 3 m. Plachta - 900 g/m². Zadní stěna součástí.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000329.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000393</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>10 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3,6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000329</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>99900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 10 × 12 m (C3340S)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 3,6 m a plachtu 900 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dvojitá konstrukce. Přední stěna otevřená. Zadní stěna zavřená se vstupem pro osobu. Rozestup oblouků 2 m. Nosné oblouky - 60 × 1,5 mm. Rozpěrné zajišťovací trubky 48 × 1,5 mm.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000402.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000393</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>10 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3,6 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000402</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>144900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 15 × 12 m (C5040S)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 4,5 m a plachtu 900 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dvojitá konstrukce. Nosné oblouky - 60 × 1,8 mm. Rozpěrné zajišťovací trubky 60 × 1,5 mm. Rozteč obloukových setů - 2 m. Plachta - 900 g/m². Přední stěna součástí včetně navijákových vrat. Zadní stěna součástí se vstupem pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000404.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>15 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000404</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>309900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>08.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 18 × 12 m (C6040S)</NAME>
+    <SHORT_DESCRIPTION>Přístřešek mezi lodní kontejnery má výšku 4,5 m a plachtu 900 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dvojitá konstrukce. Nosné oblouky - 60 × 1,8 mm. Rozpěrné zajišťovací trubky 60 × 1,5 mm. Rozteč obloukových setů - 2 m. Plachta - 900 g/m². Přední stěna součástí včetně navijákových vrat. Zadní stěna součástí se vstupem pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000405.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>18 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000405</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>349900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 8 × 12 m (C2640)</NAME>
+    <SHORT_DESCRIPTION>Bílé zastřešení s výškou 3 m a zadní stěnou. Vyberte si rozteč nosných oblouků.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 60 × 1,8 mm. Rozpěrné zajišťovací trubky 40 × 1,5 mm. Plachta - 750 g/m². Zadní stěna součástí.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rozteč oblouků – 1 m&lt;/strong&gt;&lt;br&gt;Rozteč obloukových setů - 1 m.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rozteč oblouků – 2 m&lt;/strong&gt;&lt;br&gt;Rozteč obloukových setů - 2 m.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000343.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000343_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000380.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000395</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000343</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>99900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000343.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Rozteč oblouků</NAME><VALUE>1 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000380</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>76900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000380.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Rozteč oblouků</NAME><VALUE>2 m</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 12 × 12 m (C4040), otevřené</NAME>
+    <SHORT_DESCRIPTION>Jednoduchá konstrukce s otevřeným čelem a vstupem pro osobu v zadní stěně.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Jednoduchá konstrukce. Nosné oblouky - 60 × 1,5 mm. Rozpěrné zajišťovací trubky 76 × 1,8 mm. Rozteč obloukových setů - 2 m. Plachta - 900 g/m². Přední stěna otevřená. Zadní stěna součástí se vstupem pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000396.jpg</IMAGE>
+    </IMAGES>
+    <ALTERNATIVE_PRODUCTS><CODE>1000403</CODE></ALTERNATIVE_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000396</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>189900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 12 × 12 m (C4040), s vraty</NAME>
+    <SHORT_DESCRIPTION>Dvojitá konstrukce má přední stěnu s vraty na naviják a zadní stěnu se vstupem pro osobu.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dvojitá konstrukce. Nosné oblouky - 60 × 1,5 mm. Rozpěrné zajišťovací trubky 76 × 1,8 mm. Rozteč obloukových setů - 2 m. Plachta - 900 g/m². Přední stěna součástí včetně navijákových vrat. Zadní stěna součástí se vstupem pro osobu.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Zastřešení lodních kontejnerů</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000403.jpg</IMAGE>
+    </IMAGES>
+    <ALTERNATIVE_PRODUCTS><CODE>1000396</CODE></ALTERNATIVE_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000403</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>219900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>30.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plachtová garáž pro karavan 4,3 × 9,2 × 4,3 m (143014R)</NAME>
+    <SHORT_DESCRIPTION>Bílá garáž pro obytný vůz má na obou čelech vrata 3,2 × 3,3 m.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 45 × 1,5 mm. Rozpěrné zajišťovací trubky 42 × 1,2 mm. Rozměr vrat: 3,2 m x 3,3 m. Plachta - 750 g/m². Vrata z obou stran přístřešku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Plachtové garáže</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_3.jpg</IMAGE>
+    </IMAGES>
+    <ALTERNATIVE_PRODUCTS><CODE>1000294</CODE></ALTERNATIVE_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>4,3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>9,2 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>4,3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000293</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>49900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plachtová garáž pro karavan 4,3 × 9,2 × 5 m (143016R)</NAME>
+    <SHORT_DESCRIPTION>Garáž s vraty 4 × 4 m na obou čelech se dodává se zelenou nebo šedou plachtou.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - 45 × 1,5 mm. Rozpěrné zajišťovací trubky 42 × 1,2 mm. Rozměr vrat: 4 m x 4 m. Plachta - 750 g/m². Vrata z obou stran přístřešku.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Plachtové garáže</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_3.jpg</IMAGE>
+    </IMAGES>
+    <ALTERNATIVE_PRODUCTS><CODE>1000293</CODE></ALTERNATIVE_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>4,3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>9,2 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>750 g/m²</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000294</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>54900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000357</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>54900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Šedá</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plachtová garáž pro auto 3,66 × 6,1 m (122008R)</NAME>
+    <SHORT_DESCRIPTION>Garáž vysoká 2,44 m má vrata 3,15 × 1,90 m. Kotvicí prvky jsou součástí balení.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 42 × 1,2 mm. Rozpěrné zajišťovací trubky - 28 × 1 mm. Šířka vrat 315 cm. Výška vrat 190 cm. 6x obloukových setů - rozteč 122 cm. Součástí balení jsou kotvící prvky. Nový typ kotvení. Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta. Rozměry balení 2 m x 0,6 m x 0,6 m 150 kg.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Plachtové garáže</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000358.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000358_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>3,66 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>6,1 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>2,44 m</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000358</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>24900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000358.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000359</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>24900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plachtová garáž pro autobus a nákladní vůz 5,5 × 15 m</NAME>
+    <SHORT_DESCRIPTION>Garáž s výškou 5,8 m má vrata 3,6 × 4,2 m a plachtu 900 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;šířka: 5,5 m. délka: 15,0 m. výška: 5,8 m. Nosné oblouky - 60 × 1,8 mm. Rozpěrné zajišťovací trubky 40 × 1,5 mm. Vrata : 3,6 m x 4,2 m. Plachta 900 g/m².&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Plachtové garáže</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>5,5 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>15 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>5,8 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000363</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>147900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000376</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>147900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376.jpg</IMAGE_REF>
+        <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přední čelo s vraty pro zastřešení C33S, šířka 10 m</NAME>
+    <SHORT_DESCRIPTION>Čelo s vraty ovládanými navijákem je určeno pro řadu C33S.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Plachta 900 g/m².&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Příslušenství ke kontejnerům</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000393.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000329</CODE><CODE>1000402</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Gramáž plachty</NAME><VALUE>900 g/m²</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000393</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>26900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přední čelo s vraty pro zastřešení C20, šířka 6 m</NAME>
+    <SHORT_DESCRIPTION>Čelo v vojenské zelené barvě s vraty ovládanými navijákem je určeno pro řadu C20.</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Příslušenství ke kontejnerům</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000394.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000285</CODE><CODE>1000286</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000394</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>16900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přední čelo s vraty pro zastřešení C26, šířka 8 m</NAME>
+    <SHORT_DESCRIPTION>Čelo v bílé barvě s vraty ovládanými navijákem je určeno pro řadu C26.</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Příslušenství ke kontejnerům</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000395.jpg</IMAGE>
+    </IMAGES>
+    <RELATED_PRODUCTS><CODE>1000344</CODE><CODE>1000343</CODE></RELATED_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000395</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>21900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nájezdová rampa do kontejneru PD08B, nosnost 6 t</NAME>
+    <SHORT_DESCRIPTION>Rampa s protiskluzovým povrchem má šířku 2 m, délku 1,8 m a výšku 20 cm. Součástí jsou řetězy s háky.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nájezdová rampa vhodná do lodních kontejnerů. Výška 20 cm. Šířka 200 cm. Délka 180 cm. Nosnost 6 tun. Protiskluzový povrch. Řetězy s háky součástí. Otvory pro vidle.&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES><DEFAULT_CATEGORY>Příslušenství ke kontejnerům</DEFAULT_CATEGORY></CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364_2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000364</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>18900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+</SHOP>

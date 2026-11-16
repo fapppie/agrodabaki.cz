@@ -5,3 +5,11 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+/accesses.txt
+/.wexbo-cache/
+
+/.idea/
+__pycache__/
+*.pyc
+__MACOSX/
+._*

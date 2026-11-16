@@ -1,17 +1,14 @@
-# Plachtové haly Agro Dabaki
+# Agro Dabaki
 
-Připravujeme přechod [stávajícího e-shopu](https://www.plachtovehaly-agrodabaki.cz/) na Shoptet. Vedení vybralo šablonu **Adamin**. V této složce jsou lokální ukázky a podklady pro přípravu obchodu. Nastavení skutečného e-shopu probíhá v administraci Shoptetu.
+Tento repozitář předává dva samostatně provozované weby. **agrodabaki.cz** je statická firemní prezentace. **plachtovehaly.agrodabaki.cz** je e-shop provozovaný v Shoptetu.
 
-**Kde navázat:** [plán přechodu a otevřené otázky](docs/plan.md). Pokyny pro práci v repozitáři jsou v [AGENTS.md](AGENTS.md).
+Začněte v [rozcestníku podle úkolu](docs/README.md). [PLAN](docs/PLAN.md) uvádí stav migrace a zbývající práci. Pro Codex platí [pravidla projektu](AGENTS.md).
 
-## Lokální náhled
+| Projekt | Kód a podklady | Provoz |
+| --- | --- | --- |
+| Firemní web | [Produkční soubory](src/agrodabaki/web/) · [návrhy](src/agrodabaki/navrhy/) | [Lokální náhled, SFTP a obnova](docs/agrodabaki/NASAZENI.md) |
+| Plachtové haly | [Úpravy Shoptetu](src/plachtovehaly/shoptet/) · [migrační nástroje](src/plachtovehaly/tools/) · [galerie návrhů](src/plachtovehaly/ukazky/index.html) | [Správa Shoptetu a nasazení](docs/plachtovehaly/ADMINISTRACE.md) |
 
-Otevři [ukázku Adaminu](group-a/adamin/index.html) v prohlížeči. Pro srovnání ostatních variant otevři [galerii šablon](index.html). Ukázky používají statické HTML, CSS a JavaScript. Košík slouží k vyzkoušení nákupu.
+## První otevření u nového správce
 
-| Umístění | Co tam najdeš |
-| --- | --- |
-| `group-a/adamin/` | Vstupní stránka vybrané varianty. Styly, vykreslení obchodu a košík sdílí s dalšími ukázkami ve složce `group-a/`. |
-| `group-b/`, `group-c/` | Další varianty z výběru šablony. |
-| [shared/catalog.js](shared/catalog.js) | Ukázkové produkty včetně ID, původních URL, parametrů a odkazů na fotografie. |
-| `assets/`, `reference/` | Produktové fotografie a logo, respektive referenční snímky šablon. |
-| `Plachtove-Haly-ukazky/`, `Plachtove-Haly-ukazky.zip` | Samostatná kopie ukázek a archiv pro předání. Pracovní soubory jsou v kořeni projektu. |
+Otevřete kořen tohoto repozitáře v Codexu, aby se načetla pravidla AGENTS.md. Pro lokální prohlížení stačí prohlížeč; jednoduchý HTTP server lze spustit pomocí Pythonu 3. Pro generování importů navíc potřebujete knihovnu lxml. Přihlášení do Shoptetu, přístup k ACTIVE 24 a SFTP převezměte od majitele samostatně. Adresář .wexbo-cache obsahuje lokální exporty a pracovní pokusy z migrace. Pro nové prostředí se potřebný export pořizuje znovu podle návodu k danému úkolu.

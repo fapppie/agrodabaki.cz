@@ -1,0 +1,2501 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="734">
+    <NAME>Oblouková hala s navijákem</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000279</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000280</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>20 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000281</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>26 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000282</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000283</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>20 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000284</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>26 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000317</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>16 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000318</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>16 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000324</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000325</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="44">
+    <NAME>Oblouková hala se zipovými vraty</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000013</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,8 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000014</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,8 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000016</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000017</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000335</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000336</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000337</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000338</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="710">
+    <NAME>Plachtová garáž pro auto (122008R)</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000358</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>3,66 × 6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000359</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>3,66 × 6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="713">
+    <NAME>Plachtová garáž pro autobus a nákladní vůz</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000363</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>5,5 × 15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000376</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>5,5 × 15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="707">
+    <NAME>Plachtová garáž pro karavan</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000293</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Výška</NAME>
+            <VALUE>4,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>4,3 × 9,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000294</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Výška</NAME>
+            <VALUE>5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>4,3 × 9,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000357</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Šedá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Výška</NAME>
+            <VALUE>5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Půdorys</NAME>
+            <VALUE>4,3 × 9,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="233">
+    <NAME>Sedlová hala řady 23</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000414</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>7 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000415</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>7 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000416</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>7 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="164">
+    <NAME>Sedlová hala řady 26</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000349</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000350</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000355</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000356</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000378</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="92">
+    <NAME>Sedlová hala řady 30</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000256</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000257</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000258</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000259</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000263</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000264</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000265</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000266</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000304</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000309</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000319</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000321</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000326</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="50">
+    <NAME>Sedlová hala řady 33</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000026</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000027</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000028</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000029</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000030</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000031</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000032</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000033</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000226</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000227</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000327</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000348</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000375</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>33,55 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000425</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000426</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="203">
+    <NAME>Sedlová hala řady 40</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000229</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000238</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000239</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000240</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>36,6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000371</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000372</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000373</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>33,55 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000385</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000388</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000389</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000392</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="200">
+    <NAME>Sedlová hala řady 50</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000242</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000243</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000365</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000369</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000390</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000406</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="206">
+    <NAME>Sedlová hala řady 60</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000397</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000398</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>31,72 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000399</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>36,6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="113">
+    <NAME>Sedlová hala řady PP</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000287</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000288</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000289</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000362</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000368</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000407</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000408</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>33,55 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000409</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>36,6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="104">
+    <NAME>Sedlová hala s bočním vstupem</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000267</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000268</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000269</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="152">
+    <NAME>Sedlová hala s dvojitou konstrukcí</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000296</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,76 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000298</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000299</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000300</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>17 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000301</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>17 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000302</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>19,52 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000303</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>19,52 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000322</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000323</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000339</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,32 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000340</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,32 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000341</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000342</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000370</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,76 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="83">
+    <NAME>Sedlová hala SP</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000253</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000254</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000255</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000260</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000261</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000262</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000306</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000345</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000374</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000377</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000410</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>7,62 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000411</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>7,62 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000412</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>10,67 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000413</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>10,67 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000421</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>13,72 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000422</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>13,72 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000423</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>16,78 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000424</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka haly</NAME>
+            <VALUE>16,78 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="674">
+    <NAME>Zastřešení kontejnerů C20</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000285</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000286</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000366</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000367</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="695">
+    <NAME>Zastřešení kontejnerů C26</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000343</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Rozteč oblouků</NAME>
+            <VALUE>1 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000344</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Rozteč oblouků</NAME>
+            <VALUE>1 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000380</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Rozteč oblouků</NAME>
+            <VALUE>2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="683">
+    <NAME>Zastřešení kontejnerů C33S</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000329</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000402</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="689">
+    <NAME>Zastřešení kontejnerů s navijákovými vraty</NAME>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000404</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Hloubka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000405</CODE>
+        <VISIBLE>1</VISIBLE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>18 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Hloubka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

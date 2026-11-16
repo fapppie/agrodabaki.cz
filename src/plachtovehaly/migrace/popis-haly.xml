@@ -1,0 +1,1552 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="734">
+    <NAME>Oblouková hala s navijákem, šířka 9,15 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Vrata široká 3,5 m a vysoká 3,9 m se otevírají navijákem. Nosné oblouky mají oválný profil 70 × 42 × 2 mm a rozteč 2 m. Spojují je rozpěrné trubky 40 × 1,5 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m². Barevná provedení: bílá, vojenská zelená.</p><p>U délky 16 m jsou rolovací vrata na obou čelech.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Počet oblouků</th><th scope="col">Balení</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">12 m</th><td>7</td><td>3 × 0,8 × 0,8 m</td><td>1000 kg</td></tr><tr><th scope="row">16 m</th><td>9</td><td>3 × 1,15 × 0,8 m</td><td>1460 kg</td></tr><tr><th scope="row">20 m</th><td>11</td><td>3 × 0,8 × 0,8 m</td><td>1560 kg</td></tr><tr><th scope="row">26 m</th><td>14</td><td>3 × 0,8 × 0,8 m</td><td>1930 kg</td></tr><tr><th scope="row">30 m</th><td>16</td><td>3 × 0,8 × 0,8 m</td><td>2250 kg</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=zOuIQbBkT1I">Podívejte se, jak probíhá montáž plachtové haly (video na YouTube)</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000279</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000280</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>20 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000281</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>26 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000282</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000283</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>20 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000284</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>26 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000317</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>16 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000318</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>16 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000324</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000325</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="44">
+    <NAME>Oblouková hala se zipovými vraty, šířka 6,1 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Na obou čelech jsou zipová vrata o rozměru 4,3 × 3,1 m. Průjezdná výška je 3 m. Oválné oblouky 70 × 42 × 1,5 mm mají rozteč 1,83 m a spojují je rozpěrné trubky 40 × 1,2 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel.</p><p>Provedení 7,3 m je vysoké 3,66 m.</p><p>Pro délky 12,8 m, 14,64 m a 18,3 m se hala dodává na jednorázové paletě. Dopravce ji složí hydraulickým čelem.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th><th scope="col">Počet oblouků</th><th scope="col">Balení</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">7,3 m</th><td>202412 R</td><td>bílá · 650 g/m², vojenská zelená · 750 g/m²</td><td>5</td><td>—</td><td>—</td></tr><tr><th scope="row">12,8 m</th><td>204212 R</td><td>bílá · 750 g/m², vojenská zelená · 750 g/m²</td><td>8</td><td>2,2 × 0,8 × 0,8 m</td><td>540 kg</td></tr><tr><th scope="row">14,64 m</th><td>204812 R</td><td>bílá · 750 g/m², vojenská zelená · 650 g/m²</td><td>9</td><td>2,2 × 0,8 × 0,8 m</td><td>650 kg</td></tr><tr><th scope="row">18,3 m</th><td>206012 R</td><td>bílá · 750 g/m², vojenská zelená · 750 g/m²</td><td>11</td><td>2,2 × 0,8 × 0,8 m</td><td>740 kg</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=zOuIQbBkT1I">Podívejte se, jak probíhá montáž plachtové haly (video na YouTube)</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000013</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,8 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000014</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,8 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000016</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000017</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000335</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 650 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>7,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000336</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>7,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000337</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>14,64 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000338</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 650 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>14,64 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="707">
+    <NAME>Plachtová garáž pro karavan 4,3 × 9,2 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Garáž pro karavan má půdorys 4,3 × 9,2 m a vrata na obou čelech. Nosné oblouky 45 × 1,5 mm a rozpěrné trubky 42 × 1,2 mm nesou plachtu o gramáži 750 g/m². Výšku garáže zvolte podle rozměrů vozu a potřebného průjezdu.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Výška</th><th scope="col">Model</th><th scope="col">Barva plachty</th><th scope="col">Vrata (š × v)</th></tr></thead><tbody><tr><th scope="row">4,3 m</th><td>143014R</td><td>bílá</td><td>3,2 × 3,3 m</td></tr><tr><th scope="row">5 m</th><td>143016R</td><td>vojenská zelená, šedá</td><td>4 × 4 m</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000293</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER><PARAMETER><NAME>Výška</NAME><VALUE>4,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000294</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER><PARAMETER><NAME>Výška</NAME><VALUE>5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000357</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Šedá</VALUE></PARAMETER><PARAMETER><NAME>Výška</NAME><VALUE>5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="233">
+    <NAME>Sedlová hala řady 23, šířka 7 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Sedlová hala široká 7 m má boční stěnu vysokou 3,2 m. Vrata o šířce 3,66 m umožňují průjezd do výšky 3,2 m. Nosné oblouky i rozpěrné trubky mají rozměr 48 × 1,5 mm. Rozteč oblouků je 3,05 m. Plachta má gramáž 900 g/m². Barva plachty: bílá.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>233017DP</td></tr><tr><th scope="row">12,2 m</th><td>234017DP</td></tr><tr><th scope="row">15,25 m</th><td>235017DP</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000414</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000415</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000416</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="164">
+    <NAME>Sedlová hala řady 26, šířka 8 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Do osmimetrové haly se vjíždí vraty o šířce 3,66 m a průjezdné výšce 3,3 m. Boční stěna dosahuje 3,2 m. Nosné oblouky i rozpěrné trubky mají rozměr 48 × 1,5 mm, oblouky jsou od sebe vzdálené 3,05 m. Plachta má gramáž 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>263017DP</td><td>bílá</td></tr><tr><th scope="row">12,2 m</th><td>264017DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">27,45 m</th><td>269017DP</td><td>bílá</td></tr><tr><th scope="row">30,5 m</th><td>2610017DP</td><td>bílá</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000349</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000350</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000355</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>27,45 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000356</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000378</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="92">
+    <NAME>Sedlová hala řady 30, šířka 9,15 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Vrata mají šířku 4,25 m a průjezdnou výšku 3,95 m. Hala je široká 9,15 m a boční stěna měří 3,6 m. Nosné oblouky 48 × 1,5 mm stojí v rozteči 3,05 m. Stejný rozměr mají i rozpěrné trubky. Plachta má gramáž 900 g/m².</p><p>U bílé haly délky 12 m jsou součástí balení kotvicí prvky, hlavní plachta a obě čela. Balení váží 1 350 kg.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>303020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">12 m</th><td>304020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">15,25 m</th><td>305020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">18,3 m</th><td>306020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">21,35 m</th><td>307020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">24,4 m</th><td>308020DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">30,5 m</th><td>3010020DP</td><td>bílá</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000256</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000257</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000258</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000259</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000263</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000264</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000265</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000266</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000304</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000309</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,35 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000319</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000321</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,35 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000326</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="50">
+    <NAME>Sedlová hala řady 33, šířka 10 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Desetimetrová hala má na obou čelech vrata 3,6 × 3,6 m a boční stěny vysoké 3,2 m. Nosné oblouky i rozpěrné trubky mají rozměr 48 × 1,5 mm. Rozteč oblouků činí 3,05 m. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th><th scope="col">Počet oblouků</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>333017DP</td><td>bílá, vojenská zelená</td><td>4</td></tr><tr><th scope="row">12,2 m</th><td>334017P</td><td>bílá, vojenská zelená</td><td>5</td></tr><tr><th scope="row">15,25 m</th><td>335017DP</td><td>bílá, vojenská zelená</td><td>6</td></tr><tr><th scope="row">18,3 m</th><td>336017P</td><td>bílá, vojenská zelená</td><td>7</td></tr><tr><th scope="row">21,35 m</th><td>337017P</td><td>bílá, vojenská zelená</td><td>8</td></tr><tr><th scope="row">24,4 m</th><td>338017P</td><td>bílá, vojenská zelená</td><td>9</td></tr><tr><th scope="row">27,45 m</th><td>339017P</td><td>bílá, vojenská zelená</td><td>10</td></tr><tr><th scope="row">33,55 m</th><td>3311017DP</td><td>bílá</td><td>12</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=zOuIQbBkT1I">Podívejte se, jak probíhá montáž plachtové haly (video na YouTube)</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000026</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000027</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000028</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000029</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000030</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000031</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000032</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000033</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000226</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,35 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000227</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,35 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000327</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000348</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>27,45 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000375</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>33,55 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000425</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000426</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>27,45 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="203">
+    <NAME>Sedlová hala řady 40, šířka 12,2 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Hala široká 12,2 m má na obou čelech vrata 4 × 4 m. Boční stěna je vysoká 3 m. Nosné oblouky a rozpěrné trubky mají rozměr 60 × 1,5 mm. Oblouky jsou v rozteči 3,05 m. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th><th scope="col">Počet oblouků</th><th scope="col">Ovládání vrat</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>403021DP</td><td>bílá</td><td>4</td><td>naviják</td><td>—</td></tr><tr><th scope="row">12,2 m</th><td>404021DP</td><td>bílá, vojenská zelená</td><td>5</td><td>naviják</td><td>—</td></tr><tr><th scope="row">21,3 m</th><td>407021DP</td><td>bílá</td><td>8</td><td>—</td><td>3144 kg</td></tr><tr><th scope="row">24,4 m</th><td>408021DP</td><td>bílá, vojenská zelená</td><td>9</td><td>—</td><td>3405 kg</td></tr><tr><th scope="row">27,45 m</th><td>409021DP</td><td>bílá</td><td>10</td><td>naviják</td><td>—</td></tr><tr><th scope="row">30,5 m</th><td>4010021DP</td><td>bílá, vojenská zelená</td><td>11</td><td>—</td><td>4105 kg</td></tr><tr><th scope="row">33,55 m</th><td>4011021DP</td><td>bílá</td><td>12</td><td>naviják</td><td>—</td></tr><tr><th scope="row">36,6 m</th><td>401202DP</td><td>bílá</td><td>13</td><td>—</td><td>4785 kg</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000229</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000238</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000239</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000240</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>36,6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000371</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000372</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>27,45 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000373</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>33,55 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000385</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000388</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000389</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000392</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="200">
+    <NAME>Sedlová hala řady 50, šířka 15,25 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Vrata o šířce 5,5 m a výšce 4,8 m umožňují vjezd z obou čel. Boční stěna je vysoká 3,5 m. Nosné oblouky 60 × 1,8 mm mají rozteč 3,05 m a jsou spojené rozpěrnými trubkami 60 × 1,5 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m². Barva plachty: bílá.</p><p>Hala o délce 30,5 m váží bez balení 5 696 kg.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Počet oblouků</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">15,25 m</th><td>505023DP</td><td>6</td><td>—</td></tr><tr><th scope="row">18,3 m</th><td>506023DP</td><td>7</td><td>4350 kg</td></tr><tr><th scope="row">21,35 m</th><td>507023DP</td><td>8</td><td>4750 kg</td></tr><tr><th scope="row">24,4 m</th><td>508023DP</td><td>9</td><td>5135 kg</td></tr><tr><th scope="row">27,45 m</th><td>509023DP</td><td>10</td><td>—</td></tr><tr><th scope="row">30,5 m</th><td>5010023DP</td><td>11</td><td>5878 kg</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000242</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000243</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000365</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>21,35 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000369</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000390</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000406</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>27,45 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="206">
+    <NAME>Sedlová hala řady 60, šířka 18,3 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Sedlová hala široká 18,3 m má boční stěnu vysokou 3,5 m. Na obou čelech jsou vrata 5,5 × 4,8 m. Nosné oblouky 60 × 1,8 mm jsou od sebe vzdálené 2,44 m. Rozpěrné trubky mají rozměr 60 × 1,5 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m². Barva plachty: bílá.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Počet oblouků</th></tr></thead><tbody><tr><th scope="row">24,4 m</th><td>608025DP</td><td>11</td></tr><tr><th scope="row">31,72 m</th><td>6011025DP</td><td>14</td></tr><tr><th scope="row">36,6 m</th><td>6012025DP</td><td>16</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000397</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000398</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>31,72 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000399</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>36,6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="113">
+    <NAME>Sedlová hala řady PP, šířka 10 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Hala řady PP má vrata 4,26 × 4,26 m, boční stěny vysoké 3,66 m a šířku 10 m. Rozteč nosných oblouků činí 3,05 m. Oblouky i rozpěrné trubky mají rozměr 60 × 1,5 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m². Barva plachty: bílá.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>PP333020DP</td></tr><tr><th scope="row">12,2 m</th><td>PP334020DP</td></tr><tr><th scope="row">15,25 m</th><td>PP335020DP</td></tr><tr><th scope="row">18,3 m</th><td>PP336020DP</td></tr><tr><th scope="row">24,4 m</th><td>PP338020DP</td></tr><tr><th scope="row">30,5 m</th><td>PP3310020DP</td></tr><tr><th scope="row">33,55 m</th><td>PP3311020DP</td></tr><tr><th scope="row">36,6 m</th><td>PP3312020DP</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000287</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000288</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000289</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000362</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000368</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>30,5 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000407</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000408</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>33,55 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000409</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>36,6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="104">
+    <NAME>Sedlová hala s bočním vstupem, šířka 10 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Do desetimetrové haly s bočním vstupem vedou vrata o šířce 5,7 m a výšce 3 m. Boční stěna měří 3,66 m. Oblouky 60 × 1,5 mm stojí po 3,05 m a spojují je rozpěrné trubky stejného rozměru. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Fotografie jsou ilustrační. Plachta má gramáž 900 g/m². Barva plachty: bílá.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">12 m</th><td>P334020DP</td></tr><tr><th scope="row">18,3 m</th><td>P336020DP</td></tr><tr><th scope="row">24,4 m</th><td>P338020DP</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000267</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000268</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000269</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="152">
+    <NAME>Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Sedlová hala s dvojitou konstrukcí má šířku 6,1 m a boční stěnu vysokou 3 m. Rolovací vrata 3,8 × 3 m se otevírají navijákem. Nosné oblouky i rozpěrné trubky mají rozměr 40 × 1,5 mm. Plachta má gramáž 900 g/m². Barevná provedení: bílá, vojenská zelená.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">7,32 m</th><td>202416DP</td></tr><tr><th scope="row">9,76 m</th><td>203216DP</td></tr><tr><th scope="row">12,2 m</th><td>204016DP</td></tr><tr><th scope="row">14,64 m</th><td>204816DP</td></tr><tr><th scope="row">17 m</th><td>205616DP</td></tr><tr><th scope="row">19,52 m</th><td>206416DP</td></tr><tr><th scope="row">24,4 m</th><td>208016DP</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000296</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,76 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000298</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000299</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000300</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>17 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000301</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>17 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000302</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>19,52 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000303</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>19,52 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000322</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>14,64 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000323</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>14,64 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000339</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>7,32 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000340</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>7,32 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000341</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000342</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>24,4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000370</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 900 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>9,76 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="83">
+    <NAME>Sedlová hala SP šířky 6,1 m – výběr délky a barvy</NAME>
+    <DESCRIPTION><![CDATA[<p>Sedlová hala řady SP má šířku 6,1 m a zipová vrata 4,3 × 3,2 m. Plachtu nesou oválné oblouky 70 × 42 × 1,5 mm s rozpěrnými trubkami 40 × 1,2 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Fotografie jsou ilustrační. Celá hala má zvolenou barvu plachty. Plachta má gramáž 750 g/m². Barevná provedení: bílá, vojenská zelená.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Balení</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">6,1 m</th><td>SP202012P</td><td>2,2 × 0,7 × 0,6 m</td><td>390 kg</td></tr><tr><th scope="row">7,62 m</th><td>SP202512P</td><td>2,2 × 0,7 × 0,6 m</td><td>450 kg</td></tr><tr><th scope="row">9,15 m</th><td>SP203012P</td><td>2,2 × 0,7 × 0,6 m</td><td>510 kg</td></tr><tr><th scope="row">10,67 m</th><td>SP203512P</td><td>2,2 × 0,7 × 0,6 m</td><td>560 kg (bílá), 550 kg (vojenská zelená)</td></tr><tr><th scope="row">12,2 m</th><td>SP204012P</td><td>2,2 × 0,7 × 0,8 m</td><td>630 kg</td></tr><tr><th scope="row">13,72 m</th><td>SP204512P</td><td>2,2 × 0,7 × 0,8 m</td><td>730 kg</td></tr><tr><th scope="row">15,25 m</th><td>SP205012P</td><td>2,2 × 0,8 × 0,9 m</td><td>750 kg</td></tr><tr><th scope="row">16,78 m</th><td>SP205512P</td><td>2,2 × 0,8 × 0,9 m</td><td>850 kg</td></tr><tr><th scope="row">18,3 m</th><td>SP206012P</td><td>2,2 × 0,8 × 0,9 m</td><td>950 kg</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000253</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>6,1 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000254</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000255</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000260</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>6,1 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000261</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>9,15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000262</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>12,2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000306</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000345</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000374</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>15,25 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000377</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>18,3 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000410</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>7,62 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000411</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>7,62 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000412</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>10,67 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000413</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>10,67 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000421</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>13,72 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000422</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>13,72 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000423</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Vojenská zelená · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>16,78 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000424</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení plachty</NAME><VALUE>Bílá · 750 g/m²</VALUE></PARAMETER><PARAMETER><NAME>Délka haly</NAME><VALUE>16,78 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="674">
+    <NAME>Zastřešení kontejnerů C20, šířka 6 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Zastřešení pro prostor široký 6 m mezi kontejnery je vysoké 2 m. Plachtu 750 g/m² nesou oblouky 45 × 1,5 mm v rozteči 1,2 m. Rozpěrné trubky mají rozměr 32 × 1,2 mm. Zadní stěna je součástí obou barevných provedení. Vojensky zelená varianta má v zadní stěně vstup pro osobu. Barevná provedení: bílá, vojenská zelená.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">6 m</th><td>C2020</td></tr><tr><th scope="row">12 m</th><td>C2040</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000285</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000286</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000366</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000367</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="695">
+    <NAME>Zastřešení kontejnerů C26, šířka 8 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Bílé zastřešení široké 8 m je vysoké 3 m a dodává se se zadní stěnou. Plachtu 750 g/m² nesou oblouky 60 × 1,8 mm s rozpěrnými trubkami 40 × 1,5 mm. U délky 12 m lze zvolit také rozteč nosných oblouků.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Rozteč oblouků</th></tr></thead><tbody><tr><th scope="row">6 m</th><td>C2620</td><td>1 m</td></tr><tr><th scope="row">12 m</th><td>C2640</td><td>1 m, 2 m</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000343</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER><PARAMETER><NAME>Rozteč oblouků</NAME><VALUE>1 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000344</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Rozteč oblouků</NAME><VALUE>1 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000380</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER><PARAMETER><NAME>Rozteč oblouků</NAME><VALUE>2 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="683">
+    <NAME>Zastřešení kontejnerů C33S, šířka 10 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Bílé zastřešení široké 10 m má dvojitou konstrukci, výšku 3,6 m a zadní stěnu. Nosné oblouky 60 × 1,5 mm spojují rozpěrné trubky 48 × 1,5 mm. Gramáž plachty je 900 g/m².</p><p>U modelu C3340S je přední čelo otevřené a v zadní stěně je vstup pro osobu.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Rozteč oblouků</th></tr></thead><tbody><tr><th scope="row">6 m</th><td>C3320S</td><td>3 m</td></tr><tr><th scope="row">12 m</th><td>C3340S</td><td>2 m</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000329</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000402</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="689">
+    <NAME>Zastřešení kontejnerů s navijákovými vraty, hloubka 12 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Bílé zastřešení o hloubce 12 m a výšce 4,5 m má vpředu navijáková vrata a vzadu stěnu se vstupem pro osobu. Dvojitou konstrukci tvoří nosné oblouky 60 × 1,8 mm v rozteči 2 m a rozpěrné trubky 60 × 1,5 mm. Gramáž plachty je 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Šířka</th><th scope="col">Model</th></tr></thead><tbody><tr><th scope="row">15 m</th><td>C5040S</td></tr><tr><th scope="row">18 m</th><td>C6040S</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000404</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>15 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000405</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>18 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

@@ -1,0 +1,3382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Příkopový mulčovač AGE 125</NAME>
+    <SHORT_DESCRIPTION>Odlehčený příkopový mulčovač vhodný pro lehké traktory.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Rozměry balení: 1,7m x 1,2m x 0,7m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…63s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kW8DGxMisw8&amp;amp;t=63s"&gt;https://www.youtube.com/…63s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000035</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000034_5.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>125 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>240 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>20</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ne</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>22</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000034</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>41900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Příkopový mulčovač AGE 145</NAME>
+    <SHORT_DESCRIPTION>Odlehčený příkopový mulčovač vhodný pro lehké traktory.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Rozměry balení: 1,9m x 1m x 0,8m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video při práci stroje:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…63s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kW8DGxMisw8&amp;amp;t=63s"&gt;https://www.youtube.com/…63s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000034</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000035.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000035_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000035_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000035_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>145 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>290 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>30</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ne</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>24</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000035</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>43900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 140 PRO</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení 1,9m x 1m x 0,9m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…UnU&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3NBOQ_NNUnU"&gt;https://www.youtube.com/…UnU&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000037</CODE>
+      <CODE>1000038</CODE>
+      <CODE>1000039</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000036_5.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>140 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>550 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>50</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>12</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000036</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>59900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 160 PRO</NAME>
+    <SHORT_DESCRIPTION>Mulčovače série AGF PRO jsou vylepšeným typem oproti BCRH. Jsou určeny pro práci ve složitých terénních podnímkách. Jsou dostatečně přediménzovány. Pevná, robustní konstrukce. Jedná se stroje určené pro profesionální využití. Hlavní výhodou oproti staršímu modelu BCRH je otevírací zadní víko pro snadnější a rychlejší mulčování.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení: 2,1m x 1m x 0,9m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…UnU&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3NBOQ_NNUnU"&gt;https://www.youtube.com/…UnU&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000036</CODE>
+      <CODE>1000038</CODE>
+      <CODE>1000039</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>160 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>590 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>50</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>14</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000037</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>71900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 180 PRO</NAME>
+    <SHORT_DESCRIPTION>Mulčovače série AGF PRO jsou vylepšeným typem oproti BCRH. Jsou určeny pro práci ve složitých terénních podnímkách. Jsou dostatečně přediménzovány. Pevná, robustní konstrukce. Jedná se stroje určené pro profesionální využití. Hlavní výhodou oproti staršímu modelu BCRH je otevírací zadní víko pro snadnější a rychlejší mulčování.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení: 2,3m x 1m x 0,9m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…UnU&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3NBOQ_NNUnU"&gt;https://www.youtube.com/…UnU&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000036</CODE>
+      <CODE>1000037</CODE>
+      <CODE>1000039</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000038.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000038_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>180 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>630 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>70</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>16</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000038</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>82000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 200 PRO</NAME>
+    <SHORT_DESCRIPTION>Mulčovače série AGF PRO jsou vylepšeným typem oproti BCRH. Jsou určeny pro práci ve složitých terénních podnímkách. Jsou dostatečně přediménzovány. Pevná, robustní konstrukce. Jedná se stroje určené pro profesionální využití. Hlavní výhodou oproti staršímu modelu BCRH je otevírací zadní víko pro snadnější a rychlejší mulčování.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení: 2,5m x 1m x 0,9m&lt;/p&gt;&lt;p&gt;Stroj je dodáván v železném rámu na jednorázové paletě. Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…UnU&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3NBOQ_NNUnU"&gt;https://www.youtube.com/…UnU&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000036</CODE>
+      <CODE>1000037</CODE>
+      <CODE>1000038</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000039_5.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>200 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>670 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>80</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>18</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>4</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000039</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>88000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač pro čtyřkolku ATV 120</NAME>
+    <SHORT_DESCRIPTION>Mulčovače série ATV jsou standardní kladívkové mulčovače s vlastní pohonou jednotkou. Konstrukčně vychází z osvědčených mulčovačů serie EF. Přednostně jsou určeny k používání v agregaci s pracovními čtyřkolkami. Pracovní rychlost je relativně malá, takže jsou vhodnější pro čtyřkolky s přídavnou převodovkou, popř. variátorem, který je schopen pracovat i v malé pojezdové rychlosti.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;U mulčovače ATV je možné vyměnit Y-nože za T-kladiva (20ks)&lt;/p&gt;&lt;p&gt;Kola mulčovače je možné namontovat za stroj pro zúžení celkové šířky stroje.&lt;/p&gt;&lt;p&gt;Motor o výkonu 15 HP.&lt;/p&gt;&lt;p&gt;Rozměry balení 2,1m x 1m x 0,6m&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…L1g&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-Qdl0u7PL1g"&gt;https://www.youtube.com/…L1g&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000041</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000040.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000040</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>39900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač pro čtyřkolku ATV 145 OT</NAME>
+    <SHORT_DESCRIPTION>Mulčovače série ATV jsou standardní kladívkové mulčovače s vlastní pohonou jednotkou. Konstrukčně vychází z osvědčených mulčovačů serie EF. Přednostně jsou určeny k používání v agregaci s pracovními čtyřkolkami. Pracovní rychlost je relativně malá, takže jsou vhodnější pro čtyřkolky s přídavnou převodovkou, popř. variátorem, který je schopen pracovat i v malé pojezdové rychlosti.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;U mulčovače ATV je možné vyměnit Y-nože za T-kladiva (24ks)&lt;/p&gt;&lt;p&gt;Kola mulčovače je možné namontovat za stroj pro zúžení celkové šířky stroje.&lt;/p&gt;&lt;p&gt;Motor o výkonu 15 HP.&lt;/p&gt;&lt;p&gt;Rozměry balení 2,1m x 1m x 0,6m&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…L1g&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-Qdl0u7PL1g"&gt;https://www.youtube.com/…L1g&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000040</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000041.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000041_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000041_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>140 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>320 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>15</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ne</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů</NAME>
+        <VALUE>48</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000041</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>42000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Lesní mulčovač FFM 140</NAME>
+    <SHORT_DESCRIPTION>Tento typ mulčovače je vhodný pro drcení náletů a křovin. Jedná se o kladivový mulčovač určený do těžkých podmínek. Převod je zajištěn 6-ti řemeny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3500,-&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…43s&lt;/p&gt;&lt;p&gt;Rozměry balení 1,8m x 1,2m x 0,8m&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=321aRe_YSOo&amp;amp;t=43s"&gt;https://www.youtube.com/…43s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000046</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000045.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>140 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>850 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>70</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ne</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>24</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>6</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000045</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>122500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Lesní mulčovač FFM 180</NAME>
+    <SHORT_DESCRIPTION>Tento typ mulčovače je vhodný pro drcení náletů a křovin. Jedná se o kladivový mulčovač určený do těžkých podmínek. Převod je zajištěn 6-ti řemeny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3500,-&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…43s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=321aRe_YSOo&amp;amp;t=43s"&gt;https://www.youtube.com/…43s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000045</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000046.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>180 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>1 000 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Pro traktor od (HP)</NAME>
+        <VALUE>100</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Boční hydraulický posuv</NAME>
+        <VALUE>ne</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Zadní otvíratelný kryt</NAME>
+        <VALUE>ano</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet kladiv</NAME>
+        <VALUE>32</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>6</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000046</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>132500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační brány LXG 130</NAME>
+    <SHORT_DESCRIPTION>Rotační brány LXG jsou vhodné pro přípravu půdy před setím jakékoliv plodiny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2500,-&lt;/p&gt;&lt;p&gt;Rozměry balení 1,6m x 1,2m x 0,6m&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…slk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=k5o9YmCTslk"&gt;https://www.youtube.com/…slk&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Rotační brány</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000050</CODE>
+      <CODE>1000051</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000049.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000049_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000049_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000049_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>130 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>20</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>290 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - levé</NAME>
+        <VALUE>6</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - pravé</NAME>
+        <VALUE>6</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000049</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>42000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační brány LXG 170</NAME>
+    <SHORT_DESCRIPTION>Rotační brány LXG jsou vhodné pro přípravu půdy před setím jakékoliv plodiny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Pracovní hloubka až 20cm.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2500,-&lt;/p&gt;&lt;p&gt;Rozměry balení 1,9m x 1,2m x 0,6m&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…slk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=k5o9YmCTslk"&gt;https://www.youtube.com/…slk&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Rotační brány</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000049</CODE>
+      <CODE>1000051</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000050.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000050_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000050_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000050_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>170 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>35</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>330 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - levé</NAME>
+        <VALUE>8</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - pravé</NAME>
+        <VALUE>8</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000050</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>47000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační brány LXG 210</NAME>
+    <SHORT_DESCRIPTION>Rotační brány LXG jsou vhodné pro přípravu půdy před setím jakékoliv plodiny.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Pracovní hloubka až 20cm.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení 2,3m x 1,2m x 0,6m&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…slk&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=k5o9YmCTslk"&gt;https://www.youtube.com/…slk&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Rotační brány</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000049</CODE>
+      <CODE>1000050</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000051_5.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>210 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>45</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>370 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - levé</NAME>
+        <VALUE>10</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů - pravé</NAME>
+        <VALUE>10</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000051</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>47900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 120</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Transportní boxy</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000071</CODE>
+      <CODE>1000072</CODE>
+      <CODE>1000073</CODE>
+      <CODE>1000074</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000070.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000070</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>16900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 140</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Transportní boxy</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000070</CODE>
+      <CODE>1000072</CODE>
+      <CODE>1000073</CODE>
+      <CODE>1000074</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000071.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000071</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>17900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 160</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Transportní boxy</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000070</CODE>
+      <CODE>1000071</CODE>
+      <CODE>1000073</CODE>
+      <CODE>1000074</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000072.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000072_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000072</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>20900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 180</NAME>
+    <SHORT_DESCRIPTION>Pevná konstrukce z vyztuženého ocelového plechu s vysoce odolným hydraulickým výklopným mechanismem. Zesílená podlaha pro odolnost proti opotřebení a s pevnostními vnitřními žebry. Zesílený zadní břit pro snadné samonakládání sypkých materiálů. Velmi silný 3-bodový závěs kat. I nebo II.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Transportní boxy</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000070</CODE>
+      <CODE>1000071</CODE>
+      <CODE>1000072</CODE>
+      <CODE>1000074</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000073.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000073_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000073_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>160 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka ložné plochy</NAME>
+        <VALUE>181 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka ložné plochy</NAME>
+        <VALUE>68 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Nosnost</NAME>
+        <VALUE>700 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000073</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>22990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 200</NAME>
+    <SHORT_DESCRIPTION>Pevná konstrukce z vyztuženého ocelového plechu s vysoce odolným hydraulickým výklopným mechanismem. Zesílená podlaha pro odolnost proti opotřebení a s pevnostními vnitřními žebry. Zesílený zadní břit pro snadné samonakládání sypkých materiálů. Velmi silný 3-bodový závěs kat. I nebo II.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Transportní boxy</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000070</CODE>
+      <CODE>1000071</CODE>
+      <CODE>1000072</CODE>
+      <CODE>1000073</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000074.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000074_1.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>180 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka ložné plochy</NAME>
+        <VALUE>201 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka ložné plochy</NAME>
+        <VALUE>68 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Nosnost</NAME>
+        <VALUE>700 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000074</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>24990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Paletizační vidle Deleks D 300</NAME>
+    <SHORT_DESCRIPTION>Paletizační vidle od italské firmy Deleks jsou univerzálním strojem, který jistě najde mnohostranné uplatnění na každé farmě, nebo na každém hospodářství. Je možno je využít při přepravě jakéhokoliv nákladu, palet, ale i kulatých balíků.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 1000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Paletizační vidle</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000076</CODE>
+      <CODE>1000077</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000075.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>55 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Nosnost</NAME>
+        <VALUE>300 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>15</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka vidlí</NAME>
+        <VALUE>90 cm</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000075</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>9500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Paletizační vidle Deleks D 700</NAME>
+    <SHORT_DESCRIPTION>Paletizační vidle od italské firmy Deleks jsou univerzálním strojem, který jistě najde mnohostranné uplatnění na každé farmě, nebo na každém hospodářství. Je možno je využít při přepravě jakéhokoliv nákladu, palet, ale i kulatých balíků.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 1000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Paletizační vidle</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000075</CODE>
+      <CODE>1000077</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000076.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>105 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Nosnost</NAME>
+        <VALUE>700 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>30</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka vidlí</NAME>
+        <VALUE>100 cm</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000076</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>12000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Paletizační vidle Deleks D 1200</NAME>
+    <SHORT_DESCRIPTION>Paletizační vidle od italské firmy Deleks jsou univerzálním strojem, který jistě najde mnohostranné uplatnění na každé farmě, nebo na každém hospodářství. Je možno je využít při přepravě jakéhokoliv nákladu, palet, ale i kulatých balíků.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 1000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Paletizační vidle</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000075</CODE>
+      <CODE>1000076</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000077.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>120 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Nosnost</NAME>
+        <VALUE>1 500 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>60</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka vidlí</NAME>
+        <VALUE>110 cm</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000077</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>14000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Boční ližina mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000081.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000082.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000081</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>1250</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000081.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Levé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000082</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>1250</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000082.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Pravé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Gufero 40 × 90 × 10 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000083.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000083</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>69</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šroub M10 × 1 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000084.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000084</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>49</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Levý krycí plech mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000085.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000085</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>249</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Maznička M10 × 1 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000086.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000086</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>14</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák zadního válce mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000087.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000095.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000087</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>899</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000087.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Levé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000095</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>899</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000095.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Pravé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vnitřní pojistný kroužek 90 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000088.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000088</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>14</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko 6308 pro zadní válec mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000089.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000089</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>nedostupné</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vnější pojistný kroužek 40 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000090.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000090</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>14</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zadní válec mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000091.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000092.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000093.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000094.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000091</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>4300</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000091.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 140</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000092</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>4850</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000092.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 160</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000093</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>5300</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000093.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000094</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>5790</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000094.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 200</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotor mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000096.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000097.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000098.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000099.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000096</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>11100</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000096.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 140</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000097</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>11500</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000097.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 160</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000098</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>12200</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000098.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000099</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>13000</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000099.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGF 200</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Gufero 45 × 80 × 10 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000100.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000100</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>69</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko rotoru 1308 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000101.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000101</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložiskový domek rotoru mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000102.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000102</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>259</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pouzdro řemenice 40 × 65 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000103.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000103</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>599</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Spodní malá řemenice mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000104.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000104</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1470</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Horní velká řemenice mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000105.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000105</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1550</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Převodovka mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000107.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000107</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>8500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pouzdro řemenice 33 × 80 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000108.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000108</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>599</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Podkova tříbodového závěsu mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000110.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000110</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>7750</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák převodovky mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000111.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000111</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>2420</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Čep mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000112.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000112</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>699</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pouzdro čepu 40 × 44 × 50 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000113.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000113</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>65</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pružná závlačka 3,2 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000114.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000114</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>15</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Podpěrná noha mulčovače AGF, typ S</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000115.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000115</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zajišťovací kolík podpěrné nohy mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000116.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000116</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>25</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Matice čepu M30 × 2 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000117.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000117</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>49</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulická hadice mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000118.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000118</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1050</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Průtokový šroub M16 × 1,5 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000119.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000119</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>60</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Těsnicí podložka pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000120.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000120</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>8</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulická rychlospojka R1 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000121.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000121</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šroub M24 × 100 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000122.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000122</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>49</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický píst mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000123.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000123</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>4050</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Krytka hlavního zavěšení mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000124.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000124</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>599</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pouzdro hlavního čepu mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000125.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000125</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>299</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák hlavního zavěšení mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000126.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000126</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>2290</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šroub M24 × 120 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000127.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000127</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>55</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Půlměsícový držák mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000128.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000128</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1950</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šroub M30 × 70 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000129.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000129</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>49</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Půlměsícový držák mulčovače AGF, provedení Single</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000130.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000130</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Matice M30 pro mulčovač AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000131.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000131</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>39</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický píst mulčovače AGF, typ B</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000132.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000132</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>4300</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Podpěrná noha mulčovače AGF, typ L</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000133.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000133</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák hlavní podkovy mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000134.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000134</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>3700</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Čep podkovy mulčovače AGF</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000135.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000135</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>399</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický píst na držáku mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000136.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000136</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>4250</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický píst na stroji mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000137.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000137</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>4250</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Horní řemenice mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000138.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000138</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Spodní řemenice mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000139.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000139</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>490</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Převodovka mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000140.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000140</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>8490</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hlavní hřídel mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000141.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000142.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000141</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>6900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000141.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGE 125</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000142</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>7900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000142.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>AGE 145</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák zadního válce mulčovače AGE</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000143.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000144.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000143</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>390</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000143.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Levé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000144</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>390</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000144.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení</NAME>
+            <VALUE>Pravé provedení</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko UC 207 s uložením pro hlavní hřídel mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000145.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000145</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>890</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Motor mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000146.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000146</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>9900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Palivová nádrž mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000147.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000147</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1290</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Tlumič výfuku mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000148.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000148</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kryt vzduchového filtru mulčovače ATV včetně filtru</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000149.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000149</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>499</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hlavní hřídel mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000150.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000151.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000150</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>4900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000150.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>ATV 125</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000151</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>6900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000151.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>ATV 145</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Spojka s řemenicí pro mulčovač ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000152.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000153.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000152</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>1690</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000152.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>ATV 125</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000153</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>1890</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000153.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>ATV 145</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko UC 205 s uložením pro zadní válec mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000154.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000154</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>490</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Krytka připojovací hlavice mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000155.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000155</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>50</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hroty rotačních bran, levý a pravý v páru</NAME>
+    <SHORT_DESCRIPTION>Pravý a levý Cena je za pár</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k rotačním branám</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000156.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000156_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000156</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>340</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kladívko pro mulčovače AGF a BCS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000157.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000157_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000157</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>220</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nože pro mulčovač ATV, pár</NAME>
+    <SHORT_DESCRIPTION>Cena je za pár</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000158.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000158</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>140</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kladívko pro mulčovač AGE</NAME>
+    <DESCRIPTION>&lt;p&gt;Šířka uchycení: 42 mm Pracovní šířka: 80 mm Délka: 80 mm Průměr uchycení: 12,5 mm&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000159.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>450 g</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000159</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>160</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko UC 205 s uložením</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Ložiska a převodovky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000160.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000160</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>490</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ložisko UC 207 s uložením</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Ložiska a převodovky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000161.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000161</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>690</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Převodovka rotačních bran LXG</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Ložiska a převodovky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000162.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000162</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>7000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Převodovka pro EFGC, BEM, MENASOR, GKH a MS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Ložiska a převodovky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000163.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000163</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>8500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nůž štěpkovače BX 92 RS</NAME>
+    <DESCRIPTION>&lt;p&gt;Šířka: 75mm&lt;/p&gt;&lt;p&gt;Délka: 296mm&lt;/p&gt;&lt;p&gt;Ostří z obou stran&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000164.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000164_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000164</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Protiostří štěpkovače BX 92 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000165.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000165</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>590</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pružina štěpkovače BX 92 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000166.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000166</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>190</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický motor štěpkovače BX 92 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000167.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000167</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>7900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Regulační ventil štěpkovače BX 92 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000168.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000168</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>2900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kompletní hydraulický průtokový ventil štěpkovače BX 92 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000169.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000169</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>2900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Protiostří štěpkovače BX 122 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000170.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000170</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nůž štěpkovače BX 122 RS</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000171.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000171</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>990</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1590 Lw / 1550 Li</NAME>
+    <SHORT_DESCRIPTION>Klínový řemen vhodný na lesní mulčovač FFM - 140, 180</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000172.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000172</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>190</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1040 Lw / 1000 Li</NAME>
+    <SHORT_DESCRIPTION>Klínový řemen vhodný na mulčovač AGE - 125, 145</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000173.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000173</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>140</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1385 Lw / 1345 Li</NAME>
+    <SHORT_DESCRIPTION>Klínový řemen vhodný pro mulčovač AGF 140,160,180,200 PRO</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000174.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000174</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>170</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1110 Lw / 1050 Li</NAME>
+    <SHORT_DESCRIPTION>Klínový řemen vhodný pro mulčovač ATV 120,145</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000175.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000175</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>150</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1285 Lw / 1245 Li</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000176.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000176</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>160</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1335 Lw / 1295 Li</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000177.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000177</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>160</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1750 Lw / 1710 Li</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000178.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000178</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>210</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1790 Lw / 1750 Li</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000179.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000179</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>210</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1840 Lw / 1800 Li</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Klínové řemeny</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000180.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000180</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>220</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Podkopová lžíce pro BH</NAME>
+    <DESCRIPTION>&lt;h3&gt;30 cm · 3 zuby&lt;/h3&gt;&lt;p&gt;3 &amp;quot;zuby&amp;quot; na lžíci&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 400,-&lt;/p&gt;&lt;h3&gt;40 cm · 4 zuby&lt;/h3&gt;&lt;p&gt;4 &amp;quot;zuby&amp;quot; na lžíci&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 400,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Lžíce a díly k podkopům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000188.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000188_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000189.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000189_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000188</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>4900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000188.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka lžíce</NAME>
+            <VALUE>30 cm · 3 zuby</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000189</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>5400</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000189.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka lžíce</NAME>
+            <VALUE>40 cm · 4 zuby</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Podkopová lžíce pro BH 5 R</NAME>
+    <DESCRIPTION>&lt;h3&gt;30 cm · 3 zuby&lt;/h3&gt;&lt;p&gt;3 &amp;quot;zuby&amp;quot; na lžíci&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 400,-&lt;/p&gt;&lt;h3&gt;40 cm · 4 zuby&lt;/h3&gt;&lt;p&gt;4 &amp;quot;zuby&amp;quot; na lžíci&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 400,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Lžíce a díly k podkopům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000192.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000192_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000193.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000193_1.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000192</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>3900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000192.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka lžíce</NAME>
+            <VALUE>30 cm · 3 zuby</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000193</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>4900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000193.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Šířka lžíce</NAME>
+            <VALUE>40 cm · 4 zuby</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zub podkopové lžíce</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Lžíce a díly k podkopům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000194.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000194_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000194</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>250</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kladivo pro lesní mulčovač FFM</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000195.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000195_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000195</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>450</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ostří pro lesní mulčovač FFM</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000196.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000196_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000196</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>120</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Držák ostří lesního mulčovače FFM</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000197.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000197_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000197</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>220</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Náhradní oblouk pro halu šířky 9 m</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 300,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly k halám</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000203.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000203</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>3900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Štěpkovač dřeva BX 92 RS</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…HFc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=88z5ScH9HFc"&gt;https://www.youtube.com/…HFc&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Štěpkovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000205.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000205_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000205_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od HP</NAME>
+        <VALUE>60</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>650 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Průměr větví</NAME>
+        <VALUE>25 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů</NAME>
+        <VALUE>4</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Protiostří</NAME>
+        <VALUE>1</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hydraulické válce</NAME>
+        <VALUE>Ano</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000205</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>88000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Traktorová štípačka dřeva WX 310</NAME>
+    <SHORT_DESCRIPTION>Při jejich konstrukci byl kladen důraz na robustnost stroje, pracovní funkčnost a bezpečnost obsluhy. Štípačky jsou uchyceny k traktoru 3-bodovým závěsem, pohon zajišťuje hydraulický okruh traktoru.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Štípačky dřeva</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000208</CODE>
+      <CODE>1000209</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000207.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Tlačná síla</NAME>
+        <VALUE>31 t</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>100 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální průměr</NAME>
+        <VALUE>35 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální délka</NAME>
+        <VALUE>60 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Poloha pístu</NAME>
+        <VALUE>Horizontální</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000207</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>17900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Traktorová štípačka dřeva WX 350</NAME>
+    <SHORT_DESCRIPTION>Při jejich konstrukci byl kladen důraz na robustnost stroje, pracovní funkčnost a bezpečnost obsluhy. Štípačky jsou uchyceny k traktoru 3-bodovým závěsem, pohon zajišťuje hydraulický okruh traktoru.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Štípačky dřeva</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000207</CODE>
+      <CODE>1000209</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000208.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000208_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000208_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Tlačná síla</NAME>
+        <VALUE>31 t</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>110 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální průměr</NAME>
+        <VALUE>35 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální délka</NAME>
+        <VALUE>60 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Poloha pístu</NAME>
+        <VALUE>Vertikální</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000208</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>18900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Traktorová štípačka dřeva WX 380</NAME>
+    <SHORT_DESCRIPTION>Při jejich konstrukci byl kladen důraz na robustnost stroje, pracovní funkčnost a bezpečnost obsluhy. Štípačky jsou uchyceny k traktoru 3-bodovým závěsem, pohon zajišťuje hydraulický okruh traktoru.</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Štípačky dřeva</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000207</CODE>
+      <CODE>1000208</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000209.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000209_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000209_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Tlačná síla</NAME>
+        <VALUE>31 t</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>190 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální průměr</NAME>
+        <VALUE>35 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální délka</NAME>
+        <VALUE>60 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Poloha pístu</NAME>
+        <VALUE>Horizontální + vertikální</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000209</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>31000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Špalíkovač dřeva TR 110</NAME>
+    <SHORT_DESCRIPTION>- uchycení do 3-bodového závěsu traktoru - I.kategorie - délka špalků 7 - 15 cm - osazen 6-ti noži z tvrzené oceli - 3 nože/hřídel, možnost ostření - pohon přenášen ozubenými koly - samovhtahovací funkce nožů - výstupní otvor opatřen upínáky pro vaky a pytle - možnost vkládání malých větví současně</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu&lt;/p&gt;&lt;p&gt;Video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…=2s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xRRm8ffKJ0c&amp;amp;t=2s"&gt;https://www.youtube.com/…=2s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Špalíkovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000236</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000211.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000211_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000211_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000211_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktory od HP</NAME>
+        <VALUE>20</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>160 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Průměr větví</NAME>
+        <VALUE>11 cm</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000211</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>34900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Planýrovač jízdárny HM 200 do tříbodového závěsu</NAME>
+    <SHORT_DESCRIPTION>3 - bodový závěs</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skaldu SLEVA 2500,-&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…=1s&lt;/p&gt;&lt;p&gt;Rozměry balení 2 x 1 x 0,5 100kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=SADkm6JVDXo&amp;amp;t=1s"&gt;https://www.youtube.com/…=1s&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Vybavení pro chov koní &gt; Údržba výběhů a jízdáren</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000215</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000213.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000213_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000213_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000213_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>200 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>100 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000213</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>21500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Planýrovač jízdárny HM 200 ATV</NAME>
+    <SHORT_DESCRIPTION>Závěs ATV</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2500,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Vybavení pro chov koní &gt; Údržba výběhů a jízdáren</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000214.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000214_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000214_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>200 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>100 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000214</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>24500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Planýrovač jízdárny HV 200 s válcem</NAME>
+    <SHORT_DESCRIPTION>3 - bodový závěs Válec</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2500,-&lt;/p&gt;&lt;p&gt;Rozměry balení 2m x 1,2m x 0,5m 150kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Vybavení pro chov koní &gt; Údržba výběhů a jízdáren</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000213</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000215.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000215_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000215_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000215_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000215_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>200 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>150 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000215</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>38500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sběrač koňského trusu KSP 120</NAME>
+    <SHORT_DESCRIPTION>ATV závěs Motor 6,5 Hp Kapacita násypky 0,635m³ 4 kartáče</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem sladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Rozměry balení 1,8m x 1,8m x 0,9m&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Vybavení pro chov koní &gt; Údržba výběhů a jízdáren</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000216_6.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000216</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>58000</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nůž mulčovací sekačky FM</NAME>
+    <DESCRIPTION>&lt;h3&gt;FM 120&lt;/h3&gt;&lt;p&gt;Délka nože 40 cm&lt;/p&gt;&lt;p&gt;Nože jsou levotočivé&lt;/p&gt;&lt;h3&gt;FM 150&lt;/h3&gt;&lt;p&gt;Délka nože 50 cm&lt;/p&gt;&lt;p&gt;Nože jsou levotočivé&lt;/p&gt;&lt;h3&gt;FM 180&lt;/h3&gt;&lt;p&gt;Délka nože 60 cm&lt;/p&gt;&lt;p&gt;Nože jsou levotočivé&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000220.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000221.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000222.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000220</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>300</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000220.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>FM 120</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000221</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>330</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000221.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>FM 150</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000222</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>360</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000222.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model stroje</NAME>
+            <VALUE>FM 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Čerpadlo traktorového podkopu BH</NAME>
+    <DESCRIPTION>&lt;p&gt;Čerpadlo je vhodné na podkopy BH 6600, BH 7600, BH 8600 a BH5R&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 350,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Lžíce a díly k podkopům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000223.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000223_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000223</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>8350</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hydraulický rozvaděč podkopu BH</NAME>
+    <DESCRIPTION>&lt;p&gt;Rozvaděč je vhodný na podkop BH 6600, BH 7600, BH 8600 a BH5R&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 350,-&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Lžíce a díly k podkopům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000224.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000224</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>7500</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kladka mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000225.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000225_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000225</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>290</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Nůž špalíkovače TR 110</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly ke štěpkovačům a špalíkovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000230.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000230</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>350</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Baterie mulčovače ATV</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k mulčovačům</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000231.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000231_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000231</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>1290</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovací sekačka FM 120</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Délka jednoho nože - 40 cm.&lt;/p&gt;&lt;p&gt;Rozměry balení: 1,2m x 1m x 0,5m 120kg&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…lHs&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=clQZxtO6lHs"&gt;https://www.youtube.com/…lHs&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovací sekačky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000233</CODE>
+      <CODE>1000234</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000232.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000232_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000232_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>120 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>120 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>15</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>2</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000232</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>20900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovací sekačka FM 150</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Délka jednoho nože - 50 cm.&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…lHs&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=clQZxtO6lHs"&gt;https://www.youtube.com/…lHs&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovací sekačky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000232</CODE>
+      <CODE>1000234</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000233.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000233_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000233_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000233_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>150 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>160 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>25</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>2</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000233</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>22900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovací sekačka FM 180</NAME>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Délka jednoho nože - 60 cm.&lt;/p&gt;&lt;p&gt;Stroj je dodáván včetně náhonu a olejové náplně.&lt;/p&gt;&lt;p&gt;Ilustrační video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/…lHs&lt;/p&gt;&lt;p&gt;Rozměry balení 1,8m x 1m x 0,5m&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=clQZxtO6lHs"&gt;https://www.youtube.com/…lHs&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Zemědělská technika &gt; Mulčovací sekačky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000232</CODE>
+      <CODE>1000233</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000234.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000234_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000234_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Pracovní záběr</NAME>
+        <VALUE>180 cm</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>200 kg</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktor od (HP)</NAME>
+        <VALUE>30</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet řemenů</NAME>
+        <VALUE>2</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Počet nožů</NAME>
+        <VALUE>3</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000234</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>24900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kolečko mulčovací sekačky FM</NAME>
+    <DESCRIPTION>&lt;p&gt;Délka držáků - 23cm&lt;/p&gt;&lt;p&gt;Průměr kolečka - 21cm&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Díly k sekačkám</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000235.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000235_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000235</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>890</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Špalíkovač dřeva TRS 110 s dopravníkem</NAME>
+    <SHORT_DESCRIPTION>- uchycení do 3-bodového závěsu traktoru - I. kategorie - délka špalků 7 - 15 cm - osazen 6-ti noži z tvrzené oceli - 3 nože/hřídel, možnost ostření - pohon přenášen ozubenými koly - samovhtahovací funkce nožů - možnost vkládání malých větví současně - hydraulicky poháněný pásový dopravník - délka dopravníku 260 cm - výška dopravníku až 230 cm - délka dopravníku 260 cm - výška dopravníku až 230 cm</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Video stroje při práci:&lt;/p&gt;&lt;p&gt;https://www.youtube.com/watch?v=U9kaAjnWkq4&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=U9kaAjnWkq4"&gt;https://www.youtube.com/watch?v=U9kaAjnWkq4&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Lesní technika &gt; Špalíkovače</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <ALTERNATIVE_PRODUCTS>
+      <CODE>1000211</CODE>
+    </ALTERNATIVE_PRODUCTS>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000236_5.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Vhodné pro traktory od HP</NAME>
+        <VALUE>25</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Hmotnost</NAME>
+        <VALUE>340 kg</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <CODE>1000236</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>47900</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační nůž MS 200</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000246.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000246</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>90</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Stacionární nůž MS 200</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000247.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000247</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>80</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kroužek rotačního nože</NAME>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly ke strojům &gt; Nože, kladívka a ostří</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000248.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000248_1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000248</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>20</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+</SHOP>

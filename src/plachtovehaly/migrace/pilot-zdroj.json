@@ -1,0 +1,92 @@
+{
+  "checked_date": "2026-11-15",
+  "currency": "CZK",
+  "note": "Data z veřejných detailů WEXBO. SKU odpovídá mikrodatům produktu. Sazba DPH je dopočtená z obou zobrazených cen. Dostupnost je původní text bez informace o počtu kusů. Firma před ostrým importem ověří ceny, termíny a kompatibilitu dílu.",
+  "products": [
+    {
+      "id": "1000059",
+      "sku": "1000059",
+      "title": "Z - Kompletní oblouk (hala 6 m)",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/z-kompletni-oblouk-hala-6-m-1000059/",
+      "price_gross": 3200.0,
+      "price_net": 2644.63,
+      "vat_percent": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000059.jpg"
+      ],
+      "parameters": {}
+    },
+    {
+      "id": "1000335",
+      "sku": "1000335",
+      "title": "202412 R - Plachtová hala 6,1 x 7,3 x 3,66 m - BÍLÁ",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-bila-1000335/",
+      "price_gross": 41900.0,
+      "price_net": 34628.1,
+      "vat_percent": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_3.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_4.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_5.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_6.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_7.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_8.jpg"
+      ],
+      "parameters": {
+        "model": "202412 R",
+        "color": "Bílá",
+        "cover_g_m2": 650,
+        "width_m": 6.1,
+        "length_m": 7.3,
+        "height_m": 3.66,
+        "door_width_cm": 430,
+        "door_height_cm": 310,
+        "clearance_cm": 300,
+        "door_type": "Zipová vrata na obou čelech",
+        "arch_count": 5,
+        "arch_spacing_cm": 183,
+        "arch_profile_mm": "70 × 42 × 1,5",
+        "brace_tube_mm": "40 × 1,2",
+        "package_weight_kg": 350
+      }
+    },
+    {
+      "id": "1000336",
+      "sku": "1000336",
+      "title": "202412 R - Plachtová hala 6,1 x 7,3 x 3,66 m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-vojenska-zelena-1000336/",
+      "price_gross": 41900.0,
+      "price_net": 34628.1,
+      "vat_percent": 21,
+      "availability": "08.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_3.jpg"
+      ],
+      "parameters": {
+        "model": "202412 R",
+        "color": "Vojenská zelená",
+        "cover_g_m2": 750,
+        "width_m": 6.1,
+        "length_m": 7.3,
+        "height_m": 3.66,
+        "door_width_cm": 430,
+        "door_height_cm": 310,
+        "clearance_cm": 300,
+        "door_type": "Zipová vrata na obou čelech",
+        "arch_count": 5,
+        "arch_spacing_cm": 183,
+        "arch_profile_mm": "70 × 42 × 1,5",
+        "brace_tube_mm": "40 × 1,2",
+        "package_weight_kg": 350
+      }
+    }
+  ]
+}

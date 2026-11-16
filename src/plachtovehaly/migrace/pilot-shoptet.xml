@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 7,3 m (202412 R)</NAME>
+    <SHORT_DESCRIPTION>Hala má výšku 3,66 m a zipová vrata na obou čelech. Vybrat si můžete bílou plachtu o gramáži 650 g/m² nebo vojensky zelenou o gramáži 750 g/m².</SHORT_DESCRIPTION>
+    <DESCRIPTION>Vrata mají šířku 4,30 m a výšku 3,10 m. Průjezdná výška je 3,00 m. Pět nosných oblouků má oválný profil 70 × 42 × 1,5 mm a rozteč 1,83 m. Rozpěrné trubky mají rozměr 40 × 1,2 mm. Součástí haly je hlavní plachta, obě čela a kotvicí prvky.</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335_8.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER><NAME>Šířka</NAME><VALUE>6,1 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Délka</NAME><VALUE>7,3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Výška</NAME><VALUE>3,66 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Průjezdná výška</NAME><VALUE>3 m</VALUE></INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER><NAME>Otevírání vrat</NAME><VALUE>Zip</VALUE></INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000335</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>41900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000335.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 650 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000336</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>41900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <!-- Provizorní množství pro pilot, při další synchronizaci převzít skutečný sklad. -->
+        <STOCK><AMOUNT>1</AMOUNT></STOCK>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>08.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000336.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Náhradní oblouk pro halu šířky 6 m</NAME>
+    <SHORT_DESCRIPTION>Kompletní náhradní oblouk složený z pěti oválných trubek.</SHORT_DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Náhradní díly k halám</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000059.jpg</IMAGE>
+    </IMAGES>
+    <CODE>1000059</CODE>
+    <VAT>21</VAT>
+    <PRICE_VAT>3200</PRICE_VAT>
+    <CURRENCY>CZK</CURRENCY>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+  </SHOPITEM>
+</SHOP>

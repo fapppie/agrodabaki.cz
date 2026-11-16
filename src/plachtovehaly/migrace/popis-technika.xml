@@ -1,0 +1,637 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="314">
+    <NAME>Gufero pro mulčovač AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Gufero pro mulčovač řady AGF vyberte podle rozměru původního těsnění.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Dostupná provedení</caption><thead><tr><th scope="col">Rozměr</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">40 × 90 × 10 mm</th><td>1000083</td></tr><tr><th scope="row">45 × 80 × 10 mm</th><td>1000100</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000083</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>40 × 90 × 10 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000100</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>45 × 80 × 10 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="545">
+    <NAME>Klínový řemen B 17</NAME>
+    <DESCRIPTION><![CDATA[<p>Klínový řemen profilu B 17 vyberte podle obou délek uvedených na původním řemenu. V tabulce najdete také odpovídající řady mulčovačů tam, kde výrobce uvádí přiřazení.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Délky řemenů a kompatibilita</caption><thead><tr><th scope="col">Délka Lw / Li</th><th scope="col">Řada a model mulčovače</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">1040 Lw / 1000 Li</th><td>AGE 125, 145</td><td>1000173</td></tr><tr><th scope="row">1110 Lw / 1050 Li</th><td>ATV 120, 145</td><td>1000175</td></tr><tr><th scope="row">1285 Lw / 1245 Li</th><td>—</td><td>1000176</td></tr><tr><th scope="row">1335 Lw / 1295 Li</th><td>—</td><td>1000177</td></tr><tr><th scope="row">1385 Lw / 1345 Li</th><td>AGF 140 PRO, 160 PRO, 180 PRO, 200 PRO</td><td>1000174</td></tr><tr><th scope="row">1590 Lw / 1550 Li</th><td>FFM 140, 180</td><td>1000172</td></tr><tr><th scope="row">1750 Lw / 1710 Li</th><td>—</td><td>1000178</td></tr><tr><th scope="row">1790 Lw / 1750 Li</th><td>—</td><td>1000179</td></tr><tr><th scope="row">1840 Lw / 1800 Li</th><td>—</td><td>1000180</td></tr></tbody></table></div><p>Pomlčka označuje údaj, který není v podkladech uveden.</p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000172</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1590 Lw / 1550 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000173</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1040 Lw / 1000 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000174</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1385 Lw / 1345 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000175</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1110 Lw / 1050 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000176</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1285 Lw / 1245 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000177</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1335 Lw / 1295 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000178</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1750 Lw / 1710 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000179</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1790 Lw / 1750 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000180</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka Lw / Li</NAME>
+            <VALUE>1840 Lw / 1800 Li</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="272">
+    <NAME>Lesní mulčovač FFM</NAME>
+    <DESCRIPTION><![CDATA[<p>Kladivový lesní mulčovač FFM drtí náletové dřeviny a křoviny. Pohon přenáší šest řemenů. Obě provedení mají otevíratelný zadní kryt a pevnou pracovní polohu bez bočního hydraulického posuvu.</p><p>Součástí dodávky je náhon a olejová náplň. Při odběru v našem skladu získáte slevu 3 500 Kč.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Porovnání modelů</caption><thead><tr><th scope="col">Model</th><th scope="col">Hmotnost</th><th scope="col">Počet kladiv</th><th scope="col">Pracovní záběr</th><th scope="col">Min. výkon traktoru (HP)</th><th scope="col">Rozměry balení (m)</th></tr></thead><tbody><tr><th scope="row">FFM 140</th><td>850 kg</td><td>24</td><td>140 cm</td><td>70</td><td>1,8 × 1,2 × 0,8</td></tr><tr><th scope="row">FFM 180</th><td>1 000 kg</td><td>32</td><td>180 cm</td><td>100</td><td>—</td></tr></tbody></table></div><p>Pomlčka označuje údaj, který není v podkladech uveden.</p><p><strong><a href="https://www.youtube.com/watch?v=321aRe_YSOo&amp;t=43s">Jak lesní mulčovač FFM drtí porost – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000045</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>FFM 140</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000046</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>FFM 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="635">
+    <NAME>Mulčovací sekačka FM</NAME>
+    <DESCRIPTION><![CDATA[<p>Mulčovací sekačka FM pracuje se třemi noži a dvěma řemeny. Při výběru záběru zohledněte i výkon traktoru a délku náhradních nožů.</p><p>Součástí dodávky je náhon a olejová náplň. Při odběru v našem skladu získáte slevu 2 000 Kč. Balení modelu FM 120 má podle údajů dodavatele hmotnost 120 kg.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Porovnání modelů</caption><thead><tr><th scope="col">Model</th><th scope="col">Hmotnost</th><th scope="col">Pracovní záběr</th><th scope="col">Min. výkon traktoru (HP)</th><th scope="col">Délka nože</th><th scope="col">Rozměry balení (m)</th></tr></thead><tbody><tr><th scope="row">FM 120</th><td>120 kg</td><td>120 cm</td><td>15</td><td>40 cm</td><td>1,2 × 1 × 0,5</td></tr><tr><th scope="row">FM 150</th><td>160 kg</td><td>150 cm</td><td>25</td><td>50 cm</td><td>—</td></tr><tr><th scope="row">FM 180</th><td>200 kg</td><td>180 cm</td><td>30</td><td>60 cm</td><td>1,8 × 1 × 0,5</td></tr></tbody></table></div><p>Pomlčka označuje údaj, který není v podkladech uveden.</p><p><strong><a href="https://www.youtube.com/watch?v=clQZxtO6lHs">Mulčovací sekačka FM při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000232</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>FM 120</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000233</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>FM 150</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000234</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>FM 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="254">
+    <NAME>Mulčovač AGF PRO</NAME>
+    <DESCRIPTION><![CDATA[<p>Mulčovače AGF PRO mají robustní konstrukci pro profesionální práci v náročném terénu. Boční hydraulický posuv umožňuje měnit polohu stroje. Oproti starší řadě BCRH mají otevíratelný zadní kryt.</p><p>Součástí dodávky je náhon a olejová náplň. Stroj je zabalený v kovovém rámu na jednorázové paletě. Při odběru v našem skladu získáte slevu 3 000 Kč.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Porovnání modelů</caption><thead><tr><th scope="col">Model</th><th scope="col">Hmotnost</th><th scope="col">Počet kladiv</th><th scope="col">Počet řemenů</th><th scope="col">Pracovní záběr</th><th scope="col">Min. výkon traktoru (HP)</th><th scope="col">Rozměry balení (m)</th></tr></thead><tbody><tr><th scope="row">AGF 140 PRO</th><td>550 kg</td><td>12</td><td>3</td><td>140 cm</td><td>50</td><td>1,9 × 1 × 0,9</td></tr><tr><th scope="row">AGF 160 PRO</th><td>590 kg</td><td>14</td><td>3</td><td>160 cm</td><td>50</td><td>2,1 × 1 × 0,9</td></tr><tr><th scope="row">AGF 180 PRO</th><td>630 kg</td><td>16</td><td>3</td><td>180 cm</td><td>70</td><td>2,3 × 1 × 0,9</td></tr><tr><th scope="row">AGF 200 PRO</th><td>670 kg</td><td>18</td><td>4</td><td>200 cm</td><td>80</td><td>2,5 × 1 × 0,9</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=3NBOQ_NNUnU">Mulčovač AGF PRO při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000036</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGF 140 PRO</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000037</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGF 160 PRO</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000038</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGF 180 PRO</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000039</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGF 200 PRO</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="266">
+    <NAME>Mulčovač pro čtyřkolku ATV 120</NAME>
+    <DESCRIPTION><![CDATA[<p>Mulčovač ATV 120 má motor o výkonu 15 HP. Y-nože můžete vyměnit za 20 T-kladiv. Pro užší průjezd lze kola přemístit za stroj.</p><p>Balení má rozměry 2,1 × 1 × 0,6 m. Součástí dodávky je náhon a olejová náplň. Při odběru v našem skladu získáte slevu 2 000 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=-Qdl0u7PL1g">Mulčovač pro čtyřkolku ATV při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000040</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="269">
+    <NAME>Mulčovač pro čtyřkolku ATV 145 OT</NAME>
+    <DESCRIPTION><![CDATA[<p>Pro užší průjezd lze u mulčovače ATV 145 OT namontovat kola za stroj. Motor má výkon 15 HP a místo Y-nožů lze osadit 24 T-kladiv.</p><p>Stroj dodáváme s náhonem a olejovou náplní. Rozměry balení jsou 2,1 × 1 × 0,6 m. Při odběru v našem skladu získáte slevu 2 000 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=-Qdl0u7PL1g">Mulčovač pro čtyřkolku ATV při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000041</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="605">
+    <NAME>Planýrovač jízdárny HM 200 do tříbodového závěsu</NAME>
+    <DESCRIPTION><![CDATA[<p>Planýrovač HM 200 se připojuje do tříbodového závěsu. Balení má rozměry 2 × 1 × 0,5 m a hmotnost 100 kg. Při odběru v našem skladu získáte slevu 2 500 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=SADkm6JVDXo&amp;t=1s">Úprava jízdárny planýrovačem HM – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000213</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="365">
+    <NAME>Pouzdro řemenice pro mulčovač AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Pouzdro řemenice pro mulčovač řady AGF se dodává ve dvou rozměrech. Před objednáním porovnejte rozměr s původním pouzdrem.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Dostupná provedení</caption><thead><tr><th scope="col">Rozměr</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">40 × 65 mm</th><td>1000103</td></tr><tr><th scope="row">33 × 80 mm</th><td>1000108</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000103</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>40 × 65 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000108</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>33 × 80 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="248">
+    <NAME>Příkopový mulčovač AGE</NAME>
+    <DESCRIPTION><![CDATA[<p>Odlehčený příkopový mulčovač AGE je určený i pro lehké traktory. Obě provedení mají boční hydraulický posuv, tři řemeny a pevný zadní kryt.</p><p>Součástí dodávky je náhon a olejová náplň. Stroj je zabalený v kovovém rámu na jednorázové paletě. Při odběru v našem skladu získáte slevu 2 000 Kč.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Porovnání modelů</caption><thead><tr><th scope="col">Model</th><th scope="col">Hmotnost</th><th scope="col">Počet kladiv</th><th scope="col">Pracovní záběr</th><th scope="col">Min. výkon traktoru (HP)</th><th scope="col">Rozměry balení (m)</th></tr></thead><tbody><tr><th scope="row">AGE 125</th><td>240 kg</td><td>22</td><td>125 cm</td><td>20</td><td>1,7 × 1,2 × 0,7</td></tr><tr><th scope="row">AGE 145</th><td>290 kg</td><td>24</td><td>145 cm</td><td>30</td><td>1,9 × 1 × 0,8</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=kW8DGxMisw8&amp;t=63s">Příkopový mulčovač AGE při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000034</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGE 125</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000035</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>AGE 145</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="278">
+    <NAME>Rotační brány LXG</NAME>
+    <DESCRIPTION><![CDATA[<p>Rotační brány LXG připravují půdu před setím. Záběr zvolte podle plochy a výkonu traktoru. Počet levých a pravých nožů se mění s šířkou stroje.</p><p>Součástí dodávky je náhon a olejová náplň.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Porovnání modelů</caption><thead><tr><th scope="col">Model</th><th scope="col">Hmotnost</th><th scope="col">Levé nože (ks)</th><th scope="col">Pravé nože (ks)</th><th scope="col">Pracovní záběr</th><th scope="col">Min. výkon traktoru (HP)</th><th scope="col">Pracovní hloubka</th><th scope="col">Sleva při odběru ve skladu</th><th scope="col">Rozměry balení (m)</th></tr></thead><tbody><tr><th scope="row">LXG 130</th><td>290 kg</td><td>6</td><td>6</td><td>130 cm</td><td>20</td><td>—</td><td>2 500 Kč</td><td>1,6 × 1,2 × 0,6</td></tr><tr><th scope="row">LXG 170</th><td>330 kg</td><td>8</td><td>8</td><td>170 cm</td><td>35</td><td>až 20 cm</td><td>2 500 Kč</td><td>1,9 × 1,2 × 0,6</td></tr><tr><th scope="row">LXG 210</th><td>370 kg</td><td>10</td><td>10</td><td>210 cm</td><td>45</td><td>až 20 cm</td><td>3 000 Kč</td><td>2,3 × 1,2 × 0,6</td></tr></tbody></table></div><p>Pomlčka označuje údaj, který není v podkladech uveden.</p><p><strong><a href="https://www.youtube.com/watch?v=k5o9YmCTslk">Příprava půdy rotačními branami LXG – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000049</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>LXG 130</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000050</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>LXG 170</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000051</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>LXG 210</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="602">
+    <NAME>Špalíkovač dřeva TR 110</NAME>
+    <DESCRIPTION><![CDATA[<p>Špalíkovač TR 110 dodáváme včetně náhonu. Při odběru v našem skladu získáte slevu 2 000 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=xRRm8ffKJ0c&amp;t=2s">Špalíkovač TR 110 při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000211</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="647">
+    <NAME>Špalíkovač dřeva TRS 110 s dopravníkem</NAME>
+    <DESCRIPTION><![CDATA[<p>Při odběru špalíkovače TRS 110 v našem skladu získáte slevu 3 000 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=U9kaAjnWkq4">Špalíkovač s dopravníkem při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000236</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="404">
+    <NAME>Šroub M24 pro mulčovač AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>U šroubu M24 pro mulčovač AGF vyberte délku podle původního šroubu.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Dostupná provedení</caption><thead><tr><th scope="col">Rozměr</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">24 × 100 mm</th><td>1000122</td></tr><tr><th scope="row">24 × 120 mm</th><td>1000127</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000122</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>24 × 100 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000127</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Rozměr</NAME>
+            <VALUE>24 × 120 mm</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="590">
+    <NAME>Štěpkovač dřeva BX 92 RS</NAME>
+    <DESCRIPTION><![CDATA[<p>Štěpkovač BX 92 RS dodáváme včetně náhonu a olejové náplně. Při odběru v našem skladu získáte slevu 4 000 Kč.</p><p><strong><a href="https://www.youtube.com/watch?v=88z5ScH9HFc">Štěpkovač BX 92 RS při práci – přehrát video na YouTube</a></strong></p>]]></DESCRIPTION>
+    <CODE>1000205</CODE>
+  </SHOPITEM>
+  <SHOPITEM id="287">
+    <NAME>Transportní box PRMH</NAME>
+    <DESCRIPTION><![CDATA[<p>Transportní box PRMH nabízíme v pěti provedeních. Modely PRMH 180 a 200 mají hydraulické vyklápění, korbu z vyztuženého ocelového plechu a zesílenou podlahu s vnitřními žebry. Zesílený zadní břit slouží k nabírání sypkého materiálu. Oba modely se připojují do tříbodového závěsu kategorie I nebo II a při odběru v našem skladu na ně platí sleva 2 000 Kč.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Rozměry a nosnost podle modelu</caption><thead><tr><th scope="col">Model</th><th scope="col">Délka ložné plochy</th><th scope="col">Šířka ložné plochy</th><th scope="col">Nosnost</th><th scope="col">Hmotnost</th></tr></thead><tbody><tr><th scope="row">PRMH 120</th><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><th scope="row">PRMH 140</th><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><th scope="row">PRMH 160</th><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><th scope="row">PRMH 180</th><td>181 cm</td><td>68 cm</td><td>700 kg</td><td>160 kg</td></tr><tr><th scope="row">PRMH 200</th><td>201 cm</td><td>68 cm</td><td>700 kg</td><td>180 kg</td></tr></tbody></table></div><p>Pomlčka označuje údaj, který není v podkladech uveden.</p>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000070</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>PRMH 120</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000071</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>PRMH 140</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000072</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>PRMH 160</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000073</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>PRMH 180</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000074</CODE>
+        <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS>
+          <PARAMETER>
+            <NAME>Model</NAME>
+            <VALUE>PRMH 200</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

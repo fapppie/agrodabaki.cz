@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal, šířka 8 m</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/">Přístřešek pro zvířata Animal</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000295</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000400</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000401</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal 10 × 10 m</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/">Přístřešek pro zvířata Animal</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000334</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal 12 × 12 m</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/">Přístřešek pro zvířata Animal</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000360</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+</SHOP>

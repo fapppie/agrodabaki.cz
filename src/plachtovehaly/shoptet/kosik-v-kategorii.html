@@ -1,0 +1,22 @@
+<!-- Dabaki: výchozí stav postranního košíku v Adaminu -->
+<script>
+(function () {
+    if (window.innerWidth <= 768) return;
+    const sidebar = document.querySelector('aside .sidebar-inner');
+    if (!sidebar) return;
+
+    function collapseCart() {
+        const panel = sidebar.querySelector('.cart-sidebar-box .cart-sidebar-inner');
+        if (!panel || !window.jQuery) return false;
+        window.jQuery(panel).stop(true, true).hide();
+        panel.previousElementSibling.classList.add('rotate');
+        return true;
+    }
+
+    if (collapseCart()) return;
+    const observer = new MutationObserver(function () {
+        if (collapseCart()) observer.disconnect();
+    });
+    observer.observe(sidebar, { childList: true });
+})();
+</script>

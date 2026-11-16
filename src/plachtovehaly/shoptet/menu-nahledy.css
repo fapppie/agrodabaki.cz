@@ -1,0 +1,18 @@
+/* Adamin – fotografie podkategorií v hlavní desktopové navigaci. */
+@media (min-width: 992px) {
+    #navigation .menu-level-2 > li > .menu-image {
+        box-sizing: content-box;
+        width: clamp(88px, 8vw, 112px);
+        padding: 6px 12px 6px 5px;
+    }
+
+    #navigation .menu-level-2 > li > .menu-image > img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+        max-height: none;
+        object-fit: contain;
+    }
+}
+

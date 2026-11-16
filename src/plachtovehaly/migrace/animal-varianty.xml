@@ -1,0 +1,1212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<style>
+body:has(.dabaki-volba-varianty) #simple-variants{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,12rem),1fr));gap:.45rem}
+body:has(.dabaki-volba-varianty) #simple-variants>span{display:none}
+body:has(.dabaki-volba-varianty) #simple-variants label.advanced-parameter{display:block;width:auto;height:auto;margin:0;padding:.45rem;border:1px solid #aaa;cursor:pointer}
+body:has(.dabaki-volba-varianty) #simple-variants label:has(input:checked){outline:2px solid #4b7432}
+body:has(.dabaki-volba-varianty) #simple-variants label .advanced-parameter-inner{display:none}
+body:has(.dabaki-volba-varianty) #simple-variants label .parameter-value[hidden]{display:block!important;font-size:13px;line-height:1.3}
+</style><p class="dabaki-volba-varianty">Vyberte šířku a délku přístřešku. U zvoleného rozměru najdete cenu a dostupnost.</p>]]></SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<div style="max-width:100%;overflow-x:auto"><p>Přístřešek Animal kryje prostor pro zvířata plachtou ve vojenské zelené barvě. Podle místa na pastvině si můžete zvolit půdorys od 4 × 4 do 12 × 12 m.</p>
+<h3>Rozměry a konstrukce</h3>
+<table><caption>Provedení podle šířky přístřešku</caption><thead><tr><th scope="col">Šířka</th><th scope="col">Délky na výběr</th><th scope="col">Výška</th><th scope="col">Gramáž plachty</th><th scope="col">Rozteč oblouků</th><th scope="col">Vstup (šířka × výška)</th></tr></thead><tbody>
+<tr><th scope="row">4 m</th><td>4 nebo 6 m</td><td>3,15 m</td><td>750 g/m²</td><td>2 m</td><td>—</td></tr>
+<tr><th scope="row">6 m</th><td>6, 8 nebo 10 m</td><td>3,7 m</td><td>750 g/m²</td><td>2 m</td><td>2 × 2 m</td></tr>
+<tr><th scope="row">8 m</th><td>8, 10 nebo 12 m</td><td>4 m</td><td>900 g/m²</td><td>2 m</td><td>—</td></tr>
+<tr><th scope="row">10 m</th><td>10 m</td><td>4,5 m</td><td>900 g/m²</td><td>2,44 m</td><td>2,44 × 2 m</td></tr>
+<tr><th scope="row">12 m</th><td>12 m</td><td>5 m</td><td>—</td><td>—</td><td>—</td></tr>
+</tbody></table><p>Pomlčka označuje údaj, který výrobce v dostupných podkladech neuvádí.</p>
+<p>U provedení o šířce 4, 6, 8 a 10 m mají nosné oblouky oválný profil 60 × 1,8 mm, spoje oblouků 40 × 1,5 mm a hrazení 40 × 1,2 mm.</p>
+<h3>Rozměry a hmotnost balení</h3>
+<p>Obě čtyřmetrová provedení se dodávají v balení 2,2 × 1,1 × 0,55 m. Varianta 4 × 4 m váží v balení 450 kg a varianta 4 × 6 m váží 550 kg. U varianty 6 × 6 m má balení rozměry 3 × 1 × 1,15 m a hmotnost 750 kg.</p></div>]]></DESCRIPTION>
+    <CATEGORIES>
+      <CATEGORY id="779">Přístřešky pro zvířata</CATEGORY>
+      <DEFAULT_CATEGORY id="779">Přístřešky pro zvířata</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 4 m (Délka 4 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659_pristresek-pro-zvirata-animal--sirka-4-m--delka-4-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="659 1 pristresek pro zvirata animal sirka 4 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-1_659-1-pristresek-pro-zvirata-animal-sirka-4-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 4 m (Délka 6 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-2_pristresek-pro-zvirata-animal--sirka-4-m--delka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="659 3 pristresek pro zvirata animal sirka 4 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-3_659-3-pristresek-pro-zvirata-animal-sirka-4-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 6 m (Délka 6 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-4_pristresek-pro-zvirata-animal--sirka-6-m--delka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 1 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-5_662-1-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 2 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-6_662-2-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 3 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-7_662-3-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 6 m (Délka 8 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-8_pristresek-pro-zvirata-animal--sirka-6-m--delka-8-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 5 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-9_662-5-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 6 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-10_662-6-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 6 m (Délka 10 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-11_pristresek-pro-zvirata-animal--sirka-6-m--delka-10-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 8 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-12_662-8-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 9 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-13_662-9-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="662 10 pristresek pro zvirata animal sirka 6 m">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-14_662-10-pristresek-pro-zvirata-animal-sirka-6-m.jpg?6af9f4ca</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 8 m (Délka 8 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665_pristresek-pro-zvirata-animal--sirka-8-m--delka-8-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-1_pristresek-pro-zvirata-animal--sirka-8-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-2_pristresek-pro-zvirata-animal--sirka-8-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 8 m (Délka 10 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-3_pristresek-pro-zvirata-animal--sirka-8-m--delka-10-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="Přístřešek pro zvířata Animal, šířka 8 m (Délka 12 m)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-4_pristresek-pro-zvirata-animal--sirka-8-m--delka-12-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/668_pristresek-pro-zvirata-animal-10--10-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/668-1_pristresek-pro-zvirata-animal-10--10-m.jpg?6af9e2ab</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/671_pristresek-pro-zvirata-animal-12--12-m.jpg?6af9e2ac</IMAGE>
+      <IMAGE description="">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/671-1_pristresek-pro-zvirata-animal-12--12-m.jpg?6af9e2ac</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Barva plachty</NAME>
+        <VALUE>Vojenská zelená</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VISIBILITY>visible</VISIBILITY>
+    <VARIANTS>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000251</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>44900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>1</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659_pristresek-pro-zvirata-animal--sirka-4-m--delka-4-m.jpg?6af9f4ca</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>4 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>4 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000252</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>64900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-4_pristresek-pro-zvirata-animal--sirka-6-m--delka-6-m.jpg?6af9f4ca</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000332</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>74900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-8_pristresek-pro-zvirata-animal--sirka-6-m--delka-8-m.jpg?6af9f4ca</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>8 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000333</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>84900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>05.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-11_pristresek-pro-zvirata-animal--sirka-6-m--delka-10-m.jpg?6af9f4ca</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>6 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000379</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>49900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/659-2_pristresek-pro-zvirata-animal--sirka-4-m--delka-6-m.jpg?6af9f4ca</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>4 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>6 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000295</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>96900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665_pristresek-pro-zvirata-animal--sirka-8-m--delka-8-m.jpg?6af9e2ab</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>8 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000400</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>104900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-3_pristresek-pro-zvirata-animal--sirka-8-m--delka-10-m.jpg?6af9e2ab</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000401</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>114900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+    <IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/665-4_pristresek-pro-zvirata-animal--sirka-8-m--delka-12-m.jpg?6af9e2ab</IMAGE_REF>
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>8 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000334</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>149900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>29.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/668_pristresek-pro-zvirata-animal-10--10-m.jpg?6af9e2ab</IMAGE_REF><PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>10 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>10 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><FREE_SHIPPING>0</FREE_SHIPPING>
+
+<FREE_BILLING>0</FREE_BILLING>
+
+    <UNIT>ks</UNIT>
+
+<CODE>1000360</CODE>
+
+
+<LOGISTIC>
+                        <WEIGHT>0</WEIGHT>
+                    <BOX_RESTRICTION>0</BOX_RESTRICTION>
+    </LOGISTIC>
+
+    <ATYPICAL_PRODUCT>
+                    <ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING>
+        
+                    <ATYPICAL_BILLING>0</ATYPICAL_BILLING>
+            </ATYPICAL_PRODUCT>
+    <CURRENCY>CZK</CURRENCY>
+
+    
+            <PRICE>199900</PRICE>
+    
+    <PURCHASE_VAT>21</PURCHASE_VAT>
+    <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+
+
+
+<STOCK>
+                        <AMOUNT>0</AMOUNT>
+                            <LOCATION/>
+                            <MINIMAL_AMOUNT/>
+    <MAXIMAL_AMOUNT/>
+</STOCK>
+
+    <AVAILABILITY_OUT_OF_STOCK>11.01. 2027</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+
+
+
+
+    
+    <STOCK_MIN_SUPPLY/>
+
+
+    <VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <FIRMY_CZ>0</FIRMY_CZ>
+
+    <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+
+    <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+
+    <HEUREKA_CPC/>
+
+    <ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+
+    <ZBOZI_CPC/>
+
+    <ZBOZI_SEARCH_CPC/>
+
+    <ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+
+    <ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+
+    <DECIMAL_COUNT>0</DECIMAL_COUNT>
+
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+
+            <UNIT_OF_MEASURE>
+            <PACKAGE_AMOUNT/>
+            <PACKAGE_AMOUNT_UNIT/>
+            <MEASURE_AMOUNT/>
+            <MEASURE_AMOUNT_UNIT/>
+        </UNIT_OF_MEASURE>
+    
+    
+    <PRICE_RATIO>1</PRICE_RATIO>
+
+    <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+
+    <ACTION_PRICE/>
+
+    
+    
+    <APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+
+    <APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+
+    <APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+
+    <APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+
+            <RECYCLING_FEE_CATEGORY/>
+
+        <RECYCLING_FEE_PRICE/>
+
+        <RECYCLING_FEE_CURRENCY/>
+
+        <RECYCLING_FEE_TYPE/>
+    
+    
+            
+                                    
+            
+    
+
+<IMAGE_REF>https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/671_pristresek-pro-zvirata-animal-12--12-m.jpg?6af9e2ac</IMAGE_REF><PARAMETERS><PARAMETER><NAME>Šířka</NAME><VALUE>12 m</VALUE></PARAMETER><PARAMETER><NAME>Délka</NAME><VALUE>12 m</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

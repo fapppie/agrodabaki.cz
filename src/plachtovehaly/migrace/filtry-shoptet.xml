@@ -1,0 +1,1158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="749">
+    <NAME>Oblouková hala 6,1 × 14,64 m (204812 R)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>14,64 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000337</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000338</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 650 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="743">
+    <NAME>Oblouková hala 9,15 × 16 m s navijákem</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>16 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000317</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000318</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="50">
+    <NAME>Sedlová hala 10 × 12,2 m (334017P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000026</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000027</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="53">
+    <NAME>Sedlová hala 10 × 15,25 m (335017DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000028</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000029</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="56">
+    <NAME>Sedlová hala 10 × 18,3 m (336017P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000030</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000031</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="62">
+    <NAME>Sedlová hala 10 × 21,35 m (337017P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>21,35 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000226</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000227</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="59">
+    <NAME>Sedlová hala 10 × 24,4 m (338017P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000032</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000033</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="161">
+    <NAME>Sedlová hala 10 × 27,45 m (339017P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>27,45 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000348</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000426</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="149">
+    <NAME>Sedlová hala 10 × 9,15 m (333017DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>10 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000327</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000425</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="188">
+    <NAME>Sedlová hala 12,2 × 12,2 m (404021DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000371</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000385</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="65">
+    <NAME>Sedlová hala 12,2 × 24,4 m (408021DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000229</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000388</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="71">
+    <NAME>Sedlová hala 12,2 × 30,5 m (4010021DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000239</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000389</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="230">
+    <NAME>Sedlová hala 6,1 × 10,67 m (SP203512P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>10,67 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000412</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000413</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="89">
+    <NAME>Sedlová hala 6,1 × 12,2 m (SP204012P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000255</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000262</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="125">
+    <NAME>Sedlová hala 6,1 × 12,2 m s dvojitou konstrukcí (204016DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000298</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000299</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="242">
+    <NAME>Sedlová hala 6,1 × 13,72 m (SP204512P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>13,72 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000421</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000422</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="143">
+    <NAME>Sedlová hala 6,1 × 14,64 m s dvojitou konstrukcí (204816DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>14,64 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000322</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000323</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="137">
+    <NAME>Sedlová hala 6,1 × 15,25 m (SP205012P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000306</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000374</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="245">
+    <NAME>Sedlová hala 6,1 × 16,78 m (SP205512P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>16,78 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000423</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000424</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="128">
+    <NAME>Sedlová hala 6,1 × 17 m s dvojitou konstrukcí (205616DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>17 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000300</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000301</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="158">
+    <NAME>Sedlová hala 6,1 × 18,3 m (SP206012P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000345</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000377</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="131">
+    <NAME>Sedlová hala 6,1 × 19,52 m s dvojitou konstrukcí (206416DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>19,52 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000302</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000303</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="155">
+    <NAME>Sedlová hala 6,1 × 24,4 m s dvojitou konstrukcí (208016DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000341</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000342</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="83">
+    <NAME>Sedlová hala 6,1 × 6,1 m (SP202012P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000253</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000260</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="152">
+    <NAME>Sedlová hala 6,1 × 7,32 m s dvojitou konstrukcí (202416DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>7,32 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000339</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000340</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="227">
+    <NAME>Sedlová hala 6,1 × 7,62 m (SP202512P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>7,62 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000410</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000411</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="86">
+    <NAME>Sedlová hala 6,1 × 9,15 m (SP203012P)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000254</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000261</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="122">
+    <NAME>Sedlová hala 6,1 × 9,76 m s dvojitou konstrukcí (203216DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,76 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000296</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000370</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="167">
+    <NAME>Sedlová hala 8 × 12,2 m (264017DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>8 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000350</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000378</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="95">
+    <NAME>Sedlová hala 9,15 × 12 m (304020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000257</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000264</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="134">
+    <NAME>Sedlová hala 9,15 × 15,25 m (305020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>15,25 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000304</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000319</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="98">
+    <NAME>Sedlová hala 9,15 × 18,3 m (306020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000258</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000265</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="140">
+    <NAME>Sedlová hala 9,15 × 21,35 m (307020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>21,35 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000309</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000321</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="101">
+    <NAME>Sedlová hala 9,15 × 24,4 m (308020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000259</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000266</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="92">
+    <NAME>Sedlová hala 9,15 × 9,15 m (303020DP)</NAME>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000256</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000263</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

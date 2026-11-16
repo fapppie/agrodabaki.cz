@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 12,8 m (204212 R)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;8 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 540 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;8 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA - 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 540 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000013.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000013_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000013_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000013_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000014.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000014_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000014_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000014_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>750 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12,8 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000013</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>58900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>na objednání</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000013.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000014</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>58900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>25.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000014.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 18,3 m (206012 R)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;11 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA - 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 740 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 750 g/m²&lt;/h3&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;11 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 740 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000016.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000016_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000016_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000017.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000017_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000017_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000017_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>750 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000016</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>74900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000016.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000017</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>74900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000017.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 12 m s navijákem</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku&lt;/p&gt;&lt;p&gt;7 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 1000 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku.&lt;/p&gt;&lt;p&gt;7 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 1000 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000282.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000282_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000282_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000282_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>900 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>12 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000279</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>109900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000279.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000282</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>109900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000282.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 20 m s navijákem</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku&lt;/p&gt;&lt;p&gt;11 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 1560 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000283.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000283_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000283_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>900 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>20 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000280</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000280.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000283</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>149900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000283.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 26 m s navijákem</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku&lt;/p&gt;&lt;p&gt;14 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 1930 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>900 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>26 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000281</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000281.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000284</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>169900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000284.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 16 m s navijákem</NAME>
+    <DESCRIPTION>&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran - rolovací.&lt;/p&gt;&lt;p&gt;9 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Při odběru v našem skladě SLEVA 4000,-&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 1,15m x 0,8m 1460 kg&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000318.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000318_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000318_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000318_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000317</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>129900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000317.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000318</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>129900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000318.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 30 m s navijákem</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku&lt;/p&gt;&lt;p&gt;16 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 3000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 2250 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 900 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 2mm.&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,5mm.&lt;/p&gt;&lt;p&gt;Šířka vrat 350 cm&lt;/p&gt;&lt;p&gt;Výška vrat 390 cm&lt;/p&gt;&lt;p&gt;Vrata pomocí navijáku&lt;/p&gt;&lt;p&gt;16 obloukových setů - rozteč 200cm&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu S LEVA 3000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku&lt;/p&gt;&lt;p&gt;Rozměry balení 3m x 0,8m x 0,8m 2250 kg&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000324.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000324_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000324_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000325.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000325_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000325_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Plachta g/m2</NAME>
+        <VALUE>900 g</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000324</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>189900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>na dotaz</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000324.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000325</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>189900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>31.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000325.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 14,64 m (204812 R)</NAME>
+    <DESCRIPTION>&lt;h3&gt;Bílá · 750 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Plachta 750g/m2&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;9 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 650 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Vojenská zelená · 650 g/m²&lt;/h3&gt;&lt;p&gt;Nosné oblouky - oválný průřez 70 x 42 x 1,5mm&lt;/p&gt;&lt;p&gt;Rozpěrné zajišťovací trubky 40 x 1,2 mm&lt;/p&gt;&lt;p&gt;Šířka vrat 430 cm&lt;/p&gt;&lt;p&gt;Výška vrat 310 cm&lt;/p&gt;&lt;p&gt;Vrata z obou stran pomocí zipu&lt;/p&gt;&lt;p&gt;Průjezdová výška 3m.&lt;/p&gt;&lt;p&gt;9 obloukových setů - 183cm rozteč&lt;/p&gt;&lt;p&gt;Součástí balení jsou kotvící prvky.&lt;/p&gt;&lt;p&gt;Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.&lt;/p&gt;&lt;p&gt;Při odběru v našem skladu SLEVA 2000,-&lt;/p&gt;&lt;p&gt;Montáž haly můžete vidět ZDE&lt;/p&gt;&lt;p&gt;Rozměry balení 2,2m x 0,8m x 0,8 m 650 kg&lt;/p&gt;&lt;p&gt;Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zOuIQbBkT1I"&gt;ZDE&lt;/a&gt;&lt;/p&gt;</DESCRIPTION>
+    <VISIBILITY>hidden</VISIBILITY>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>Obloukové haly</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_5.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_6.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_7.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_8.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_9.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337_10.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000338.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000338_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000338_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000338_3.jpg</IMAGE>
+    </IMAGES>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000337</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>61900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000337.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000338</CODE>
+        <VAT>21</VAT>
+        <PRICE_VAT>61900</PRICE_VAT>
+        <CURRENCY>CZK</CURRENCY>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000338.jpg</IMAGE_REF>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 650 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

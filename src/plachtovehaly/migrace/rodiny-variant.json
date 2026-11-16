@@ -1,0 +1,2508 @@
+[
+  {
+    "name": "Sedlová hala s dvojitou konstrukcí, šířka 6,1 m",
+    "targetId": "152",
+    "cards": [
+      {
+        "id": "152",
+        "name": "Sedlová hala 6,1 × 7,32 m s dvojitou konstrukcí (202416DP)",
+        "codes": [
+          "1000339",
+          "1000340"
+        ],
+        "variants": [
+          {
+            "code": "1000339",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-202416dp-61m-x-732m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000339/",
+            "options": {
+              "Délka": "7,32 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000340",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-202416dp-61m-x-732m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000340/",
+            "options": {
+              "Délka": "7,32 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "122",
+        "name": "Sedlová hala 6,1 × 9,76 m s dvojitou konstrukcí (203216DP)",
+        "codes": [
+          "1000296",
+          "1000370"
+        ],
+        "variants": [
+          {
+            "code": "1000296",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-203216dp-61m-x-976m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000296/",
+            "options": {
+              "Délka": "9,76 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000370",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-203216dp-61m-x-976m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000370/",
+            "options": {
+              "Délka": "9,76 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "125",
+        "name": "Sedlová hala 6,1 × 12,2 m s dvojitou konstrukcí (204016DP)",
+        "codes": [
+          "1000298",
+          "1000299"
+        ],
+        "variants": [
+          {
+            "code": "1000298",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204016dp-61m-x-122m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000298/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000299",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204016dp-61m-x-122m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000299/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "143",
+        "name": "Sedlová hala 6,1 × 14,64 m s dvojitou konstrukcí (204816DP)",
+        "codes": [
+          "1000322",
+          "1000323"
+        ],
+        "variants": [
+          {
+            "code": "1000322",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204816dp-61m-x-1464m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000322/",
+            "options": {
+              "Délka": "14,64 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000323",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204816dp-61m-x-1464m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000323/",
+            "options": {
+              "Délka": "14,64 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "128",
+        "name": "Sedlová hala 6,1 × 17 m s dvojitou konstrukcí (205616DP)",
+        "codes": [
+          "1000300",
+          "1000301"
+        ],
+        "variants": [
+          {
+            "code": "1000300",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-205616dp-61m-x-17m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000300/",
+            "options": {
+              "Délka": "17 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000301",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-205616dp-61m-x-17m-x-488m-900g-pvc-zelena-dvojita-konstrukce-1000301/",
+            "options": {
+              "Délka": "17 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "131",
+        "name": "Sedlová hala 6,1 × 19,52 m s dvojitou konstrukcí (206416DP)",
+        "codes": [
+          "1000302",
+          "1000303"
+        ],
+        "variants": [
+          {
+            "code": "1000302",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-206416dp-61m-x-1952m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000302/",
+            "options": {
+              "Délka": "19,52 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000303",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-206416dp-61m-x-1952m-x-488m-900g-pvc-zelena-dvojita-konstrukce-1000303/",
+            "options": {
+              "Délka": "19,52 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "155",
+        "name": "Sedlová hala 6,1 × 24,4 m s dvojitou konstrukcí (208016DP)",
+        "codes": [
+          "1000341",
+          "1000342"
+        ],
+        "variants": [
+          {
+            "code": "1000341",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-208016dp-61m-x-244m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000341/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000342",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-208016dp-61m-x-244m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000342/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 23, šířka 7 m",
+    "targetId": "233",
+    "cards": [
+      {
+        "id": "233",
+        "name": "Sedlová hala 7 × 9,15 m (233017DP)",
+        "codes": [
+          "1000414"
+        ],
+        "variants": [
+          {
+            "code": "1000414",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/233017dp-plachtova-hala-7m-x-915m-x-52m-bila-1000414/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "236",
+        "name": "Sedlová hala 7 × 12,2 m (234017DP)",
+        "codes": [
+          "1000415"
+        ],
+        "variants": [
+          {
+            "code": "1000415",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/234017dp-plachtova-hala-7m-x-122m-x-52m-bila-1000415/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "239",
+        "name": "Sedlová hala 7 × 15,25 m (235017DP)",
+        "codes": [
+          "1000416"
+        ],
+        "variants": [
+          {
+            "code": "1000416",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/235017dp-plachtova-hala-7m-x-1525m-x-52m-bila-1000416/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 26, šířka 8 m",
+    "targetId": "164",
+    "cards": [
+      {
+        "id": "164",
+        "name": "Sedlová hala 8 × 9,15 m (263017DP)",
+        "codes": [
+          "1000349"
+        ],
+        "variants": [
+          {
+            "code": "1000349",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/263017dp-plachtova-hala-8m-x-915m-x-518m-bila-1000349/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "167",
+        "name": "Sedlová hala 8 × 12,2 m (264017DP)",
+        "codes": [
+          "1000350",
+          "1000378"
+        ],
+        "variants": [
+          {
+            "code": "1000350",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/264017dp-plachtova-hala-8m-x-122m-x-518m-bila-1000350/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000378",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/264017dp-plachtova-hala-8m-x-122m-x-518m-vojenska-zelena-1000378/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "170",
+        "name": "Sedlová hala 8 × 27,45 m (269017DP)",
+        "codes": [
+          "1000355"
+        ],
+        "variants": [
+          {
+            "code": "1000355",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/269017dp-plachtova-hala-8m-x-2745m-x-518m-bila-1000355/",
+            "options": {
+              "Délka": "27,45 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "173",
+        "name": "Sedlová hala 8 × 30,5 m (2610017DP)",
+        "codes": [
+          "1000356"
+        ],
+        "variants": [
+          {
+            "code": "1000356",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-8m-x-305m-x-518m-bila-2610017dp-1000356/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 30, šířka 9,15 m",
+    "targetId": "92",
+    "cards": [
+      {
+        "id": "92",
+        "name": "Sedlová hala 9,15 × 9,15 m (303020DP)",
+        "codes": [
+          "1000256",
+          "1000263"
+        ],
+        "variants": [
+          {
+            "code": "1000256",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/303020dp-plachtova-hala-915m-x-915m-x-61m-bila-1000256/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000263",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/303020dp-plachtova-hala-915m-x-915m-x-61m-vojenska-zelena-1000263/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "95",
+        "name": "Sedlová hala 9,15 × 12 m (304020DP)",
+        "codes": [
+          "1000257",
+          "1000264"
+        ],
+        "variants": [
+          {
+            "code": "1000257",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/304020dp-plachtova-hala-915m-x-12m-x-61m-bila-1000257/",
+            "options": {
+              "Délka": "12 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000264",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/304020dp-plachtova-hala-915m-x-12m-x-61m-vojenska-zelena-1000264/",
+            "options": {
+              "Délka": "12 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "134",
+        "name": "Sedlová hala 9,15 × 15,25 m (305020DP)",
+        "codes": [
+          "1000304",
+          "1000319"
+        ],
+        "variants": [
+          {
+            "code": "1000304",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/305020dp-plachtova-hala-915m-x-1525m-x-61m-bila-1000304/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000319",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/305020dp-plachtova-hala-915m-x-1525m-x-61m-vojenska-zelena-1000319/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "98",
+        "name": "Sedlová hala 9,15 × 18,3 m (306020DP)",
+        "codes": [
+          "1000258",
+          "1000265"
+        ],
+        "variants": [
+          {
+            "code": "1000258",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/306020dp-plachtova-hala-915m-x-183m-x-61m-bila-1000258/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000265",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/306020dp-plachtova-hala-915m-x-183m-x-61m-vojenska-zelena-1000265/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "140",
+        "name": "Sedlová hala 9,15 × 21,35 m (307020DP)",
+        "codes": [
+          "1000309",
+          "1000321"
+        ],
+        "variants": [
+          {
+            "code": "1000309",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/307020dp-plachtova-hala-915m-x-2135m-x-61m-bila-1000309/",
+            "options": {
+              "Délka": "21,35 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000321",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/307020dp-plachtova-hala-915m-x-2135m-x-61m-vojenska-zelena-1000321/",
+            "options": {
+              "Délka": "21,35 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "101",
+        "name": "Sedlová hala 9,15 × 24,4 m (308020DP)",
+        "codes": [
+          "1000259",
+          "1000266"
+        ],
+        "variants": [
+          {
+            "code": "1000259",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/308020dp-plachtova-hala-915m-x-244m-x-61m-bila-1000259/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000266",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/308020dp-plachtova-hala-915m-x-244m-x-61m-vojenska-zelena-1000266/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "146",
+        "name": "Sedlová hala 9,15 × 30,5 m (3010020DP)",
+        "codes": [
+          "1000326"
+        ],
+        "variants": [
+          {
+            "code": "1000326",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-3010020dp-915m-x-305m-x-61m-bila-1000326/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 33, šířka 10 m",
+    "targetId": "50",
+    "cards": [
+      {
+        "id": "50",
+        "name": "Sedlová hala 10 × 12,2 m (334017P)",
+        "codes": [
+          "1000026",
+          "1000027"
+        ],
+        "variants": [
+          {
+            "code": "1000026",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/334017-p-plachtova-hala-10-x-122-x-52-vojenska-zelena-1000026/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000027",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/334017-p-plachtova-hala-10-x-122-x-52-bila-1000027/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "149",
+        "name": "Sedlová hala 10 × 9,15 m (333017DP)",
+        "codes": [
+          "1000327",
+          "1000425"
+        ],
+        "variants": [
+          {
+            "code": "1000327",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/333017dp-plachtova-hala-10-x-915-x-52-bila-1000327/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000425",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/333017dp-plachtova-hala-10-x-915-x-52-vojenska-zelena-1000425/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "53",
+        "name": "Sedlová hala 10 × 15,25 m (335017DP)",
+        "codes": [
+          "1000028",
+          "1000029"
+        ],
+        "variants": [
+          {
+            "code": "1000028",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/335017-dp-plachtova-hala-10-x-1525-x-52-vojenska-zelena-1000028/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000029",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/335017-dp-plachtova-hala-10-x-1525-x-52-bila-1000029/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "56",
+        "name": "Sedlová hala 10 × 18,3 m (336017P)",
+        "codes": [
+          "1000030",
+          "1000031"
+        ],
+        "variants": [
+          {
+            "code": "1000030",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/336017-p-plachtova-hala-10-x-183-x-52-vojenska-zelena-1000030/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000031",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/336017-p-plachtova-hala-10-x-183-x-52-bila-1000031/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "62",
+        "name": "Sedlová hala 10 × 21,35 m (337017P)",
+        "codes": [
+          "1000226",
+          "1000227"
+        ],
+        "variants": [
+          {
+            "code": "1000226",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/337017p-plachtova-hala-10-x-2135-x-52-vojenska-zelena-1000226/",
+            "options": {
+              "Délka": "21,35 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000227",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/337017p-plachtova-hala-10-x-2135-x-52-bila-1000227/",
+            "options": {
+              "Délka": "21,35 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "59",
+        "name": "Sedlová hala 10 × 24,4 m (338017P)",
+        "codes": [
+          "1000032",
+          "1000033"
+        ],
+        "variants": [
+          {
+            "code": "1000032",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/338017-p-plachtova-hala-10-x-244-x-52-vojenska-zelena-1000032/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000033",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/338017-p-plachtova-hala-10-x-244-x-52-bila-1000033/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "161",
+        "name": "Sedlová hala 10 × 27,45 m (339017P)",
+        "codes": [
+          "1000348",
+          "1000426"
+        ],
+        "variants": [
+          {
+            "code": "1000348",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/339017-p-plachtova-hala-10-x-2745-x-52-bila-1000348/",
+            "options": {
+              "Délka": "27,45 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000426",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/339017-p-plachtova-hala-10-x-2745-x-52-vojenska-zelena-1000426/",
+            "options": {
+              "Délka": "27,45 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "197",
+        "name": "Sedlová hala 10 × 33,55 m (3311017DP)",
+        "codes": [
+          "1000375"
+        ],
+        "variants": [
+          {
+            "code": "1000375",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-10-x-3355-x-52-3311017dp-bila-1000375/",
+            "options": {
+              "Délka": "33,55 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala s bočním vstupem, šířka 10 m",
+    "targetId": "104",
+    "cards": [
+      {
+        "id": "104",
+        "name": "Sedlová hala 10 × 12 m s bočním vstupem (P334020DP)",
+        "codes": [
+          "1000267"
+        ],
+        "variants": [
+          {
+            "code": "1000267",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p334020dp-10m-x-12m-x-61m-bila-1000267/",
+            "options": {
+              "Délka": "12 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "107",
+        "name": "Sedlová hala 10 × 18,3 m s bočním vstupem (P336020DP)",
+        "codes": [
+          "1000268"
+        ],
+        "variants": [
+          {
+            "code": "1000268",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p336020dp-10m-x-183m-x-61m-bila-1000268/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "110",
+        "name": "Sedlová hala 10 × 24,4 m s bočním vstupem (P338020DP)",
+        "codes": [
+          "1000269"
+        ],
+        "variants": [
+          {
+            "code": "1000269",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p338020dp-10m-x-244m-x-61m-bila-1000269/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady PP, šířka 10 m",
+    "targetId": "113",
+    "cards": [
+      {
+        "id": "113",
+        "name": "Sedlová hala 10 × 12,2 m (PP334020DP)",
+        "codes": [
+          "1000287"
+        ],
+        "variants": [
+          {
+            "code": "1000287",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp334020dp-plachtova-hala-10m-x-122m-x-61m-bila-1000287/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "218",
+        "name": "Sedlová hala 10 × 9,15 m (PP333020DP)",
+        "codes": [
+          "1000407"
+        ],
+        "variants": [
+          {
+            "code": "1000407",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp333020dp-plachtova-hala-10m-x-915m-x-61m-bila-1000407/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "176",
+        "name": "Sedlová hala 10 × 15,25 m (PP335020DP)",
+        "codes": [
+          "1000362"
+        ],
+        "variants": [
+          {
+            "code": "1000362",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp335020dp-plachtova-hala-10m-x-1525m-x-61m-bila-1000362/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "116",
+        "name": "Sedlová hala 10 × 18,3 m (PP336020DP)",
+        "codes": [
+          "1000288"
+        ],
+        "variants": [
+          {
+            "code": "1000288",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp336020dp-plachtova-hala-10m-x-183m-x-61m-bila-1000288/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "119",
+        "name": "Sedlová hala 10 × 24,4 m (PP338020DP)",
+        "codes": [
+          "1000289"
+        ],
+        "variants": [
+          {
+            "code": "1000289",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp338020dp-plachtova-hala-10m-x-244m-x-61m-bila-1000289/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "182",
+        "name": "Sedlová hala 10 × 30,5 m (PP3310020DP)",
+        "codes": [
+          "1000368"
+        ],
+        "variants": [
+          {
+            "code": "1000368",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp3310020dp-plachtova-hala-10m-x-305m-x-61m-bila-1000368/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "221",
+        "name": "Sedlová hala 10 × 33,55 m (PP3311020DP)",
+        "codes": [
+          "1000408"
+        ],
+        "variants": [
+          {
+            "code": "1000408",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp3311020dp-plachtova-hala-10m-x-3355m-x-61m-bila-1000408/",
+            "options": {
+              "Délka": "33,55 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "224",
+        "name": "Sedlová hala 10 × 36,6 m (PP3312020DP)",
+        "codes": [
+          "1000409"
+        ],
+        "variants": [
+          {
+            "code": "1000409",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pp3312020dp-plachtova-hala-10m-x-366m-x-61m-bila-1000409/",
+            "options": {
+              "Délka": "36,6 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 40, šířka 12,2 m",
+    "targetId": "203",
+    "cards": [
+      {
+        "id": "203",
+        "name": "Sedlová hala 12,2 × 9,15 m (403021DP)",
+        "codes": [
+          "1000392"
+        ],
+        "variants": [
+          {
+            "code": "1000392",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-0915m-x-64m-403021dp-bila-1000392/",
+            "options": {
+              "Délka": "9,15 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "188",
+        "name": "Sedlová hala 12,2 × 12,2 m (404021DP)",
+        "codes": [
+          "1000371",
+          "1000385"
+        ],
+        "variants": [
+          {
+            "code": "1000371",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-122m-x-64m-404021dp-bila-1000371/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000385",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-122m-x-64m-404021dp-vojenska-zelena-1000385/",
+            "options": {
+              "Délka": "12,2 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "68",
+        "name": "Sedlová hala 12,2 × 21,3 m (407021DP)",
+        "codes": [
+          "1000238"
+        ],
+        "variants": [
+          {
+            "code": "1000238",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-213m-x-64m-407021dp-bila-1000238/",
+            "options": {
+              "Délka": "21,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "65",
+        "name": "Sedlová hala 12,2 × 24,4 m (408021DP)",
+        "codes": [
+          "1000229",
+          "1000388"
+        ],
+        "variants": [
+          {
+            "code": "1000229",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-244m-x-64m-408021dp-bila-1000229/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000388",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-244m-x-64m-408021dp-vojenska-zelena-1000388/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "191",
+        "name": "Sedlová hala 12,2 × 27,45 m (409021DP)",
+        "codes": [
+          "1000372"
+        ],
+        "variants": [
+          {
+            "code": "1000372",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-2745m-x-64m-409021dp-bila-1000372/",
+            "options": {
+              "Délka": "27,45 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "71",
+        "name": "Sedlová hala 12,2 × 30,5 m (4010021DP)",
+        "codes": [
+          "1000239",
+          "1000389"
+        ],
+        "variants": [
+          {
+            "code": "1000239",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-305m-x-64m-4010021dp-bila-1000239/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000389",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-305m-x-64m-4010021dp-vojenska-zelena-1000389/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "194",
+        "name": "Sedlová hala 12,2 × 33,55 m (4011021DP)",
+        "codes": [
+          "1000373"
+        ],
+        "variants": [
+          {
+            "code": "1000373",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-3355m-x-64m-4011021dp-bila-1000373/",
+            "options": {
+              "Délka": "33,55 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "74",
+        "name": "Sedlová hala 12,2 × 36,6 m (401202DP)",
+        "codes": [
+          "1000240"
+        ],
+        "variants": [
+          {
+            "code": "1000240",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-366m-x-64m-401202dp-bila-1000240/",
+            "options": {
+              "Délka": "36,6 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 50, šířka 15,25 m",
+    "targetId": "200",
+    "cards": [
+      {
+        "id": "200",
+        "name": "Sedlová hala 15,25 × 15,25 m (505023DP)",
+        "codes": [
+          "1000390"
+        ],
+        "variants": [
+          {
+            "code": "1000390",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/50-50-23-dp-plachtova-hala-1525m-x-1525m-x-7015m-bila-1000390/",
+            "options": {
+              "Délka": "15,25 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "185",
+        "name": "Sedlová hala 15,25 × 18,3 m (506023DP)",
+        "codes": [
+          "1000369"
+        ],
+        "variants": [
+          {
+            "code": "1000369",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/50-60-23-dp-plachtova-hala-1525m-x-183m-x-7015m-bila-1000369/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "179",
+        "name": "Sedlová hala 15,25 × 21,35 m (507023DP)",
+        "codes": [
+          "1000365"
+        ],
+        "variants": [
+          {
+            "code": "1000365",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/50-70-23-dp-plachtova-hala-1525m-x-2135m-x-7015m-bila-1000365/",
+            "options": {
+              "Délka": "21,35 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "77",
+        "name": "Sedlová hala 15,25 × 24,4 m (508023DP)",
+        "codes": [
+          "1000242"
+        ],
+        "variants": [
+          {
+            "code": "1000242",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/50-80-23-dp-plachtova-hala-1525m-x-244m-x-7015m-bila-1000242/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "215",
+        "name": "Sedlová hala 15,25 × 27,45 m (509023DP)",
+        "codes": [
+          "1000406"
+        ],
+        "variants": [
+          {
+            "code": "1000406",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/50-90-23-dp-plachtova-hala-1525m-x-2745m-x-7015m-bila-1000406/",
+            "options": {
+              "Délka": "27,45 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "80",
+        "name": "Sedlová hala 15,25 × 30,5 m (5010023DP)",
+        "codes": [
+          "1000243"
+        ],
+        "variants": [
+          {
+            "code": "1000243",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-50-100-23d-p-1525m-x-305m-x-7015m-bila-1000243/",
+            "options": {
+              "Délka": "30,5 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Sedlová hala řady 60, šířka 18,3 m",
+    "targetId": "206",
+    "cards": [
+      {
+        "id": "206",
+        "name": "Sedlová hala 18,3 × 24,4 m (608025DP)",
+        "codes": [
+          "1000397"
+        ],
+        "variants": [
+          {
+            "code": "1000397",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-244m-x-76m-bila-6080-25-dp-1000397/",
+            "options": {
+              "Délka": "24,4 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "209",
+        "name": "Sedlová hala 18,3 × 31,72 m (6011025DP)",
+        "codes": [
+          "1000398"
+        ],
+        "variants": [
+          {
+            "code": "1000398",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-3172m-x-76m-bila-60-110-25-dp-1000398/",
+            "options": {
+              "Délka": "31,72 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "212",
+        "name": "Sedlová hala 18,3 × 36,6 m (6012025DP)",
+        "codes": [
+          "1000399"
+        ],
+        "variants": [
+          {
+            "code": "1000399",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-366m-x-76m-bila-60-120-25-dp-1000399/",
+            "options": {
+              "Délka": "36,6 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Oblouková hala se zipovými vraty, šířka 6,1 m",
+    "targetId": "44",
+    "cards": [
+      {
+        "id": "44",
+        "name": "Oblouková hala 6,1 × 7,3 m (202412 R)",
+        "codes": [
+          "1000335",
+          "1000336"
+        ],
+        "variants": [
+          {
+            "code": "1000335",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-bila-1000335/",
+            "options": {
+              "Délka": "7,3 m",
+              "Provedení plachty": "Bílá · 650 g/m²"
+            }
+          },
+          {
+            "code": "1000336",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-vojenska-zelena-1000336/",
+            "options": {
+              "Délka": "7,3 m",
+              "Provedení plachty": "Vojenská zelená · 750 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "728",
+        "name": "Oblouková hala 6,1 × 12,8 m (204212 R)",
+        "codes": [
+          "1000013",
+          "1000014"
+        ],
+        "variants": [
+          {
+            "code": "1000013",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/204212-r-plachtova-hala-61-x-128-x-366-m-bila-1000013/",
+            "options": {
+              "Délka": "12,8 m",
+              "Provedení plachty": "Bílá · 750 g/m²"
+            }
+          },
+          {
+            "code": "1000014",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/204212-r-plachtova-hala-61-x-128-x-366-m-vojenska-zelena-1000014/",
+            "options": {
+              "Délka": "12,8 m",
+              "Provedení plachty": "Vojenská zelená · 750 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "749",
+        "name": "Oblouková hala 6,1 × 14,64 m (204812 R)",
+        "codes": [
+          "1000337",
+          "1000338"
+        ],
+        "variants": [
+          {
+            "code": "1000337",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/204812-r-plachtova-hala-61-x-1464-x-366-m-bila-1000337/",
+            "options": {
+              "Délka": "14,64 m",
+              "Provedení plachty": "Bílá · 750 g/m²"
+            }
+          },
+          {
+            "code": "1000338",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/204812-r-plachtova-hala-61-x-1464-x-366-m-vojenska-zelena-1000338/",
+            "options": {
+              "Délka": "14,64 m",
+              "Provedení plachty": "Vojenská zelená · 650 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "731",
+        "name": "Oblouková hala 6,1 × 18,3 m (206012 R)",
+        "codes": [
+          "1000016",
+          "1000017"
+        ],
+        "variants": [
+          {
+            "code": "1000016",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/206012-r-plachtova-hala-61-x-183-x-366-m-bila-1000016/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Bílá · 750 g/m²"
+            }
+          },
+          {
+            "code": "1000017",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/206012r-plachtova-hala-61-x-183-x-366-vojenska-zelena-1000017/",
+            "options": {
+              "Délka": "18,3 m",
+              "Provedení plachty": "Vojenská zelená · 750 g/m²"
+            }
+          }
+        ],
+        "single": false
+      }
+    ]
+  },
+  {
+    "name": "Oblouková hala s navijákem, šířka 9,15 m",
+    "targetId": "734",
+    "cards": [
+      {
+        "id": "734",
+        "name": "Oblouková hala 9,15 × 12 m s navijákem",
+        "codes": [
+          "1000279",
+          "1000282"
+        ],
+        "variants": [
+          {
+            "code": "1000279",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-12-x-45-900g-m2-%2B-navijak-bila-1000279/",
+            "options": {
+              "Délka": "12 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000282",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-12-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000282/",
+            "options": {
+              "Délka": "12 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "743",
+        "name": "Oblouková hala 9,15 × 16 m s navijákem",
+        "codes": [
+          "1000317",
+          "1000318"
+        ],
+        "variants": [
+          {
+            "code": "1000317",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-16-x-45-900g-m2-%2B-navijak-bila-1000317/",
+            "options": {
+              "Délka": "16 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000318",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-16-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000318/",
+            "options": {
+              "Délka": "16 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "737",
+        "name": "Oblouková hala 9,15 × 20 m s navijákem",
+        "codes": [
+          "1000280",
+          "1000283"
+        ],
+        "variants": [
+          {
+            "code": "1000280",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-20-x-45-900g-m2-%2B-navijak-bila-1000280/",
+            "options": {
+              "Délka": "20 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000283",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-20-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000283/",
+            "options": {
+              "Délka": "20 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "740",
+        "name": "Oblouková hala 9,15 × 26 m s navijákem",
+        "codes": [
+          "1000281",
+          "1000284"
+        ],
+        "variants": [
+          {
+            "code": "1000281",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-26-x-45-900g-m2-%2B-navijak-bila-1000281/",
+            "options": {
+              "Délka": "26 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000284",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-26-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000284/",
+            "options": {
+              "Délka": "26 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "746",
+        "name": "Oblouková hala 9,15 × 30 m s navijákem",
+        "codes": [
+          "1000324",
+          "1000325"
+        ],
+        "variants": [
+          {
+            "code": "1000324",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-30-x-45-900g-m2-%2B-navijak-bila-1000324/",
+            "options": {
+              "Délka": "30 m",
+              "Provedení plachty": "Bílá · 900 g/m²"
+            }
+          },
+          {
+            "code": "1000325",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-30-x-45-900g-m2-%2B-navijak-voj-zelena-1000325/",
+            "options": {
+              "Délka": "30 m",
+              "Provedení plachty": "Vojenská zelená · 900 g/m²"
+            }
+          }
+        ],
+        "single": false
+      }
+    ]
+  },
+  {
+    "name": "Zastřešení kontejnerů C20, šířka 6 m",
+    "targetId": "674",
+    "cards": [
+      {
+        "id": "674",
+        "name": "Zastřešení kontejnerů 6 × 6 m (C2020)",
+        "codes": [
+          "1000285",
+          "1000366"
+        ],
+        "variants": [
+          {
+            "code": "1000285",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-bily-1000285/",
+            "options": {
+              "Délka": "6 m",
+              "Barva plachty": "Bílá"
+            }
+          },
+          {
+            "code": "1000366",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-vojenska-zelena-1000366/",
+            "options": {
+              "Délka": "6 m",
+              "Barva plachty": "Vojenská zelená"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "677",
+        "name": "Zastřešení kontejnerů 6 × 12 m (C2040)",
+        "codes": [
+          "1000286",
+          "1000367"
+        ],
+        "variants": [
+          {
+            "code": "1000286",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-bily-1000286/",
+            "options": {
+              "Délka": "12 m",
+              "Barva plachty": "Bílá"
+            }
+          },
+          {
+            "code": "1000367",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-vojenska-zelena-1000367/",
+            "options": {
+              "Délka": "12 m",
+              "Barva plachty": "Vojenská zelená"
+            }
+          }
+        ],
+        "single": false
+      }
+    ]
+  },
+  {
+    "name": "Zastřešení kontejnerů C26, šířka 8 m",
+    "targetId": "695",
+    "cards": [
+      {
+        "id": "695",
+        "name": "Zastřešení kontejnerů 8 × 12 m (C2640)",
+        "codes": [
+          "1000343",
+          "1000380"
+        ],
+        "variants": [
+          {
+            "code": "1000343",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-1000343/",
+            "options": {
+              "Délka": "12 m",
+              "Rozteč oblouků": "1 m"
+            }
+          },
+          {
+            "code": "1000380",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-2m-arch-space-1000380/",
+            "options": {
+              "Délka": "12 m",
+              "Rozteč oblouků": "2 m"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "680",
+        "name": "Zastřešení kontejnerů 8 × 6 m (C2620)",
+        "codes": [
+          "1000344"
+        ],
+        "variants": [
+          {
+            "code": "1000344",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c2620-8m-x-6m-x-3m-750g-m2-bily-1000344/",
+            "options": {
+              "Délka": "6 m",
+              "Rozteč oblouků": "1 m"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Zastřešení kontejnerů C33S, šířka 10 m",
+    "targetId": "683",
+    "cards": [
+      {
+        "id": "683",
+        "name": "Zastřešení kontejnerů 10 × 6 m (C3320S)",
+        "codes": [
+          "1000329"
+        ],
+        "variants": [
+          {
+            "code": "1000329",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c3320s-10m-x-6m-x-36m-900g-m2-bily-1000329/",
+            "options": {
+              "Délka": "6 m"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "686",
+        "name": "Zastřešení kontejnerů 10 × 12 m (C3340S)",
+        "codes": [
+          "1000402"
+        ],
+        "variants": [
+          {
+            "code": "1000402",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c3340s-10m-x-12m-x-36m-900g-m2-bila-2m-arch-space-1000402/",
+            "options": {
+              "Délka": "12 m"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Zastřešení kontejnerů s navijákovými vraty, hloubka 12 m",
+    "targetId": "689",
+    "cards": [
+      {
+        "id": "689",
+        "name": "Zastřešení kontejnerů 15 × 12 m (C5040S)",
+        "codes": [
+          "1000404"
+        ],
+        "variants": [
+          {
+            "code": "1000404",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c5040s-15m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000404/",
+            "options": {
+              "Šířka": "15 m"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "692",
+        "name": "Zastřešení kontejnerů 18 × 12 m (C6040S)",
+        "codes": [
+          "1000405"
+        ],
+        "variants": [
+          {
+            "code": "1000405",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/c6040s-18m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000405/",
+            "options": {
+              "Šířka": "18 m"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Plachtová garáž pro karavan 4,3 × 9,2 m",
+    "targetId": "707",
+    "cards": [
+      {
+        "id": "707",
+        "name": "Plachtová garáž pro karavan 4,3 × 9,2 × 5 m (143016R)",
+        "codes": [
+          "1000294",
+          "1000357"
+        ],
+        "variants": [
+          {
+            "code": "1000294",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-vojenska-zelena-143016r-1000294/",
+            "options": {
+              "Výška": "5 m",
+              "Barva plachty": "Vojenská zelená"
+            }
+          },
+          {
+            "code": "1000357",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-sediva-143016r-1000357/",
+            "options": {
+              "Výška": "5 m",
+              "Barva plachty": "Šedá"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "704",
+        "name": "Plachtová garáž pro karavan 4,3 × 9,2 × 4,3 m (143014R)",
+        "codes": [
+          "1000293"
+        ],
+        "variants": [
+          {
+            "code": "1000293",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-43m-750g-m2-bila-143014r-1000293/",
+            "options": {
+              "Výška": "4,3 m",
+              "Barva plachty": "Bílá"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Přístřešek pro zvířata Animal s hrazením a plachtou 750 g/m²",
+    "targetId": "659",
+    "cards": [
+      {
+        "id": "659",
+        "name": "Přístřešek pro zvířata Animal, šířka 4 m",
+        "codes": [
+          "1000251",
+          "1000379"
+        ],
+        "variants": [
+          {
+            "code": "1000251",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-4m-x-315m-vojenska-zelena-1000251/",
+            "options": {
+              "Šířka": "4 m",
+              "Délka": "4 m"
+            }
+          },
+          {
+            "code": "1000379",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-6m-x-315m-vojenska-zelena-1000379/",
+            "options": {
+              "Šířka": "4 m",
+              "Délka": "6 m"
+            }
+          }
+        ],
+        "single": false
+      },
+      {
+        "id": "662",
+        "name": "Přístřešek pro zvířata Animal, šířka 6 m",
+        "codes": [
+          "1000252",
+          "1000332",
+          "1000333"
+        ],
+        "variants": [
+          {
+            "code": "1000252",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-6m-x-37m-vojenska-zelena-1000252/",
+            "options": {
+              "Šířka": "6 m",
+              "Délka": "6 m"
+            }
+          },
+          {
+            "code": "1000332",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-8m-x-37m-vojenska-zelena-1000332/",
+            "options": {
+              "Šířka": "6 m",
+              "Délka": "8 m"
+            }
+          },
+          {
+            "code": "1000333",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-10m-x-37m-vojenska-zelena-1000333/",
+            "options": {
+              "Šířka": "6 m",
+              "Délka": "10 m"
+            }
+          }
+        ],
+        "single": false
+      }
+    ]
+  },
+  {
+    "name": "Příkopový mulčovač AGE",
+    "targetId": "248",
+    "cards": [
+      {
+        "id": "248",
+        "name": "Příkopový mulčovač AGE 125",
+        "codes": [
+          "1000034"
+        ],
+        "variants": [
+          {
+            "code": "1000034",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-age-125-1000034/",
+            "options": {
+              "Model": "AGE 125"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "251",
+        "name": "Příkopový mulčovač AGE 145",
+        "codes": [
+          "1000035"
+        ],
+        "variants": [
+          {
+            "code": "1000035",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-age-145-1000035/",
+            "options": {
+              "Model": "AGE 145"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Mulčovač AGF PRO",
+    "targetId": "254",
+    "cards": [
+      {
+        "id": "254",
+        "name": "Mulčovač AGF 140 PRO",
+        "codes": [
+          "1000036"
+        ],
+        "variants": [
+          {
+            "code": "1000036",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-140-pro-1000036/",
+            "options": {
+              "Model": "AGF 140 PRO"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "257",
+        "name": "Mulčovač AGF 160 PRO",
+        "codes": [
+          "1000037"
+        ],
+        "variants": [
+          {
+            "code": "1000037",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-160-pro-1000037/",
+            "options": {
+              "Model": "AGF 160 PRO"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "260",
+        "name": "Mulčovač AGF 180 PRO",
+        "codes": [
+          "1000038"
+        ],
+        "variants": [
+          {
+            "code": "1000038",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-180-pro-1000038/",
+            "options": {
+              "Model": "AGF 180 PRO"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "263",
+        "name": "Mulčovač AGF 200 PRO",
+        "codes": [
+          "1000039"
+        ],
+        "variants": [
+          {
+            "code": "1000039",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-200-pro-1000039/",
+            "options": {
+              "Model": "AGF 200 PRO"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Lesní mulčovač FFM",
+    "targetId": "272",
+    "cards": [
+      {
+        "id": "272",
+        "name": "Lesní mulčovač FFM 140",
+        "codes": [
+          "1000045"
+        ],
+        "variants": [
+          {
+            "code": "1000045",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/lesni-mulcovac-ffm-140-1000045/",
+            "options": {
+              "Model": "FFM 140"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "275",
+        "name": "Lesní mulčovač FFM 180",
+        "codes": [
+          "1000046"
+        ],
+        "variants": [
+          {
+            "code": "1000046",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/lesni-mulcovac-ffm-180-1000046/",
+            "options": {
+              "Model": "FFM 180"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Rotační brány LXG",
+    "targetId": "278",
+    "cards": [
+      {
+        "id": "278",
+        "name": "Rotační brány LXG 130",
+        "codes": [
+          "1000049"
+        ],
+        "variants": [
+          {
+            "code": "1000049",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-130-1000049/",
+            "options": {
+              "Model": "LXG 130"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "281",
+        "name": "Rotační brány LXG 170",
+        "codes": [
+          "1000050"
+        ],
+        "variants": [
+          {
+            "code": "1000050",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-170-1000050/",
+            "options": {
+              "Model": "LXG 170"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "284",
+        "name": "Rotační brány LXG 210",
+        "codes": [
+          "1000051"
+        ],
+        "variants": [
+          {
+            "code": "1000051",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-210-1000051/",
+            "options": {
+              "Model": "LXG 210"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Mulčovací sekačka FM",
+    "targetId": "635",
+    "cards": [
+      {
+        "id": "635",
+        "name": "Mulčovací sekačka FM 120",
+        "codes": [
+          "1000232"
+        ],
+        "variants": [
+          {
+            "code": "1000232",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-120-1000232/",
+            "options": {
+              "Model": "FM 120"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "638",
+        "name": "Mulčovací sekačka FM 150",
+        "codes": [
+          "1000233"
+        ],
+        "variants": [
+          {
+            "code": "1000233",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-150-1000233/",
+            "options": {
+              "Model": "FM 150"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "641",
+        "name": "Mulčovací sekačka FM 180",
+        "codes": [
+          "1000234"
+        ],
+        "variants": [
+          {
+            "code": "1000234",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-180-1000234/",
+            "options": {
+              "Model": "FM 180"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Transportní box PRMH",
+    "targetId": "287",
+    "cards": [
+      {
+        "id": "287",
+        "name": "Transportní box PRMH 120",
+        "codes": [
+          "1000070"
+        ],
+        "variants": [
+          {
+            "code": "1000070",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-120-1000070/",
+            "options": {
+              "Model": "PRMH 120"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "290",
+        "name": "Transportní box PRMH 140",
+        "codes": [
+          "1000071"
+        ],
+        "variants": [
+          {
+            "code": "1000071",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-140-1000071/",
+            "options": {
+              "Model": "PRMH 140"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "293",
+        "name": "Transportní box PRMH 160",
+        "codes": [
+          "1000072"
+        ],
+        "variants": [
+          {
+            "code": "1000072",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-160-1000072/",
+            "options": {
+              "Model": "PRMH 160"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "296",
+        "name": "Transportní box PRMH 180",
+        "codes": [
+          "1000073"
+        ],
+        "variants": [
+          {
+            "code": "1000073",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-180-1000073/",
+            "options": {
+              "Model": "PRMH 180"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "299",
+        "name": "Transportní box PRMH 200",
+        "codes": [
+          "1000074"
+        ],
+        "variants": [
+          {
+            "code": "1000074",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-200-1000074/",
+            "options": {
+              "Model": "PRMH 200"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Klínový řemen B 17",
+    "targetId": "545",
+    "cards": [
+      {
+        "id": "545",
+        "name": "Klínový řemen B 17, 1040 Lw / 1000 Li",
+        "codes": [
+          "1000173"
+        ],
+        "variants": [
+          {
+            "code": "1000173",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1040lw-1000-li-age-1000173/",
+            "options": {
+              "Délka Lw / Li": "1040 Lw / 1000 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "551",
+        "name": "Klínový řemen B 17, 1110 Lw / 1050 Li",
+        "codes": [
+          "1000175"
+        ],
+        "variants": [
+          {
+            "code": "1000175",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1110lw-1050li-atv-1000175/",
+            "options": {
+              "Délka Lw / Li": "1110 Lw / 1050 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "554",
+        "name": "Klínový řemen B 17, 1285 Lw / 1245 Li",
+        "codes": [
+          "1000176"
+        ],
+        "variants": [
+          {
+            "code": "1000176",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1285-lw-1245-li-1000176/",
+            "options": {
+              "Délka Lw / Li": "1285 Lw / 1245 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "557",
+        "name": "Klínový řemen B 17, 1335 Lw / 1295 Li",
+        "codes": [
+          "1000177"
+        ],
+        "variants": [
+          {
+            "code": "1000177",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1335-lw-1295-li-1000177/",
+            "options": {
+              "Délka Lw / Li": "1335 Lw / 1295 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "548",
+        "name": "Klínový řemen B 17, 1385 Lw / 1345 Li",
+        "codes": [
+          "1000174"
+        ],
+        "variants": [
+          {
+            "code": "1000174",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1385lw-1345li-agf-pro-1000174/",
+            "options": {
+              "Délka Lw / Li": "1385 Lw / 1345 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "542",
+        "name": "Klínový řemen B 17, 1590 Lw / 1550 Li",
+        "codes": [
+          "1000172"
+        ],
+        "variants": [
+          {
+            "code": "1000172",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1590lw-1550li-ffm-1000172/",
+            "options": {
+              "Délka Lw / Li": "1590 Lw / 1550 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "560",
+        "name": "Klínový řemen B 17, 1750 Lw / 1710 Li",
+        "codes": [
+          "1000178"
+        ],
+        "variants": [
+          {
+            "code": "1000178",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1750-lw-1710-li-1000178/",
+            "options": {
+              "Délka Lw / Li": "1750 Lw / 1710 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "563",
+        "name": "Klínový řemen B 17, 1790 Lw / 1750 Li",
+        "codes": [
+          "1000179"
+        ],
+        "variants": [
+          {
+            "code": "1000179",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1790-lw-1750-li-1000179/",
+            "options": {
+              "Délka Lw / Li": "1790 Lw / 1750 Li"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "566",
+        "name": "Klínový řemen B 17, 1840 Lw / 1800 Li",
+        "codes": [
+          "1000180"
+        ],
+        "variants": [
+          {
+            "code": "1000180",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1840-lw-1800-li-1000180/",
+            "options": {
+              "Délka Lw / Li": "1840 Lw / 1800 Li"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Gufero pro mulčovač AGF",
+    "targetId": "314",
+    "cards": [
+      {
+        "id": "314",
+        "name": "Gufero 40 × 90 × 10 pro mulčovač AGF",
+        "codes": [
+          "1000083"
+        ],
+        "variants": [
+          {
+            "code": "1000083",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/gufero-40x90x10-1000083/",
+            "options": {
+              "Rozměr": "40 × 90 × 10 mm"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "344",
+        "name": "Gufero 45 × 80 × 10 pro mulčovač AGF",
+        "codes": [
+          "1000100"
+        ],
+        "variants": [
+          {
+            "code": "1000100",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/gufero-45x80x10-agf-1000100/",
+            "options": {
+              "Rozměr": "45 × 80 × 10 mm"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Pouzdro řemenice pro mulčovač AGF",
+    "targetId": "365",
+    "cards": [
+      {
+        "id": "365",
+        "name": "Pouzdro řemenice 33 × 80 pro mulčovač AGF",
+        "codes": [
+          "1000108"
+        ],
+        "variants": [
+          {
+            "code": "1000108",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pouzdro-remenice-33x80-agf-1000108/",
+            "options": {
+              "Rozměr": "33 × 80 mm"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "353",
+        "name": "Pouzdro řemenice 40 × 65 pro mulčovač AGF",
+        "codes": [
+          "1000103"
+        ],
+        "variants": [
+          {
+            "code": "1000103",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/pouzdro-remenice-40x65-agf-1000103/",
+            "options": {
+              "Rozměr": "40 × 65 mm"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  },
+  {
+    "name": "Šroub M24 pro mulčovač AGF",
+    "targetId": "404",
+    "cards": [
+      {
+        "id": "404",
+        "name": "Šroub M24 × 100 pro mulčovač AGF",
+        "codes": [
+          "1000122"
+        ],
+        "variants": [
+          {
+            "code": "1000122",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m24x100-agf-1000122/",
+            "options": {
+              "Rozměr": "24 × 100 mm"
+            }
+          }
+        ],
+        "single": true
+      },
+      {
+        "id": "419",
+        "name": "Šroub M24 × 120 pro mulčovač AGF",
+        "codes": [
+          "1000127"
+        ],
+        "variants": [
+          {
+            "code": "1000127",
+            "sourceUrl": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m24x120-agf-1000127/",
+            "options": {
+              "Rozměr": "24 × 120 mm"
+            }
+          }
+        ],
+        "single": true
+      }
+    ]
+  }
+]

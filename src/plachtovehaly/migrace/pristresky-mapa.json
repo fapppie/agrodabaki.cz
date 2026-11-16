@@ -1,0 +1,1035 @@
+{
+  "checked_date": "2026-11-15",
+  "currency": "CZK",
+  "note": "Přímé veřejné detaily WEXBO. Kód převzat z produktového SKU. Všechny ceny s DPH matematicky odpovídají 21 % proti veřejné ceně bez DPH s odchylkou do 0,01 Kč. Počet kusů není na kartách uveden. HTTP HEAD ověřil 200 a image/jpeg pro všechny originální fotografie. Pole source_description uchovává původní obsah i podmínky osobního odběru a dopravy k potvrzení provozovatelem. Prázdné pole znamená, že WEXBO nemá popis. Vazby používají první kód cílové karty.",
+  "notes": [
+    "U C2020 a C2040 uvádí vstup pro osobu pouze popis zelené varianty. Výbavu bílé potvrdit před zveřejněním.",
+    "C2640 má dvě doložená provedení podle rozteče oblouků. C4040 má dvě samostatné alternativy, které se liší konstrukcí a čelní stěnou.",
+    "U čel pro C20, C26 a C33S je základem vazby řada a šířka uvedená výrobcem. Před zveřejněním potvrdit kompatibilitu podle generace konstrukce.",
+    "U přístřešku Animal 12 × 12 m a čel C20 a C26 chybí popis. Prodejní text vychází z veřejného názvu."
+  ],
+  "products": [
+    {
+      "id": "1000251",
+      "title": "Plachtový přístřešek - Animal 4m x 4m x 3,15m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-4m-x-315m-vojenska-zelena-1000251/",
+      "price_gross": 44900,
+      "price_net": 37107.44,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000251.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000251_1.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 4m x 4m x 3,15m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 750g/m2",
+        "Při odběru v našem skladě SLEVA 2000,-",
+        "Rozměry balení 2,2m x 1,1m x 0,55m 450kg"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 4 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "4 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000379",
+      "title": "Plachtový přístřešek - Animal 4m x 6m x 3,15m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-6m-x-315m-vojenska-zelena-1000379/",
+      "price_gross": 49900,
+      "price_net": 41239.67,
+      "vat": 21,
+      "availability": "30.11. 2026",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000379.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000379_1.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 4m x 6m x 3,15m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 750g/m2",
+        "Při odběru v našem skladě SLEVA 2000,-",
+        "Rozměry balení 2,2m x 1,1m x 0,55m 550kg"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 4 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "6 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000252",
+      "title": "Plachtový přístřešek - Animal 6m x 6m x 3,7m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-6m-x-37m-vojenska-zelena-1000252/",
+      "price_gross": 64900,
+      "price_net": 53636.36,
+      "vat": 21,
+      "availability": "05.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000252_3.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 6m x 6m x 3,7m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 750g/m2",
+        "Šířka vstupu 2m",
+        "Výška vstupu 2m",
+        "Při odběru v našem skladě SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Rozměry balení 3m x 1m x 1,15m 750kg"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 6 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "6 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000332",
+      "title": "Plachtový přístřešek - Animal 6m x 8m x 3,7m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-8m-x-37m-vojenska-zelena-1000332/",
+      "price_gross": 74900,
+      "price_net": 61900.83,
+      "vat": 21,
+      "availability": "05.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000332_2.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 6m x 8m x 3,7m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 750g/m2",
+        "Šířka vstupu 2m",
+        "Výška vstupu 2m",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladě SLEVA 3000,-"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 6 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "8 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000333",
+      "title": "Plachtový přístřešek - Animal 6m x 10m x 3,7m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-10m-x-37m-vojenska-zelena-1000333/",
+      "price_gross": 84900,
+      "price_net": 70165.29,
+      "vat": 21,
+      "availability": "05.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000333_3.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 6m x 10m x 3,7m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 750g/m2",
+        "Šířka vstupu 2m",
+        "Výška vstupu 2m",
+        "Při odběru v našem skladě SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku."
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 6 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "10 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000295",
+      "title": "Plachtový přístřešek - Animal 8m x 8m x 4m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-8m-x-4m-vojenska-zelena-1000295/",
+      "price_gross": 96900,
+      "price_net": 80082.65,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000295_2.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 8m x 8m x 4m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 900g/m2",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladě SLEVA 3000,-"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 8 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "8 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000400",
+      "title": "Plachtový přístřešek - Animal 8m x 10m x 4m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-10m-x-4m-vojenska-zelena-1000400/",
+      "price_gross": 104900,
+      "price_net": 86694.22,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000400.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 8m x 10m x 4m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 900g/m2",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladě SLEVA 3000,-"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 8 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "10 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000401",
+      "title": "Plachtový přístřešek - Animal 8m x 12m x 4m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-12m-x-4m-vojenska-zelena-1000401/",
+      "price_gross": 114900,
+      "price_net": 94958.68,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000401.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 8m x 12m x 4m",
+        "Rozteč oblouků 2m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 900g/m2",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladě SLEVA 3000,-"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal, šířka 8 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": {
+        "name": "Délka",
+        "value": "12 m"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000334",
+      "title": "Plachtový přístřešek - Animal 10m x 10m x 4,5m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-10m-x-10m-x-45m-vojenska-zelena-1000334/",
+      "price_gross": 149900,
+      "price_net": 123884.3,
+      "vat": 21,
+      "availability": "29.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000334.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000334_1.jpg"
+      ],
+      "source_description": [
+        "Rozměry: 10m x 10m x 4,5m",
+        "Rozteč oblouků 2,44m",
+        "Nosné oblouky - oválný průřez 60 x 1,8 mm.",
+        "Spoje oblouku 40 x 1,5 mm.",
+        "Hrazení 40 x 1,2 mm",
+        "Plachta 900g/m2",
+        "Šířka vstupu 2,44m",
+        "Výška vstupu 2m",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladě SLEVA 3000,-"
+      ],
+      "target_name": "Přístřešek pro zvířata Animal 10 × 10 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000360",
+      "title": "Plachtový přístřešek - Animal 12m x 12m x 5m - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-12m-x-12m-x-5m-vojenska-zelena-1000360/",
+      "price_gross": 199900,
+      "price_net": 165206.61,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000360.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000360_1.jpg"
+      ],
+      "source_description": [],
+      "target_name": "Přístřešek pro zvířata Animal 12 × 12 m",
+      "category": "Přístřešky pro zvířata",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000285",
+      "title": "C2020 - 6m x 6m x 2m - 750g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-bily-1000285/",
+      "price_gross": 44900,
+      "price_net": 37107.44,
+      "vat": 21,
+      "availability": "30.11. 2026",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000285.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000285_1.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 32 x 1,2 mm",
+        "Rozteč obloukových setů - 1,2m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 2000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 6 × 6 m (C2020)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Bílá"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000394"
+      ]
+    },
+    {
+      "id": "1000366",
+      "title": "C2020 - 6m x 6m x 2m - 750g/m2 - vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-vojenska-zelena-1000366/",
+      "price_gross": 44900,
+      "price_net": 37107.44,
+      "vat": 21,
+      "availability": "11.12. 2026",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000366.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 32 x 1,2 mm",
+        "Rozteč obloukových setů - 1,2m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí. Vstup pro osobu.",
+        "Při odběru v našem skladu SLEVA 2000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 6 × 6 m (C2020)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Vojenská zelená"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000394"
+      ]
+    },
+    {
+      "id": "1000286",
+      "title": "C2040 - 6m x 12m x 2m - 750g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-bily-1000286/",
+      "price_gross": 64900,
+      "price_net": 53636.36,
+      "vat": 21,
+      "availability": "na objednání",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000286.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000286_1.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 32 x 1,2 mm",
+        "Rozteč obloukových setů - 1,2m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 2000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 6 × 12 m (C2040)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Bílá"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000394"
+      ]
+    },
+    {
+      "id": "1000367",
+      "title": "C2040 - 6m x 12m x 2m - 750g/m2 - vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-vojenska-zelena-1000367/",
+      "price_gross": 64900,
+      "price_net": 53636.36,
+      "vat": 21,
+      "availability": "11.12. 2026",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000367.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 32 x 1,2 mm",
+        "Rozteč obloukových setů - 1,2m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí. Vstup pro osobu.",
+        "Při odběru v našem skladu SLEVA 2000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 6 × 12 m (C2040)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Vojenská zelená"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000394"
+      ]
+    },
+    {
+      "id": "1000344",
+      "title": "C2620 - 8m x 6m x 3m - 750g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2620-8m-x-6m-x-3m-750g-m2-bily-1000344/",
+      "price_gross": 64900,
+      "price_net": 53636.36,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000344.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000344_1.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 40 x 1,5 mm",
+        "Rozteč obloukových setů - 1m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 8 × 6 m (C2620)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000395"
+      ]
+    },
+    {
+      "id": "1000329",
+      "title": "C3320S - 10m x 6m x 3,6m - 900g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c3320s-10m-x-6m-x-36m-900g-m2-bily-1000329/",
+      "price_gross": 99900,
+      "price_net": 82561.98,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000329.jpg"
+      ],
+      "source_description": [
+        "Dvojitá kostrukce",
+        "Nosné oblouky - 60 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 48 x 1,5 mm",
+        "Rozteč obloukových setů - 3m",
+        "Plachta - 900g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 2000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 10 × 6 m (C3320S)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000393"
+      ]
+    },
+    {
+      "id": "1000402",
+      "title": "C3340S 10m x 12m x 3,6m - 900g/m2 - bílá - 2m arch space",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c3340s-10m-x-12m-x-36m-900g-m2-bila-2m-arch-space-1000402/",
+      "price_gross": 144900,
+      "price_net": 119752.07,
+      "vat": 21,
+      "availability": "30.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000402.jpg"
+      ],
+      "source_description": [
+        "Dvojitá konstrukce",
+        "Přední stěna otevřená.",
+        "Zadní stěna zavřená se vstupem pro osobu.",
+        "Rozestup oblouků 2m.",
+        "Nosné oblouky - 60 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 48 x 1,5 mm",
+        "Cena vč. dopravy. Při osobním odběru sleva 3.000,- Kč vč. DPH.",
+        "Z důvodu velkého balení není možné tuto halu zaslat zásilkovou službou Geis na dobírku."
+      ],
+      "target_name": "Zastřešení kontejnerů 10 × 12 m (C3340S)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000393"
+      ]
+    },
+    {
+      "id": "1000404",
+      "title": "C5040S - 15m x 12m x 4,5m - 900g/m2 - bílý - dvojitá konstrukce",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c5040s-15m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000404/",
+      "price_gross": 309900,
+      "price_net": 256115.7,
+      "vat": 21,
+      "availability": "08.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000404.jpg"
+      ],
+      "source_description": [
+        "Dvojitá konstrukce",
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 60 x 1,5 mm",
+        "Rozteč obloukových setů - 2m",
+        "Plachta - 900g/m2",
+        "Přední stěna součástí včetně navijákových vrat",
+        "Zadní stěna součástí s vstupem pro osobu",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 15 × 12 m (C5040S)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000405",
+      "title": "C6040S - 18m x 12m x 4,5m - 900g/m2 - bílý - dvojitá konstrukce",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c6040s-18m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000405/",
+      "price_gross": 349900,
+      "price_net": 289173.55,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000405.jpg"
+      ],
+      "source_description": [
+        "Dvojitá konstrukce",
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 60 x 1,5 mm",
+        "Rozteč obloukových setů - 2m",
+        "Plachta - 900g/m2",
+        "Přední stěna součástí včetně navijákových vrat",
+        "Zadní stěna součástí s vstupem pro osobu",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 18 × 12 m (C6040S)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000343",
+      "title": "C2640 - 8m x 12m x 3m - 750g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-1000343/",
+      "price_gross": 99900,
+      "price_net": 82561.98,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000343.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000343_1.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 40 x 1,5 mm",
+        "Rozteč obloukových setů - 1m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku"
+      ],
+      "target_name": "Zastřešení kontejnerů 8 × 12 m (C2640)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Rozteč oblouků",
+        "value": "1 m"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000395"
+      ]
+    },
+    {
+      "id": "1000380",
+      "title": "C2640 - 8m x 12m x 3m - 750g/m2 - bílý - 2m arch space",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-2m-arch-space-1000380/",
+      "price_gross": 76900,
+      "price_net": 63553.72,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000380.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 40 x 1,5 mm",
+        "Rozteč obloukových setů - 2m",
+        "Plachta - 750g/m2",
+        "Zadní stěna součástí",
+        "Při odběru v našem skladu SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku"
+      ],
+      "target_name": "Zastřešení kontejnerů 8 × 12 m (C2640)",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": {
+        "name": "Rozteč oblouků",
+        "value": "2 m"
+      },
+      "alternative_codes": [],
+      "related_codes": [
+        "1000395"
+      ]
+    },
+    {
+      "id": "1000396",
+      "title": "C4040 - 12m x 12m x 4,5m - 900g/m2 - bílý",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c4040-12m-x-12m-x-45m-900g-m2-bily-1000396/",
+      "price_gross": 189900,
+      "price_net": 156942.15,
+      "vat": 21,
+      "availability": "30.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000396.jpg"
+      ],
+      "source_description": [
+        "Jednoduchá kostrukce",
+        "Nosné oblouky - 60 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 76 x 1,8 mm",
+        "Rozteč obloukových setů - 2m",
+        "Plachta - 900g/m2",
+        "Přední stěna otevřená",
+        "Zadní stěna součástí s vstupem pro osobu",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 12 × 12 m (C4040), otevřené",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [
+        "1000403"
+      ],
+      "related_codes": []
+    },
+    {
+      "id": "1000403",
+      "title": "C4040 - 12m x 12m x 4,5m - 900g/m2 - bílý - dvojitá konstrukce",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/c4040-12m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000403/",
+      "price_gross": 219900,
+      "price_net": 181735.54,
+      "vat": 21,
+      "availability": "30.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000403.jpg"
+      ],
+      "source_description": [
+        "Dvojitá konstrukce",
+        "Nosné oblouky - 60 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 76 x 1,8 mm",
+        "Rozteč obloukových setů - 2m",
+        "Plachta - 900g/m2",
+        "Přední stěna součástí včetně navijákových vrat",
+        "Zadní stěna součástí s vstupem pro osobu",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Zastřešení kontejnerů 12 × 12 m (C4040), s vraty",
+      "category": "Zastřešení lodních kontejnerů",
+      "variant": null,
+      "alternative_codes": [
+        "1000396"
+      ],
+      "related_codes": []
+    },
+    {
+      "id": "1000293",
+      "title": "Plachtová garáž na karavan/obytný vůz 4,3m x 9,2m x 4,3m - 750g/m2 - Bílá - 143014R",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-43m-750g-m2-bila-143014r-1000293/",
+      "price_gross": 49900,
+      "price_net": 41239.67,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000293_3.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 42 x 1,2 mm",
+        "Rozměr vrat: 3,2m x 3,3m",
+        "Plachta - 750g/m2",
+        "Vrata z obou stran přístřešku",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Plachtová garáž pro karavan 4,3 × 9,2 × 4,3 m (143014R)",
+      "category": "Plachtové garáže",
+      "variant": null,
+      "alternative_codes": [
+        "1000294"
+      ],
+      "related_codes": []
+    },
+    {
+      "id": "1000294",
+      "title": "Plachtová garáž na karavan/obytný vůz 4,3m x 9,2m x 5m - 750g/m2 - Vojenská zelená - 143016R",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-vojenska-zelena-143016r-1000294/",
+      "price_gross": 54900,
+      "price_net": 45371.9,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000294_3.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 42 x 1,2 mm",
+        "Rozměr vrat: 4m x 4m",
+        "Plachta - 750g/m2",
+        "Vrata z obou stran přístřešku",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Plachtová garáž pro karavan 4,3 × 9,2 × 5 m (143016R)",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Vojenská zelená"
+      },
+      "alternative_codes": [
+        "1000293"
+      ],
+      "related_codes": []
+    },
+    {
+      "id": "1000357",
+      "title": "Plachtová garáž na karavan/obytný vůz 4,3m x 9,2m x 5m - 750g/m2 - Šedivá - 143016R",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-sediva-143016r-1000357/",
+      "price_gross": 54900,
+      "price_net": 45371.9,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000357_3.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - 45 x 1,5mm",
+        "Rozpěrné zajišťovací trubky 42 x 1,2 mm",
+        "Rozměr vrat: 4m x 4m",
+        "Plachta - 750g/m2",
+        "Vrata z obou stran přístřešku",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku.",
+        "Při odběru v našem skladu SLEVA 3000,-"
+      ],
+      "target_name": "Plachtová garáž pro karavan 4,3 × 9,2 × 5 m (143016R)",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Šedá"
+      },
+      "alternative_codes": [
+        "1000293"
+      ],
+      "related_codes": []
+    },
+    {
+      "id": "1000358",
+      "title": "Plachtová garáž 3,66 x 6,1 x 2,44 m - 122008R - BÍLÁ - Nový typ kotvení",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-366-x-61-x-244-m-122008r-bila-novy-typ-kotveni-1000358/",
+      "price_gross": 24900,
+      "price_net": 20578.51,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000358.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000358_1.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - oválný průřez 42 x 1,2 mm.",
+        "Rozpěrné zajišťovací trubky - 28 x 1 mm.",
+        "Šířka vrat 315 cm",
+        "Výška vrat 190 cm",
+        "6x obloukových setů - rozteč 122cm.",
+        "Součástí balení jsou kotvící prvky. Nový typ kotvení.",
+        "Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.",
+        "Při odběru v našem skladu SLEVA - 2000,-",
+        "Montáž haly můžete vidět ZDE",
+        "Rozměry balení 2m x 0,6m x 0,6m 150 kg",
+        "Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo."
+      ],
+      "target_name": "Plachtová garáž pro auto 3,66 × 6,1 m (122008R)",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Bílá"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000359",
+      "title": "Plachtová garáž 3,66 x 6,1 x 2,44 m - 122008R - VOJ. ZELENÁ - Nový typ kotvení",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-366-x-61-x-244-m-122008r-voj-zelena-novy-typ-kotveni-1000359/",
+      "price_gross": 24900,
+      "price_net": 20578.51,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000359_2.jpg"
+      ],
+      "source_description": [
+        "Nosné oblouky - oválný průřez 42 x 1,2 mm.",
+        "Rozpěrné zajišťovací trubky - 28 x 1 mm.",
+        "Šířka vrat 315 cm",
+        "Výška vrat 190 cm",
+        "6x obloukových setů - rozteč 122cm.",
+        "Součástí balení jsou kotvící prvky. Nový typ kotvení.",
+        "Cena je včetně kompletního zakrytí. Hlavní plachta, přední a zadní plachta.",
+        "Při odběru v našem skladu SLEVA - 2000,-",
+        "Montáž haly můžete vidět ZDE",
+        "Rozměry balení 2m x 0,6m x 0,6m 150 kg",
+        "Haly jsou dodávány na jednorázové paletě. Kurýrní služba má zajištěné složení přes hydraulické čelo."
+      ],
+      "target_name": "Plachtová garáž pro auto 3,66 × 6,1 m (122008R)",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Vojenská zelená"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000363",
+      "title": "Plachtová garáž na autobus/nákladní automobil 5,5m x 15m x 5,8m - 900g/m2 - BÍLÁ",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-autobus-nakladni-automobil-55m-x-15m-x-58m-900g-m2-bila-1000363/",
+      "price_gross": 147900,
+      "price_net": 122231.41,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000363_3.jpg"
+      ],
+      "source_description": [
+        "šířka: 5,5 m",
+        "délka: 15,0 m",
+        "výška: 5,8 m",
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 40 x 1,5 mm",
+        "Vrata : 3,6m x 4,2m",
+        "Plachta 900g/m2",
+        "Při odběru v našem skladě SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku."
+      ],
+      "target_name": "Plachtová garáž pro autobus a nákladní vůz 5,5 × 15 m",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Bílá"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000376",
+      "title": "Plachtová garáž na autobus/nákladní automobil 5,5m x 15m x 5,8m - 900g/m2 - Vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-autobus-nakladni-automobil-55m-x-15m-x-58m-900g-m2-vojenska-zelena-1000376/",
+      "price_gross": 147900,
+      "price_net": 122231.41,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_2.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000376_3.jpg"
+      ],
+      "source_description": [
+        "šířka: 5,5 m",
+        "délka: 15,0 m",
+        "výška: 5,8 m",
+        "Nosné oblouky - 60 x 1,8mm",
+        "Rozpěrné zajišťovací trubky 40 x 1,5 mm",
+        "Vrata : 3,6m x 4,2m",
+        "Plachta 900g/m2",
+        "Při odběru v našem skladě SLEVA 3000,-",
+        "Vzhledem k velkým rozměrům balení, nelze tento typ haly zaslat na dobírku."
+      ],
+      "target_name": "Plachtová garáž pro autobus a nákladní vůz 5,5 × 15 m",
+      "category": "Plachtové garáže",
+      "variant": {
+        "name": "Barva plachty",
+        "value": "Vojenská zelená"
+      },
+      "alternative_codes": [],
+      "related_codes": []
+    },
+    {
+      "id": "1000393",
+      "title": "Přední čelo s navijákovými vraty pro 10m - C33S",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-10m-c33s-1000393/",
+      "price_gross": 26900,
+      "price_net": 22231.41,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000393.jpg"
+      ],
+      "source_description": [
+        "Při osobním odběru sleva 2.000,- Kč vč. DPH",
+        "Plachta 900g/m2"
+      ],
+      "target_name": "Přední čelo s vraty pro zastřešení C33S, šířka 10 m",
+      "category": "Příslušenství ke kontejnerům",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000329",
+        "1000402"
+      ]
+    },
+    {
+      "id": "1000394",
+      "title": "Přední čelo s navijákovými vraty pro 6m - C20 - vojenská zelená",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-6m-c20-vojenska-zelena-1000394/",
+      "price_gross": 16900,
+      "price_net": 13966.94,
+      "vat": 21,
+      "availability": "10.12. 2026",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000394.jpg"
+      ],
+      "source_description": [],
+      "target_name": "Přední čelo s vraty pro zastřešení C20, šířka 6 m",
+      "category": "Příslušenství ke kontejnerům",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000285",
+        "1000286"
+      ]
+    },
+    {
+      "id": "1000395",
+      "title": "Přední čelo s navijákovými vraty pro 8m - C26 - bílá",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-8m-c26-bila-1000395/",
+      "price_gross": 21900,
+      "price_net": 18099.17,
+      "vat": 21,
+      "availability": "11.01. 2027",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000395.jpg"
+      ],
+      "source_description": [],
+      "target_name": "Přední čelo s vraty pro zastřešení C26, šířka 8 m",
+      "category": "Příslušenství ke kontejnerům",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": [
+        "1000344",
+        "1000343"
+      ]
+    },
+    {
+      "id": "1000364",
+      "title": "Nájezdová rampa do lodních kontejnerů PD08B",
+      "url": "https://www.plachtovehaly-agrodabaki.cz/d/najezdova-rampa-do-lodnich-kontejneru-pd08b-1000364/",
+      "price_gross": 18900,
+      "price_net": 15619.84,
+      "vat": 21,
+      "availability": "skladem",
+      "images": [
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364_1.jpg",
+        "https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000364_2.jpg"
+      ],
+      "source_description": [
+        "Nájezdová rampa vhodná do lodních kontejnerů.",
+        "Výška 20cm",
+        "Šířka 200cm",
+        "Délka 180cm",
+        "Nosnost 6 tun",
+        "Protiskluzový povrch",
+        "Řetězy s háky součástí",
+        "Otvory pro vidle",
+        "Cena je včetně dopravy. Při osobním odběru je 3.000,- Kč je sleva."
+      ],
+      "target_name": "Nájezdová rampa do kontejneru PD08B, nosnost 6 t",
+      "category": "Příslušenství ke kontejnerům",
+      "variant": null,
+      "alternative_codes": [],
+      "related_codes": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+<script>
+(() => {
+  function rozlozParametry(text) {
+    const hodnoty = {};
+    for (const cast of text.split(/,\s+(?=[^,:]+:)/)) {
+      const i = cast.indexOf(':');
+      if (i < 1 || Object.hasOwn(hodnoty, cast.slice(0, i).trim())) return;
+      hodnoty[cast.slice(0, i).trim()] = cast.slice(i + 1).trim();
+    }
+    const pudorys = hodnoty['Půdorys']?.match(/^(\d+(?:,\d+)?)\s*×\s*(\d+(?:,\d+)?)\s*m$/);
+    if (pudorys && !hodnoty['Šířka'] && !hodnoty['Délka']) {
+      hodnoty['Šířka'] = pudorys[1] + ' m';
+      hodnoty['Délka'] = pudorys[2] + ' m';
+      delete hodnoty['Půdorys'];
+    }
+    return hodnoty;
+  }
+  const poradi = ['Půdorys', 'Šířka', 'Délka', 'Délka haly', 'Hloubka', 'Výška', 'Rozteč oblouků', 'Barva', 'Barva plachty', 'Provedení plachty'];
+  function priorita(n) {
+    const i = poradi.indexOf(n);
+    return i < 0 ? poradi.length : i;
+  }
+  function popisek(nazev) {
+    return ({'Barva plachty':'Barva', 'Provedení plachty':'Barva', 'Délka haly':'Délka'})[nazev] || nazev;
+  }
+  function zobrazVolby() {
+    const skupina = document.querySelector('#simple-variants');
+    const radek = skupina?.closest('tr');
+    if (!radek || document.querySelector('.dabaki-vyber')) return;
+    const varianty = [];
+    for (const pole of skupina.querySelectorAll('label input[name="priceId"]')) {
+      const text = pole.closest('label').querySelector('.parameter-value')?.textContent.trim();
+      if (!text) return;
+      const hodnoty = rozlozParametry(text);
+      if (!hodnoty) return;
+      varianty.push({ pole, hodnoty });
+    }
+    if (!varianty.length) return;
+    const nazvy = Object.keys(varianty[0].hodnoty);
+    if (nazvy.length < 2 || varianty.some(v => Object.keys(v.hodnoty).length !== nazvy.length || nazvy.some(n => !v.hodnoty[n]))) return;
+    nazvy.sort((a, b) => priorita(a) - priorita(b));
+    const vybrana = varianty.find(v => v.pole.checked);
+    const poleVyberu = nazvy.map((nazev, i) => {
+      const tr = document.createElement('tr');
+      const th = document.createElement('th');
+      const td = document.createElement('td');
+      const label = document.createElement('label');
+      const select = document.createElement('select');
+      select.id = label.htmlFor = 'dabaki-volba-' + i;
+      select.className = 'form-control dabaki-vyber';
+      label.textContent = popisek(nazev);
+      th.append(label);
+      td.append(select);
+      tr.append(th, td);
+      radek.before(tr);
+      return select;
+    });
+    function aktualizuj(preference) {
+      let mozne = varianty.filter(v => !v.pole.disabled);
+      nazvy.forEach((nazev, i) => {
+        const select = poleVyberu[i];
+        const hodnoty = [...new Set(mozne.map(v => v.hodnoty[nazev]))].sort((a,b) =>
+          parseFloat(a.replace(',', '.')) - parseFloat(b.replace(',', '.')) || a.localeCompare(b,'cs',{numeric:true}));
+        const pocetCelkem = new Set(varianty.map(v => v.hodnoty[nazev])).size;
+        const jePevny = pocetCelkem === 1;
+        const moznosti = hodnoty.map(h => new Option(h,h));
+        select.replaceChildren(...moznosti);
+        if (!jePevny) {
+          const vyzva = new Option('Zvolte ' + ({'Délka':'délku','Délka haly':'délku','Šířka':'šířku','Výška':'výšku','Provedení plachty':'barvu','Barva plachty':'barvu','Barva':'barvu','Rozteč oblouků':'rozteč oblouků'}[nazev] || 'provedení'), '');
+          vyzva.disabled = true;
+          select.add(vyzva,0);
+        }
+        select.value = hodnoty.includes(preference[i]) ? preference[i] : (hodnoty.length === 1 || preference[i]) ? hodnoty[0] || '' : '';
+        select.disabled = !hodnoty.length;
+        mozne = mozne.filter(v => v.hodnoty[nazev] === select.value);
+      });
+      if (mozne.length === 1 && !mozne[0].pole.checked) mozne[0].pole.click();
+    }
+    aktualizuj(nazvy.map(n => vybrana?.hodnoty[n]));
+    poleVyberu.forEach(select => select.addEventListener('change', () => aktualizuj(poleVyberu.map(p => p.value))));
+    radek.style.display = 'none';
+  }
+  const variantaVKosiku = '[data-testid="cartWidgetVariantName"]';
+  function upravVariantu(prvek) {
+    if (prvek.childElementCount) return;
+    const text = prvek.textContent.trim();
+    const hodnoty = rozlozParametry(text);
+    if (!hodnoty) return;
+    const nazvy = Object.keys(hodnoty);
+    if (!nazvy.some(n => poradi.includes(n))) return;
+    const novy = nazvy.sort((a, b) => priorita(a) - priorita(b))
+      .map(n => popisek(n) + ': ' + hodnoty[n]).join(', ');
+    if (novy !== text) prvek.textContent = novy;
+  }
+  function spust() {
+    zobrazVolby();
+    document.querySelectorAll(variantaVKosiku).forEach(upravVariantu);
+    // Shoptet vyměňuje obsah obou košíků po načtení nebo změně počtu kusů.
+    new MutationObserver(zmeny => {
+      for (const zmena of zmeny) {
+        if (zmena.target.matches?.(variantaVKosiku)) upravVariantu(zmena.target);
+        for (const uzel of zmena.addedNodes) {
+          if (uzel.nodeType !== 1) continue;
+          if (uzel.matches(variantaVKosiku)) upravVariantu(uzel);
+          else uzel.querySelectorAll(variantaVKosiku).forEach(upravVariantu);
+        }
+      }
+    }).observe(document.body, {childList:true, subtree:true});
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', spust);
+  else spust();
+})();
+</script>

@@ -1,0 +1,815 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="44">
+    <NAME>Oblouková hala se zipovými vraty</NAME>
+    <GUID>b76e6e72-e110-11f1-80c4-bc24110bf941</GUID>
+    <DESCRIPTION><![CDATA[<p>Na obou čelech jsou zipová vrata o rozměru 4,3 × 3,1 m. Průjezdná výška je 3 m. Oválné oblouky 70 × 42 × 1,5 mm mají rozteč 1,83 m a spojují je rozpěrné trubky 40 × 1,2 mm. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel.</p><p>Provedení 7,3 m je vysoké 3,66 m.</p><p>Pro délky 12,8 m, 14,64 m a 18,3 m se hala dodává na jednorázové paletě. Dopravce ji složí hydraulickým čelem.</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th><th scope="col">Počet oblouků</th><th scope="col">Balení</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">7,3 m</th><td>202412 R</td><td>bílá · 650 g/m², vojenská zelená · 750 g/m²</td><td>5</td><td>—</td><td>—</td></tr><tr><th scope="row">9,15 m</th><td>203012 R</td><td>bílá · 750 g/m²</td><td>6</td><td>2,2 × 0,8 × 0,8 m</td><td>430 kg</td></tr><tr><th scope="row">12,8 m</th><td>204212 R</td><td>bílá · 750 g/m², vojenská zelená · 750 g/m²</td><td>8</td><td>2,2 × 0,8 × 0,8 m</td><td>540 kg</td></tr><tr><th scope="row">14,64 m</th><td>204812 R</td><td>bílá · 750 g/m², vojenská zelená · 650 g/m²</td><td>9</td><td>2,2 × 0,8 × 0,8 m</td><td>650 kg</td></tr><tr><th scope="row">18,3 m</th><td>206012 R</td><td>bílá · 750 g/m², vojenská zelená · 750 g/m²</td><td>11</td><td>2,2 × 0,8 × 0,8 m</td><td>740 kg</td></tr></tbody></table></div><p><strong><a href="https://www.youtube.com/watch?v=zOuIQbBkT1I">Podívejte se, jak probíhá montáž plachtové haly (video na YouTube)</a></strong></p>]]></DESCRIPTION>
+    <IMAGES>
+      <IMAGE description="44 1 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-1_44-1-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 7,3 m (202412 R) (Provedení plachty Bílá · 650 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44_obloukova-hala-6-1--7-3-m--202412-r-provedeni-plachty-bila--650-g-m.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 2 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-2_44-2-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 3 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-3_44-3-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 4 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-4_44-4-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 5 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-5_44-5-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 6 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-6_44-6-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 7 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-7_44-7-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 8 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-8_44-8-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 7,3 m (202412 R) (Provedení plachty Vojenská zelená · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-9_obloukova-hala-6-1--7-3-m--202412-r-provedeni-plachty-vojenska-zelena--750-g-m.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 10 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-10_44-10-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 11 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-11_44-11-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="44 12 obloukova hala 6 1 7 3 m 202412 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-12_44-12-obloukova-hala-6-1-7-3-m-202412-r.jpg?6af9f4c4</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 12,8 m (204212 R) (Provedení plachty Bílá · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-13_obloukova-hala-6-1--12-8-m--204212-r-provedeni-plachty-bila--750-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 1 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-14_728-1-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 2 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-15_728-2-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 3 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-16_728-3-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 12,8 m (204212 R) (Provedení plachty Vojenská zelená · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-17_obloukova-hala-6-1--12-8-m--204212-r-provedeni-plachty-vojenska-zelena--750-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 5 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-18_728-5-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 6 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-19_728-6-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="728 7 obloukova hala 6 1 12 8 m 204212 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-20_728-7-obloukova-hala-6-1-12-8-m-204212-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 14,64 m (204812 R) (Provedení plachty Bílá · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-21_obloukova-hala-6-1--14-64-m--204812-r-provedeni-plachty-bila--750-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 1 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-22_749-1-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 2 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-23_749-2-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 3 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-24_749-3-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 4 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-25_749-4-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 5 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-26_749-5-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 6 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-27_749-6-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 7 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-28_749-7-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 8 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-29_749-8-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 9 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-30_749-9-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 10 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-31_749-10-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 14,64 m (204812 R) (Provedení plachty Vojenská zelená · 650 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-32_obloukova-hala-6-1--14-64-m--204812-r-provedeni-plachty-vojenska-zelena--650-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 12 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-33_749-12-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 13 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-34_749-13-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="749 14 obloukova hala 6 1 14 64 m 204812 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-35_749-14-obloukova-hala-6-1-14-64-m-204812-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 18,3 m (206012 R) (Provedení plachty Bílá · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-36_obloukova-hala-6-1--18-3-m--206012-r-provedeni-plachty-bila--750-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="731 1 obloukova hala 6 1 18 3 m 206012 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-37_731-1-obloukova-hala-6-1-18-3-m-206012-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="731 2 obloukova hala 6 1 18 3 m 206012 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-38_731-2-obloukova-hala-6-1-18-3-m-206012-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Oblouková hala 6,1 × 18,3 m (206012 R) (Provedení plachty Vojenská zelená · 750 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-39_obloukova-hala-6-1--18-3-m--206012-r-provedeni-plachty-vojenska-zelena--750-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="731 4 obloukova hala 6 1 18 3 m 206012 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-40_731-4-obloukova-hala-6-1-18-3-m-206012-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="731 5 obloukova hala 6 1 18 3 m 206012 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-41_731-5-obloukova-hala-6-1-18-3-m-206012-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="731 6 obloukova hala 6 1 18 3 m 206012 r">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/44-42_731-6-obloukova-hala-6-1-18-3-m-206012-r.jpg?6af9f4c6</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000010.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000010_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000010_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000010_3.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>6,1 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>7,3 m</VALUE>
+        <VALUE>18,3 m</VALUE>
+        <VALUE>12,8 m</VALUE>
+        <VALUE>14,64 m</VALUE>
+        <VALUE>9,15 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000013</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,8 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000014</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,8 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000016</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000017</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000335</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000336</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>7,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000337</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000338</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>14,64 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000010</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>46900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000010.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <STOCK>
+          <AMOUNT>1</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>6,1 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="164">
+    <NAME>Sedlová hala řady 26</NAME>
+    <GUID>6fbd611a-e114-11f1-8f65-bc241195dd28</GUID>
+    <DESCRIPTION><![CDATA[<p>Do osmimetrové haly se vjíždí vraty o šířce 3,66 m a průjezdné výšce 3,3 m. Boční stěna dosahuje 3,2 m. Nosné oblouky i rozpěrné trubky mají rozměr 48 × 1,5 mm, oblouky jsou od sebe vzdálené 3,05 m. Plachta má gramáž 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>263017DP</td><td>bílá</td></tr><tr><th scope="row">12,2 m</th><td>264017DP</td><td>bílá, vojenská zelená</td></tr><tr><th scope="row">15,25 m</th><td>265017DP</td><td>bílá</td></tr><tr><th scope="row">18,3 m</th><td>266017DP</td><td>bílá</td></tr><tr><th scope="row">21,35 m</th><td>267017DP</td><td>bílá</td></tr><tr><th scope="row">24,4 m</th><td>268017DP</td><td>bílá</td></tr><tr><th scope="row">27,45 m</th><td>269017DP</td><td>bílá</td></tr><tr><th scope="row">30,5 m</th><td>2610017DP</td><td>bílá</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <IMAGES>
+      <IMAGE description="167 4 sedlova hala 8 12 2 m 264017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-6_167-4-sedlova-hala-8-12-2-m-264017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="Sedlová hala řady 26, šířka 8 m (Délka 9,15 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164_sedlova-hala-rady-26--sirka-8-m--delka-9-15-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="164 1 sedlova hala 8 9 15 m 263017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-1_164-1-sedlova-hala-8-9-15-m-263017dp.jpg?6af9f4c6</IMAGE>
+      <IMAGE description="Sedlová hala 8 × 12,2 m (264017DP) (Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-2_sedlova-hala-8--12-2-m--264017dp-provedeni-plachty-bila--900-g-m.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="167 1 sedlova hala 8 12 2 m 264017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-3_167-1-sedlova-hala-8-12-2-m-264017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="167 2 sedlova hala 8 12 2 m 264017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-4_167-2-sedlova-hala-8-12-2-m-264017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="Sedlová hala 8 × 12,2 m (264017DP) (Provedení plachty Vojenská zelená · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-5_sedlova-hala-8--12-2-m--264017dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="167 5 sedlova hala 8 12 2 m 264017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-7_167-5-sedlova-hala-8-12-2-m-264017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="167 6 sedlova hala 8 12 2 m 264017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-8_167-6-sedlova-hala-8-12-2-m-264017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="Sedlová hala řady 26, šířka 8 m (Délka 27,45 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-9_sedlova-hala-rady-26--sirka-8-m--delka-27-45-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="170 1 sedlova hala 8 27 45 m 269017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-10_170-1-sedlova-hala-8-27-45-m-269017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="170 2 sedlova hala 8 27 45 m 269017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-11_170-2-sedlova-hala-8-27-45-m-269017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="Sedlová hala řady 26, šířka 8 m (Délka 30,5 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-12_sedlova-hala-rady-26--sirka-8-m--delka-30-5-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="173 1 sedlova hala 8 30 5 m 2610017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-13_173-1-sedlova-hala-8-30-5-m-2610017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE description="173 2 sedlova hala 8 30 5 m 2610017dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/164-14_173-2-sedlova-hala-8-30-5-m-2610017dp.jpg?6af9f4c7</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000351.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000351_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000351_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000352.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000352_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000352_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000353.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000353_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000353_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000354.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000354_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000354_2.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>8 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>30,5 m</VALUE>
+        <VALUE>12,2 m</VALUE>
+        <VALUE>9,15 m</VALUE>
+        <VALUE>27,45 m</VALUE>
+        <VALUE>15,25 m</VALUE>
+        <VALUE>18,3 m</VALUE>
+        <VALUE>21,35 m</VALUE>
+        <VALUE>24,4 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000349</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000350</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000355</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000356</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000378</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000351</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>159900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000351.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <STOCK>
+          <AMOUNT>3</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000352</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>179900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000352.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+        <AVAILABILITY_OUT_OF_STOCK>10.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000353</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>199900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000353.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <STOCK>
+          <AMOUNT>2</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,35 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000354</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>219900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000354.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <STOCK>
+          <AMOUNT>2</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="203">
+    <NAME>Sedlová hala řady 40</NAME>
+    <GUID>6fbe0c32-e114-11f1-ae4c-bc241195dd28</GUID>
+    <DESCRIPTION><![CDATA[<p>Hala široká 12,2 m má na obou čelech vrata 4 × 4 m. Boční stěna je vysoká 3 m. Nosné oblouky a rozpěrné trubky mají rozměr 60 × 1,5 mm. Oblouky jsou v rozteči 3,05 m. Součástí dodávky jsou kotvicí prvky, hlavní plachta a plachty obou čel. Plachta má gramáž 900 g/m².</p><div style="overflow-x:auto"><table><caption>Porovnání konfigurací</caption><thead><tr><th scope="col">Délka</th><th scope="col">Model</th><th scope="col">Plachta</th><th scope="col">Počet oblouků</th><th scope="col">Ovládání vrat</th><th scope="col">Hmotnost balení</th></tr></thead><tbody><tr><th scope="row">9,15 m</th><td>403021DP</td><td>bílá</td><td>4</td><td>naviják</td><td>—</td></tr><tr><th scope="row">12,2 m</th><td>404021DP</td><td>bílá, vojenská zelená</td><td>5</td><td>naviják</td><td>—</td></tr><tr><th scope="row">15,25 m</th><td>405021DP</td><td>bílá</td><td>6</td><td>naviják</td><td>—</td></tr><tr><th scope="row">18,3 m</th><td>406021DP</td><td>bílá</td><td>7</td><td>—</td><td>2844 kg</td></tr><tr><th scope="row">21,3 m</th><td>407021DP</td><td>bílá</td><td>8</td><td>—</td><td>3144 kg</td></tr><tr><th scope="row">24,4 m</th><td>408021DP</td><td>bílá, vojenská zelená</td><td>9</td><td>—</td><td>3405 kg</td></tr><tr><th scope="row">27,45 m</th><td>409021DP</td><td>bílá</td><td>10</td><td>naviják</td><td>—</td></tr><tr><th scope="row">30,5 m</th><td>4010021DP</td><td>bílá, vojenská zelená</td><td>11</td><td>—</td><td>4105 kg</td></tr><tr><th scope="row">33,55 m</th><td>4011021DP</td><td>bílá</td><td>12</td><td>naviják</td><td>—</td></tr><tr><th scope="row">36,6 m</th><td>401202DP</td><td>bílá</td><td>13</td><td>—</td><td>4785 kg</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <IMAGES>
+      <IMAGE description="Sedlová hala řady 40, šířka 12,2 m (Délka 9,15 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203_sedlova-hala-rady-40--sirka-12-2-m--delka-9-15-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4d1</IMAGE>
+      <IMAGE description="203 1 sedlova hala 12 2 9 15 m 403021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-1_203-1-sedlova-hala-12-2-9-15-m-403021dp.jpg?6af9f4d1</IMAGE>
+      <IMAGE description="203 2 sedlova hala 12 2 9 15 m 403021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-2_203-2-sedlova-hala-12-2-9-15-m-403021dp.jpg?6af9f4d1</IMAGE>
+      <IMAGE description="203 3 sedlova hala 12 2 9 15 m 403021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-3_203-3-sedlova-hala-12-2-9-15-m-403021dp.jpg?6af9f4d1</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 12,2 m (404021DP) (Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-4_sedlova-hala-12-2--12-2-m--404021dp-provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 1 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-5_188-1-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 2 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-6_188-2-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 3 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-7_188-3-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 4 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-8_188-4-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 12,2 m (404021DP) (Provedení plachty Vojenská zelená · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-9_sedlova-hala-12-2--12-2-m--404021dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 6 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-10_188-6-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 7 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-11_188-7-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="188 8 sedlova hala 12 2 12 2 m 404021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-12_188-8-sedlova-hala-12-2-12-2-m-404021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala řady 40, šířka 12,2 m (Délka 21,3 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-13_sedlova-hala-rady-40--sirka-12-2-m--delka-21-3-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="68 1 sedlova hala 12 2 21 3 m 407021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-14_68-1-sedlova-hala-12-2-21-3-m-407021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="68 2 sedlova hala 12 2 21 3 m 407021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-15_68-2-sedlova-hala-12-2-21-3-m-407021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="68 3 sedlova hala 12 2 21 3 m 407021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-16_68-3-sedlova-hala-12-2-21-3-m-407021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 24,4 m (408021DP) (Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-17_sedlova-hala-12-2--24-4-m--408021dp-provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 1 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-18_65-1-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 2 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-19_65-2-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 3 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-20_65-3-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 4 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-21_65-4-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 24,4 m (408021DP) (Provedení plachty Vojenská zelená · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-22_sedlova-hala-12-2--24-4-m--408021dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 6 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-23_65-6-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 7 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-24_65-7-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 8 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-25_65-8-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 9 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-26_65-9-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 10 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-27_65-10-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="65 11 sedlova hala 12 2 24 4 m 408021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-28_65-11-sedlova-hala-12-2-24-4-m-408021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala řady 40, šířka 12,2 m (Délka 27,45 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-29_sedlova-hala-rady-40--sirka-12-2-m--delka-27-45-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="191 1 sedlova hala 12 2 27 45 m 409021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-30_191-1-sedlova-hala-12-2-27-45-m-409021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="191 2 sedlova hala 12 2 27 45 m 409021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-31_191-2-sedlova-hala-12-2-27-45-m-409021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="191 3 sedlova hala 12 2 27 45 m 409021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-32_191-3-sedlova-hala-12-2-27-45-m-409021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="191 4 sedlova hala 12 2 27 45 m 409021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-33_191-4-sedlova-hala-12-2-27-45-m-409021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 30,5 m (4010021DP) (Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-34_sedlova-hala-12-2--30-5-m--4010021dp-provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 1 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-35_71-1-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 2 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-36_71-2-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 3 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-37_71-3-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala 12,2 × 30,5 m (4010021DP) (Provedení plachty Vojenská zelená · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-38_sedlova-hala-12-2--30-5-m--4010021dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 5 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-39_71-5-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 6 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-40_71-6-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="71 7 sedlova hala 12 2 30 5 m 4010021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-41_71-7-sedlova-hala-12-2-30-5-m-4010021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala řady 40, šířka 12,2 m (Délka 33,55 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-42_sedlova-hala-rady-40--sirka-12-2-m--delka-33-55-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="194 1 sedlova hala 12 2 33 55 m 4011021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-43_194-1-sedlova-hala-12-2-33-55-m-4011021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="194 2 sedlova hala 12 2 33 55 m 4011021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-44_194-2-sedlova-hala-12-2-33-55-m-4011021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="194 3 sedlova hala 12 2 33 55 m 4011021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-45_194-3-sedlova-hala-12-2-33-55-m-4011021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="194 4 sedlova hala 12 2 33 55 m 4011021dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-46_194-4-sedlova-hala-12-2-33-55-m-4011021dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="Sedlová hala řady 40, šířka 12,2 m (Délka 36,6 m, Provedení plachty Bílá · 900 g/m²)">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-47_sedlova-hala-rady-40--sirka-12-2-m--delka-36-6-m--provedeni-plachty-bila--900-g-m.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="74 1 sedlova hala 12 2 36 6 m 401202dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-48_74-1-sedlova-hala-12-2-36-6-m-401202dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="74 2 sedlova hala 12 2 36 6 m 401202dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-49_74-2-sedlova-hala-12-2-36-6-m-401202dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE description="74 3 sedlova hala 12 2 36 6 m 401202dp">https://cdn.myshoptet.com/usr/plachtovehaly.agrodabaki.cz/user/shop/orig/203-50_74-3-sedlova-hala-12-2-36-6-m-401202dp.jpg?6af9f4d5</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331_4.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228_1.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228_2.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228_3.jpg</IMAGE>
+      <IMAGE>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228_4.jpg</IMAGE>
+    </IMAGES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Šířka</NAME>
+        <VALUE>12,2 m</VALUE>
+      </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Délka</NAME>
+        <VALUE>21,3 m</VALUE>
+        <VALUE>36,6 m</VALUE>
+        <VALUE>24,4 m</VALUE>
+        <VALUE>30,5 m</VALUE>
+        <VALUE>12,2 m</VALUE>
+        <VALUE>9,15 m</VALUE>
+        <VALUE>27,45 m</VALUE>
+        <VALUE>33,55 m</VALUE>
+        <VALUE>15,25 m</VALUE>
+        <VALUE>18,3 m</VALUE>
+      </INFORMATION_PARAMETER>
+    </INFORMATION_PARAMETERS>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>1000229</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000238</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>21,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000239</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000240</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>36,6 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000371</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000372</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>27,45 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000373</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>33,55 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000385</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000388</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>24,4 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000389</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>30,5 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000392</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>9,15 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000331</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>239900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000331.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+        <AVAILABILITY_OUT_OF_STOCK>30.11. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>15,25 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+      <VARIANT>
+        <CODE>1000228</CODE>
+        <UNIT>ks</UNIT>
+        <CURRENCY>CZK</CURRENCY>
+        <PRICE>264900</PRICE>
+        <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+        <IMAGE_REF>https://www.plachtovehaly-agrodabaki.cz/files/eshop/1000228.jpg</IMAGE_REF>
+        <VISIBLE>1</VISIBLE>
+        <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+        <AVAILABILITY_OUT_OF_STOCK>05.12. 2026</AVAILABILITY_OUT_OF_STOCK>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>18,3 m</VALUE>
+          </PARAMETER>
+          <PARAMETER>
+            <NAME>Šířka</NAME>
+            <VALUE>12,2 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

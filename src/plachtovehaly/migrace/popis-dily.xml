@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM id="311">
+    <NAME>Boční ližina mulčovače AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Boční ližinu pro mulčovač AGF vyberte podle strany původního dílu.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Provedení</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">Levé provedení</th><td>1000081</td></tr><tr><th scope="row">Pravé provedení</th><td>1000082</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000081</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Levé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000082</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Pravé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="464">
+    <NAME>Držák zadního válce mulčovače AGE</NAME>
+    <DESCRIPTION><![CDATA[<p>Držák upevňuje zadní válec mulčovače AGE. Pro výměnu zvolte odpovídající stranu.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Provedení</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">Levé provedení</th><td>1000143</td></tr><tr><th scope="row">Pravé provedení</th><td>1000144</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000143</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Levé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000144</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Pravé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="326">
+    <NAME>Držák zadního válce mulčovače AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Při výměně držáku zadního válce mulčovače AGF rozlište levou a pravou stranu.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Provedení</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">Levé provedení</th><td>1000087</td></tr><tr><th scope="row">Pravé provedení</th><td>1000095</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000087</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Levé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000095</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Provedení</NAME><VALUE>Pravé provedení</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="461">
+    <NAME>Hlavní hřídel mulčovače AGE</NAME>
+    <DESCRIPTION><![CDATA[<p>Hlavní hřídel vybírejte podle označení modelu na vašem příkopovém mulčovači AGE.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model stroje</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">AGE 125</th><td>1000141</td></tr><tr><th scope="row">AGE 145</th><td>1000142</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000141</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGE 125</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000142</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGE 145</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="482">
+    <NAME>Hlavní hřídel mulčovače ATV</NAME>
+    <DESCRIPTION><![CDATA[<p>U hlavní hřídele pro mulčovač ATV rozhoduje přesné označení stroje. Porovnejte jej s modelem v tabulce.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model stroje</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">ATV 125</th><td>1000150</td></tr><tr><th scope="row">ATV 145</th><td>1000151</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000150</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>ATV 125</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000151</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>ATV 145</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="617">
+    <NAME>Nůž mulčovací sekačky FM</NAME>
+    <DESCRIPTION><![CDATA[<p>Náhradní nože pro mulčovací sekačky FM jsou levotočivé. Správnou délku nože určíte podle modelu sekačky.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model sekačky</th><th scope="col">Délka nože</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">FM 120</th><td>40 cm</td><td>1000220</td></tr><tr><th scope="row">FM 150</th><td>50 cm</td><td>1000221</td></tr><tr><th scope="row">FM 180</th><td>60 cm</td><td>1000222</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000220</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>FM 120</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000221</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>FM 150</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000222</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>FM 180</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="569">
+    <NAME>Podkopová lžíce pro BH</NAME>
+    <DESCRIPTION><![CDATA[<p>Podkopovou lžíci pro řadu BH vyberte podle požadované šířky výkopu. S šířkou lžíce se mění počet zubů.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Šířka lžíce</th><th scope="col">Počet zubů</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">30 cm</th><td>3</td><td>1000188</td></tr><tr><th scope="row">40 cm</th><td>4</td><td>1000189</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000188</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka lžíce</NAME><VALUE>30 cm · 3 zuby</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000189</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka lžíce</NAME><VALUE>40 cm · 4 zuby</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="572">
+    <NAME>Podkopová lžíce pro BH 5 R</NAME>
+    <DESCRIPTION><![CDATA[<p>Pro podkop BH 5 R jsou k dispozici dvě šířky lžíce. V tabulce najdete počet zubů a objednací kód každého provedení.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Šířka lžíce</th><th scope="col">Počet zubů</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">30 cm</th><td>3</td><td>1000192</td></tr><tr><th scope="row">40 cm</th><td>4</td><td>1000193</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000192</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka lžíce</NAME><VALUE>30 cm · 3 zuby</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000193</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Šířka lžíce</NAME><VALUE>40 cm · 4 zuby</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="341">
+    <NAME>Rotor mulčovače AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Náhradní rotor zvolte podle modelového označení mulčovače AGF.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model stroje</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">AGF 140</th><td>1000096</td></tr><tr><th scope="row">AGF 160</th><td>1000097</td></tr><tr><th scope="row">AGF 180</th><td>1000098</td></tr><tr><th scope="row">AGF 200</th><td>1000099</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000096</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 140</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000097</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 160</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000098</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 180</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000099</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 200</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="485">
+    <NAME>Spojka s řemenicí pro mulčovač ATV</NAME>
+    <DESCRIPTION><![CDATA[<p>Při výběru spojky s řemenicí ověřte, pro který model mulčovače ATV díl objednáváte.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model stroje</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">ATV 125</th><td>1000152</td></tr><tr><th scope="row">ATV 145</th><td>1000153</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000152</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>ATV 125</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000153</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>ATV 145</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="338">
+    <NAME>Zadní válec mulčovače AGF</NAME>
+    <DESCRIPTION><![CDATA[<p>Zadní válec pro mulčovač AGF se dodává ve čtyřech provedeních. Objednací kód vyhledejte podle modelu stroje.</p><div style="max-width:100%;overflow-x:auto"><table><caption>Výběr provedení</caption><thead><tr><th scope="col">Model stroje</th><th scope="col">Objednací kód</th></tr></thead><tbody><tr><th scope="row">AGF 140</th><td>1000091</td></tr><tr><th scope="row">AGF 160</th><td>1000092</td></tr><tr><th scope="row">AGF 180</th><td>1000093</td></tr><tr><th scope="row">AGF 200</th><td>1000094</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000091</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 140</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000092</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 160</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000093</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 180</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000094</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Model stroje</NAME><VALUE>AGF 200</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>

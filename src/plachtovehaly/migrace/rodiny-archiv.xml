@@ -1,0 +1,1661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SHOP>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 9,76 m s dvojitou konstrukcí (203216DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000296</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000370</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 12,2 m s dvojitou konstrukcí (204016DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000298</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000299</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 14,64 m s dvojitou konstrukcí (204816DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000322</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000323</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 17 m s dvojitou konstrukcí (205616DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000300</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000301</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 19,52 m s dvojitou konstrukcí (206416DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000302</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000303</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 6,1 × 24,4 m s dvojitou konstrukcí (208016DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/">Sedlová hala s dvojitou konstrukcí, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000341</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000342</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 7 × 12,2 m (234017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/">Sedlová hala řady 23, šířka 7 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000415</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 7 × 15,25 m (235017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/">Sedlová hala řady 23, šířka 7 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000416</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 12,2 m (264017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/">Sedlová hala řady 26, šířka 8 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000350</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000378</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 27,45 m (269017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/">Sedlová hala řady 26, šířka 8 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000355</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 8 × 30,5 m (2610017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/">Sedlová hala řady 26, šířka 8 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000356</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 12 m (304020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000257</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000264</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 15,25 m (305020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000304</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000319</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 18,3 m (306020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000258</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000265</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 21,35 m (307020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000309</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000321</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 24,4 m (308020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000259</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000266</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 9,15 × 30,5 m (3010020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/">Sedlová hala řady 30, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000326</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 9,15 m (333017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000327</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000425</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 15,25 m (335017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000028</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000029</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m (336017P)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000030</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000031</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 21,35 m (337017P)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000226</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000227</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m (338017P)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000032</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000033</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 27,45 m (339017P)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000348</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000426</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 33,55 m (3311017DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/">Sedlová hala řady 33, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000375</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m s bočním vstupem (P336020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/">Sedlová hala s bočním vstupem, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000268</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m s bočním vstupem (P338020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/">Sedlová hala s bočním vstupem, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000269</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 9,15 m (PP333020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000407</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 15,25 m (PP335020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000362</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 18,3 m (PP336020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000288</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 24,4 m (PP338020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000289</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 30,5 m (PP3310020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000368</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 33,55 m (PP3311020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000408</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 10 × 36,6 m (PP3312020DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/">Sedlová hala řady PP, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000409</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 12,2 m (404021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000371</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000385</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 21,3 m (407021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000238</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 24,4 m (408021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000229</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000388</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 27,45 m (409021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000372</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 30,5 m (4010021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000239</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000389</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 33,55 m (4011021DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000373</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 12,2 × 36,6 m (401202DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/">Sedlová hala řady 40, šířka 12,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000240</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 18,3 m (506023DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/">Sedlová hala řady 50, šířka 15,25 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000369</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 21,35 m (507023DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/">Sedlová hala řady 50, šířka 15,25 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000365</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 24,4 m (508023DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/">Sedlová hala řady 50, šířka 15,25 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000242</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 27,45 m (509023DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/">Sedlová hala řady 50, šířka 15,25 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000406</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 15,25 × 30,5 m (5010023DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/">Sedlová hala řady 50, šířka 15,25 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000243</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 18,3 × 31,72 m (6011025DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/">Sedlová hala řady 60, šířka 18,3 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000398</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sedlová hala 18,3 × 36,6 m (6012025DP)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/">Sedlová hala řady 60, šířka 18,3 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000399</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 12,8 m (204212 R)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/">Oblouková hala se zipovými vraty, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000013</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000014</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 14,64 m (204812 R)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/">Oblouková hala se zipovými vraty, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000337</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000338</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 650 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 6,1 × 18,3 m (206012 R)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/">Oblouková hala se zipovými vraty, šířka 6,1 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000016</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000017</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 750 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 16 m s navijákem</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/">Oblouková hala s navijákem, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000317</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000318</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 20 m s navijákem</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/">Oblouková hala s navijákem, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000280</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000283</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 26 m s navijákem</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/">Oblouková hala s navijákem, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000281</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000284</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Oblouková hala 9,15 × 30 m s navijákem</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/">Oblouková hala s navijákem, šířka 9,15 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000324</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Bílá · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000325</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Provedení plachty</NAME>
+            <VALUE>Vojenská zelená · 900 g/m²</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 6 × 12 m (C2040)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/">Zastřešení kontejnerů C20, šířka 6 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000286</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Bílá</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000367</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Barva plachty</NAME>
+            <VALUE>Vojenská zelená</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 8 × 6 m (C2620)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c26/">Zastřešení kontejnerů C26, šířka 8 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000344</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 10 × 12 m (C3340S)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c33s/">Zastřešení kontejnerů C33S, šířka 10 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000402</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zastřešení kontejnerů 18 × 12 m (C6040S)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-s-navijakovymi-vraty/">Zastřešení kontejnerů s navijákovými vraty, hloubka 12 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000405</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plachtová garáž pro karavan 4,3 × 9,2 × 4,3 m (143014R)</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-karavan/">Plachtová garáž pro karavan 4,3 × 9,2 m</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000293</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Přístřešek pro zvířata Animal, šířka 6 m</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/">Přístřešek pro zvířata Animal s hrazením a plachtou 750 g/m²</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <VARIANTS>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000252</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>6 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000332</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>8 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+      <VARIANT>
+        <CODE>ARCHIV-SP-1000333</CODE>
+        <PARAMETERS>
+          <PARAMETER>
+            <NAME>Délka</NAME>
+            <VALUE>10 m</VALUE>
+          </PARAMETER>
+        </PARAMETERS>
+        <STOCK>
+          <AMOUNT>0</AMOUNT>
+        </STOCK>
+        <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+        <VISIBLE>0</VISIBLE>
+      </VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Příkopový mulčovač AGE 145</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/prikopovy-mulcovac-age/">Příkopový mulčovač AGE</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000035</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 160 PRO</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/">Mulčovač AGF PRO</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000037</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 180 PRO</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/">Mulčovač AGF PRO</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000038</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovač AGF 200 PRO</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/">Mulčovač AGF PRO</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000039</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Lesní mulčovač FFM 180</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/lesni-mulcovac-ffm/">Lesní mulčovač FFM</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000046</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační brány LXG 170</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/">Rotační brány LXG</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000050</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Rotační brány LXG 210</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/">Rotační brány LXG</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000051</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovací sekačka FM 150</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/">Mulčovací sekačka FM</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000233</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mulčovací sekačka FM 180</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/">Mulčovací sekačka FM</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000234</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 140</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/">Transportní box PRMH</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000071</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 160</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/">Transportní box PRMH</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000072</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 180</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/">Transportní box PRMH</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000073</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Transportní box PRMH 200</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/">Transportní box PRMH</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000074</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1110 Lw / 1050 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000175</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1285 Lw / 1245 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000176</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1335 Lw / 1295 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000177</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1385 Lw / 1345 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000174</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1590 Lw / 1550 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000172</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1750 Lw / 1710 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000178</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1790 Lw / 1750 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000179</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Klínový řemen B 17, 1840 Lw / 1800 Li</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/">Klínový řemen B 17</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000180</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Gufero 45 × 80 × 10 pro mulčovač AGF</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/gufero-pro-mulcovac-agf/">Gufero pro mulčovač AGF</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000100</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Pouzdro řemenice 40 × 65 pro mulčovač AGF</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/pouzdro-remenice-pro-mulcovac-agf/">Pouzdro řemenice pro mulčovač AGF</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000103</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šroub M24 × 120 pro mulčovač AGF</NAME>
+    <SHORT_DESCRIPTION><![CDATA[<p>Toto provedení vyberete na stránce <a href="https://plachtovehaly.agrodabaki.cz/sroub-m24-pro-mulcovac-agf/">Šroub M24 pro mulčovač AGF</a>.</p>]]></SHORT_DESCRIPTION>
+    <VISIBILITY>detailOnly</VISIBILITY>
+    <CODE>ARCHIV-SP-1000127</CODE>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <VISIBLE>0</VISIBLE>
+  </SHOPITEM>
+</SHOP>

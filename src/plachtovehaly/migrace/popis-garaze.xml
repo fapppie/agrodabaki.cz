@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SHOP>
+  <SHOPITEM id="710">
+    <NAME>Plachtová garáž pro auto 3,66 × 6,1 m (122008R)</NAME>
+    <DESCRIPTION><![CDATA[<p>Plachtová garáž pro osobní auto má půdorys 3,66 × 6,1 m a výšku 2,44 m. Vrata měří na šířku 3,15 m a na výšku 1,9 m.</p><p>Šest nosných oblouků s oválným profilem 42 × 1,2 mm stojí v rozteči 1,22 m. Spojují je rozpěrné trubky 28 × 1 mm. Součástí dodávky je hlavní plachta, přední i zadní plachta a kotvicí prvky nového typu. Balení měří 2 × 0,6 × 0,6 m a váží 150 kg.</p><div style="overflow-x:auto"><table><caption>Barevná provedení garáže</caption><thead><tr><th scope="col">Barva plachty</th><th scope="col">Kód varianty</th></tr></thead><tbody><tr><th scope="row">Bílá</th><td>1000358</td></tr><tr><th scope="row">Vojenská zelená</th><td>1000359</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000358</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000359</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+  <SHOPITEM id="713">
+    <NAME>Plachtová garáž pro autobus a nákladní vůz 5,5 × 15 m</NAME>
+    <DESCRIPTION><![CDATA[<p>Plachtová garáž pro autobus nebo nákladní vůz je široká 5,5 m, dlouhá 15 m a vysoká 5,8 m. Pro vjezd jsou rozhodující rozměry vrat: šířka 3,6 m a výška 4,2 m.</p><p>Plachtu o gramáži 900 g/m² nesou oblouky 60 × 1,8 mm, které spojují rozpěrné trubky 40 × 1,5 mm.</p><div style="overflow-x:auto"><table><caption>Barevná provedení garáže</caption><thead><tr><th scope="col">Barva plachty</th><th scope="col">Kód varianty</th></tr></thead><tbody><tr><th scope="row">Bílá</th><td>1000363</td></tr><tr><th scope="row">Vojenská zelená</th><td>1000376</td></tr></tbody></table></div>]]></DESCRIPTION>
+    <VARIANTS>
+      <VARIANT><CODE>1000363</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Bílá</VALUE></PARAMETER></PARAMETERS></VARIANT>
+      <VARIANT><CODE>1000376</CODE>
+
+
+<VISIBLE>1</VISIBLE>
+
+    
+    
+    
+    
+    
+    <PARAMETERS><PARAMETER><NAME>Barva plachty</NAME><VALUE>Vojenská zelená</VALUE></PARAMETER></PARAMETERS></VARIANT>
+    </VARIANTS>
+  </SHOPITEM>
+</SHOP>
