@@ -1,0 +1,22 @@
+/* Mřížka podle tabulky dopravy ve VOP, šířka podle obsahu. */
+.type-detail :is(.basic-description, .p-short-description) {
+  min-width: 0;
+  max-width: 100%;
+}
+.type-detail :is(.basic-description, .p-short-description):has(table) {
+  overflow-x: auto;
+}
+.type-detail :is(.basic-description, .p-short-description) table {
+  width: auto;
+  border-collapse: collapse;
+}
+.type-detail :is(.basic-description, .p-short-description) :is(th, td) {
+  border: 1px solid #c7cfcd;
+  padding: 6px 8px;
+  text-align: start;
+  vertical-align: top;
+}
+.type-detail :is(.basic-description, .p-short-description) caption {
+  padding-block: 0 6px;
+  text-align: start;
+}

@@ -1,0 +1,19 @@
+/* Hodnocení firmy na homepage */
+#hodnoceni-firmy {max-width:800px;margin:42px auto 32px}
+#hodnoceni-firmy h2 {margin:0 0 18px}
+.dh-review-card {display:grid;grid-template-columns:minmax(190px,1fr) 2fr;text-align:left;border:1px solid #cbdcd5;border-radius:12px;background:white;overflow:hidden;color:#263f36}
+.dh-review-summary,.dh-review-quote {padding:24px clamp(18px,3vw,36px)}
+.dh-review-summary {display:grid;align-content:center;justify-items:start;gap:3px;background:#eff7f4;font-size:15px}
+.dh-review-score {font-size:40px;line-height:1.1;color:#195c43}
+.dh-review-score small {font-size:18px}
+.dh-review-summary>small,.dh-review-quote figcaption {font-size:13px;color:#53675e}
+.dh-review-stars {position:relative;width:max-content;color:#abb8b1;font:20px/1.2 Arial,sans-serif;letter-spacing:1px;margin-bottom:5px}
+.dh-review-stars:before {content:"★★★★★";position:absolute;inset:0 auto 0 0;width:90%;overflow:hidden;color:#187448}
+.dh-review-quote {margin:0;align-self:center}
+.dh-review-quote blockquote {margin:0 0 5px;padding:0;border:0;background:none;font-family:inherit;font-size:clamp(19px,2vw,25px);font-weight:600;line-height:1.35}
+.dh-review-quote a {display:inline-block;margin-top:18px;color:#006449;font-weight:700;text-decoration:underline}
+.welcome .dh-contact-note {box-sizing:border-box;max-width:800px;margin:0 auto;padding:18px 12px 0;border-top:1px solid #d5dfda;text-align:center;line-height:1.6}
+.dh-contact-note a {color:inherit;text-decoration:underline;white-space:nowrap}
+.homepage-box.welcome-wrapper:has(.dh-contact-note) {padding-bottom:16px}
+@media(max-width:600px){.dh-review-card{grid-template-columns:1fr}.dh-review-summary,.dh-review-quote{padding:18px 20px}#hodnoceni-firmy{margin:28px auto}.dh-review-summary{grid-template-columns:auto 1fr;align-items:center;column-gap:14px}.dh-review-score{grid-row:span 2}.dh-review-stars{margin:0}.dh-review-summary>small{grid-column:1/-1}.dh-review-quote a{margin-top:12px}}
+/* Konec hodnocení firmy */

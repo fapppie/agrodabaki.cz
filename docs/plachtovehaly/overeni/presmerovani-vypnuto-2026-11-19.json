@@ -1,0 +1,861 @@
+{
+  "date": "2026-11-19",
+  "redirectRules": 0,
+  "removed": 143,
+  "products": [
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/cerpadlo-traktoroveho-podkopu-bh/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/baterie-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/bocni-lizina-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/cep-podkovy-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/cep-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-hlavniho-zaveseni-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-hlavni-podkovy-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-prevodovky-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-ostri-lesniho-mulcovace-ffm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/gufero-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/horni-remenice-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/horni-velka-remenice-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hroty-rotacnich-bran-levy-a-pravy-v-paru/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicka-hadice-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicka-rychlospojka-r1-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-motor-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-mulcovace-agf-typ-b/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-na-drzaku-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-na-stroji-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/hydraulicky-rozvadec-podkopu-bh/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kladivko-pro-mulcovac-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kladivko-pro-mulcovace-agf-a-bcs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kladivo-pro-lesni-mulcovac-ffm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kladka-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kolecko-mulcovaci-sekacky-fm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kompletni-hydraulicky-prutokovy-ventil-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/krouzek-rotacniho-noze/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/krytka-pripojovaci-hlavice-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/krytka-hlavniho-zaveseni-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/kryt-vzduchoveho-filtru-mulcovace-atv-vcetne-filtru/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lesni-mulcovac-ffm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/levy-kryci-plech-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-6308-pro-zadni-valec-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-205-s-ulozenim/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-205-s-ulozenim-pro-zadni-valec-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-rotoru-1308-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-207-s-ulozenim-pro-hlavni-hridel-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-207-s-ulozenim/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/loziskovy-domek-rotoru-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/matice-cepu-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/matice-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/maznicka-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/motor-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/mulcovac-pro-ctyrkolku-atv-145-ot/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/mulcovac-pro-ctyrkolku-atv-120/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nahradni-oblouk-pro-halu-1000059/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nahradni-oblouk-pro-halu-1000203/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/najezdova-rampa-do-kontejneru-pd08b-nosnost-6-t/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/noze-pro-mulcovac-atv-par/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nuz-mulcovaci-sekacky-fm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nuz-stepkovace-bx-122-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nuz-spalikovace-tr-110/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/nuz-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-1200/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/ostri-pro-lesni-mulcovac-ffm/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-300/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-700/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/palivova-nadrz-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-auto/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-autobus-a-nakladni-vuz/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-karavan/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hm-200-do-tribodoveho-zavesu/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hm-200-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hv-200-s-valcem/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh-5-r/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/podkova-tribodoveho-zavesu-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/podperna-noha-mulcovace-agf-typ-l/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/podperna-noha-mulcovace-agf-typ-s/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pouzdro-cepu-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pouzdro-hlavniho-cepu-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pouzdro-remenice-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c20/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c26/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c33s/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prevodovka-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prikopovy-mulcovac-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prevodovka-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prevodovka-pro-efgc-bem-menasor-gkh-a-ms/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prevodovka-rotacnich-bran-lxg/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/protiostri-stepkovace-bx-122-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/prutokovy-sroub-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/protiostri-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pruzina-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pruzna-zavlacka-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/regulacni-ventil-stepkovace-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pulmesicovy-drzak-mulcovace-agf-provedeni-single/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/rotacni-nuz-ms-200/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/pulmesicovy-drzak-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/rotor-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sberac-konskeho-trusu-ksp-120/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/spalikovac-dreva-tr-110/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/spalikovac-dreva-trs-110-s-dopravnikem/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/spodni-mala-remenice-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/spodni-remenice-mulcovace-age/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/spojka-s-remenici-pro-mulcovac-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sroub-m10-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sroub-m24-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/sroub-m30-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/stacionarni-nuz-ms-200/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/tesnici-podlozka-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/stepkovac-dreva-bx-92-rs/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/tlumic-vyfuku-mulcovace-atv/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-310/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-350/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-380/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/vnejsi-pojistny-krouzek-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/vnitrni-pojistny-krouzek-pro-mulcovac-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zajistovaci-kolik-podperne-nohy-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zadni-valec-mulcovace-agf/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c26/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c33s/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c4040-otevrene/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-s-navijakovymi-vraty/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c4040-s-vraty/",
+      "status": 200,
+      "location": null,
+      "product": true
+    },
+    {
+      "url": "https://plachtovehaly.agrodabaki.cz/zub-podkopove-lzice/",
+      "status": 200,
+      "location": null,
+      "product": true
+    }
+  ],
+  "oldBelt": {
+    "status": 404,
+    "location": null
+  },
+  "linkAudit": {
+    "pages": 143,
+    "oldLinks": []
+  }
+}

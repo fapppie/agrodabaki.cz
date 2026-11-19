@@ -1,0 +1,26 @@
+{
+  "method": "Built-in image_gen; pilotní návrhy, nepřipraveno k nasazení",
+  "prompts": [
+    {
+      "id": 710,
+      "prompt": "Edit target: the attached real product photograph of a military-green fabric garage, product 710. Produce a faithful 4:3 landscape ecommerce cover, 1600x1200 if possible. This is a minimal photographic crop/reframe, NOT a redesign. Trim only a small amount of empty surroundings at the left/right if safe; preserve the entire garage silhouette, roof apex, ground contact, open entrance, visible internal tubes, rear opening, fabric folds, colour and perspective exactly. If a pure crop would cut any product edge, instead extend a little of the existing sky/grass above/below. Keep the existing lighting and realistic photographic texture. Do not sharpen into invented structural details, add/remove poles, change the opening or clean up the site. Image content must reach every edge, no white bars, borders, labels or collage."
+    },
+    {
+      "id": 152,
+      "prompt": "Use case: precise-object-edit. Edit target is the supplied REAL product photograph 955x494. OUTPAINT ONLY to a 4:3 landscape photograph. Preserve the ENTIRE existing photograph as a locked unchanged central horizontal strip: same tent, exact geometry and silhouette, folds, open entrance, ropes, tubes, people, cart, foreground and background. Keep full source width. Add approximately 110 pixels of matching blue sky above and 112 pixels of matching dry grass/earth below at source scale. Do not redraw, retouch or reinterpret anything inside the existing photo. Do not move or enlarge the tent. Continue the actual outdoor environment seamlessly, matching perspective and sunlight. No white margins, no borders, no labels, no collage. The tent must remain a factual photograph of this exact product. Output 4:3, ideally 1600x1200."
+    },
+    {
+      "id": 50,
+      "prompt": "Use case: precise-object-edit. Edit target is supplied REAL panoramic photograph 2609x974 of a long green tent in woods with pallets. OUTPAINT ONLY to a 4:3 landscape. Preserve the complete original image as an unchanged central strip spanning full canvas width, retaining the exact tent, doorway, roof profile, seams, folds, grass, pallets, turquoise boxes, trees and EXISTING large semi-transparent Dabaki watermark exactly. Do not remove or modify watermark. Expand canvas above and below: at source scale final canvas about 2609x1957 with original strip at y=420; add about 420px of continuing leafless forest/sky above and 563px continuing the actual patchy grass/earth below. The tent stays long and low, same photographic perspective; do not make it taller or shorter to fit. Do not change or redraw original pixels or invent product features. Natural continuous photographic surroundings to all four edges, no white bars or added labels. Output 4:3, ideally 1600x1200."
+    },
+    {
+      "id": 233,
+      "prompt": "Use case: precise-object-edit. Edit target supplied is a REAL small 510x274 photograph of a white fabric gable hall. Create a 4:3 cover by OUTPAINTING ONLY above and below. Keep entire original photograph as unchanged central strip; preserve exact hall proportions, closed rectangular segmented fabric door, vent, latch, wrinkles, seams, roof apex, white fabric colour, utility pole, trees and objects to right. At source scale target 510x383: add about 55px cloudy sky above and 54px grass below. Original width and perspective must stay intact. Modest faithful resampling is fine but DO NOT invent detail, straighten fabric, redesign doors, remove the pole or objects, alter hardware, or make a cleaner/new product photo. Continue cloudy lighting and existing grass naturally. Image reaches all edges, no white bars or borders, no labels. Output 4:3 landscape."
+    },
+    {
+      "id": 710,
+      "version": 2,
+      "prompt": "Perform ONLY canvas extension on this source image, NO reconstruction, enhancement, sharpening, repainting, recoloring, or perspective change of any original pixel. Output 4:3. Source is 1320x885. Keep the full 1320x885 source intact and centered in a 1320x990 canvas; add 52px continuation above and 53px below only. Original image must remain visibly soft/low resolution exactly as supplied. Extend the sky/tree backdrop above and grass/earth below. The existing garage must NOT be made clearer, newer, taller, wider, more symmetrical, or altered in any way. Do not add straps, tubes, guy lines, folds or change the rolled entrance curtain. Keep the exact source framing and full product. No white bars. This is factual ecommerce imagery: preservation is more important than beauty."
+    }
+  ]
+}

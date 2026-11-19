@@ -1,0 +1,4 @@
+/* Náhled ve výpisu zachovat; nové články mají vlastní přístupný figure. */
+.news-item-detail:has(.dabaki-poradna-clanek) > .article-image {
+  display: none;
+}

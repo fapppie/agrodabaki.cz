@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 64 48" fill="none">
+  <title>Čelo s vraty mezi kontejnery</title>
+  <path d="M9 27C12 14 21 7 32 7s20 7 23 20" stroke="#344D46" stroke-width="4" stroke-linecap="round"/>
+  <path d="M4 26h10v15H4zm46 0h10v15H50z" fill="#344D46"/>
+  <path d="M19 41V22h26v19" fill="#E5F6F0" stroke="#008762" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M23 28h18m-18 6h18" stroke="#00B07E" stroke-width="3"/>
+</svg>

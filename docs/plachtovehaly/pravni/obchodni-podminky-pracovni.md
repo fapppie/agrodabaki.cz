@@ -1,6 +1,6 @@
 # Obchodní podmínky pro nákup na plachtovehaly.agrodabaki.cz
 
-**Schválené znění, účinné od 16. listopadu 2026.** [Veřejná stránka](https://plachtovehaly.agrodabaki.cz/obchodni-podminky/) · [Archiv přílohy objednávky](../../../src/plachtovehaly/shoptet/obchodni-podminky-2026-11-16.pdf)
+**Schválené znění, účinné od 17. listopadu 2026.** [Veřejná stránka](https://plachtovehaly.agrodabaki.cz/obchodni-podminky/) · [Archiv přílohy objednávky](../../../src/plachtovehaly/shoptet/obchodni-podminky-2026-11-17.pdf)
 
 ## Kdo vám zboží prodává
 
@@ -12,20 +12,21 @@ Tyto podmínky platí pro objednávky zboží v našem e-shopu. U každé objedn
 
 Na kartě výrobku vyberete provedení a množství. V košíku zkontrolujete vybrané zboží, zvolíte dopravu a platbu a doplníte kontaktní a doručovací údaje. Před odesláním můžete údaje opravit. Uvidíte konečnou cenu včetně DPH a všech částek účtovaných za dopravu a platbu. Odesláním objednávky s povinností platby nám navrhujete uzavření kupní smlouvy.
 
-Kupní smlouva vzniká doručením prvního potvrzovacího e-mailu od nás. Zpráva obsahuje číslo objednávky, její rekapitulaci a výslovné přijetí objednávky. Změní-li se po uzavření smlouvy dostupnost, jiný termín nebo náhradní výrobek vám nabídneme k odsouhlasení. Až do předání zboží dopravci můžete objednávku z katalogu bezplatně zrušit e-mailem nebo telefonicky. Platí to také při nákupu na firmu. Přijatou platbu vám v takovém případě vrátíme do 14 dnů.
+Kupní smlouva vzniká doručením prvního potvrzovacího e-mailu od nás. Zpráva obsahuje číslo objednávky, její rekapitulaci a výslovné přijetí objednávky. Změní-li se po uzavření smlouvy dostupnost, jiný termín nebo náhradní výrobek vám nabídneme k odsouhlasení. Objednávku z katalogu můžete bezplatně zrušit e-mailem nebo telefonicky. Při doručení ji můžete zrušit až do předání zboží dopravci, při osobním odběru až do chvíle, kdy si zboží převezmete. Platí to také při nákupu na firmu. Přijatou platbu vám v takovém případě vrátíme do 14 dnů.
 
 Smlouvu uzavíráme v češtině. V potvrzovacím e-mailu dostanete rekapitulaci a přiložené znění obchodních podmínek. Objednávku a příslušnou verzi podmínek uchováváme. O kopii můžete požádat na agro@dabaki.cz s uvedením čísla objednávky. Fakturu vám pošleme na e-mail z objednávky. Za komunikaci s námi hradíte běžnou cenu podle tarifu svého poskytovatele.
 
 ## Cena, platba a dodání v České republice
 
-Ceny na e-shopu jsou uvedeny v Kč včetně DPH. Zaplatit můžete převodem na účet nebo dobírkou, v obou případech bez příplatku. Při převodu je cena splatná do sedmi kalendářních dnů od doručení potvrzení objednávky. Číslo účtu a variabilní symbol obdržíte v tomto potvrzení. Při platbě převodem zboží expedujeme po připsání částky.
+Ceny na e-shopu jsou uvedeny v Kč včetně DPH. Při doručení přes GEIS můžete zaplatit převodem předem nebo dobírkou. U externí spedice se platí pouze převodem předem. Při osobním odběru můžete zaplatit převodem předem nebo hotově při převzetí do 270 000 Kč včetně. Do limitu se počítají všechny hotovostní platby téhož zákazníka naší firmě za jeden kalendářní den. Všechny uvedené způsoby platby jsou bez příplatku. Při převodu je cena splatná do sedmi kalendářních dnů od doručení potvrzení objednávky. Číslo účtu a variabilní symbol obdržíte v tomto potvrzení. Při platbě převodem zboží odešleme nebo vydáme po připsání částky.
 
-| Cena zboží v celé objednávce včetně DPH | Způsob dopravy | Cena doručení po ČR |
+| Cena zboží v celé objednávce včetně DPH | Způsob dopravy | Cena dopravy či odběru |
 | --- | --- | ---: |
 | Do 100 000 Kč včetně | GEIS | 0 Kč |
 | Nad 100 000 Kč | Externí spedice. Přepravce vybereme podle zásilky. | 0 Kč |
+| Jakákoli hodnota objednávky | Osobní odběr ve skladu | 0 Kč |
 
-Dobu dodání najdete před objednáním u zvoleného provedení. Skladové zboží doručíme do 10 pracovních dnů od potvrzení objednávky, při převodu od připsání platby. U zboží na objednávku platí termín uvedený u varianty a v rekapitulaci. Pokud termín zatím neznáme, připravíme vám nejprve individuální nabídku. Místo, příjezd nákladního vozidla a způsob bezpečného složení palety s vámi domluvíme před expedicí. Standardní doprava zahrnuje složení u vozidla na dohodnutém přístupném místě. Případný jeřáb, přemístění na pozemku nebo montáž mají samostatnou nabídku, kterou předem odsouhlasíte. Osobní odběr a případnou cenu při odběru lze sjednat individuálně před objednáním.
+Dobu dodání najdete před objednáním u zvoleného provedení. Skladové zboží doručíme do 10 pracovních dnů od potvrzení objednávky, při převodu od připsání platby. U zboží na objednávku platí termín uvedený u varianty a v rekapitulaci. Pokud termín zatím neznáme, připravíme vám nejprve individuální nabídku. Místo, příjezd nákladního vozidla a způsob bezpečného složení palety s vámi domluvíme před expedicí. Standardní doprava zahrnuje složení u vozidla na dohodnutém přístupném místě. Případný jeřáb, přemístění na pozemku nebo montáž mají samostatnou nabídku, kterou předem odsouhlasíte. Při osobním odběru si zboží vyzvednete ve skladu Agro Dabaki na adrese firmy. Přijeďte prosím až poté, co vám potvrdíme termín vyzvednutí.
 
 Zboží spotřebiteli dodáme v dohodnutém termínu. Pokud si termín nesjednáme, dodáme je bez zbytečného odkladu, nejpozději do 30 dnů od uzavření smlouvy. Při prodlení nám můžete poskytnout přiměřenou dodatečnou lhůtu a po jejím marném uplynutí od smlouvy odstoupit. Ihned můžete odstoupit také tehdy, odmítneme-li dodat nebo je-li termín pro vás podstatný a tato skutečnost vyplývala z okolností při uzavření smlouvy či jste nám ji před jejím uzavřením sdělili.
 

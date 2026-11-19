@@ -1,0 +1,17 @@
+{
+  "style": "Use case: stylized-concept. Create one landscape 5:3 editorial illustration for a Czech agricultural equipment shop. Use the supplied approved illustration ONLY as the style reference: sophisticated hand-painted cinematic anime background, realistic proportions and structure, visible delicate brushwork, golden sidelight, cool shadows, rich natural materials, painterly vegetation and clouds. Same polish and degree of stylization as the reference. NOT a photograph and NOT a flat diagram. No words, lettering, logos, watermarks, labels, numbers or infographic panels. No people. Generic editorial scene rather than an exact product claim. Main subject clearly readable as thumbnail. Scene: ",
+  "jobs": [
+    [
+      "kladivko-do-mulcovace-age-agf",
+      "Close-up still life on a timber workbench in a farm workshop: a single heavy forged-steel agricultural flail mower hammer with broad curved cutting head and mounting lug with round hole, beside a vernier caliper and a second gently worn hammer. Warm light through open workshop door, defocused orchard background. Focus on inspecting and comparing the real part, absolutely not a handheld carpenter hammer. Detailed worn steel, believable forms, no readable markings."
+    ],
+    [
+      "mulcovac-za-ctyrkolku-atv-120-145-ot",
+      "Parked utility ATV with a tow-behind flail mower in a Czech apple orchard, rear three-quarter view showing ATV, drawbar connection and compact low rectangular yellow mower housing with its own small engine mounted above and two outer wheels. Mower rests on ground; all machinery off, no rider. Rows of trees and mown grass, golden afternoon. Clearly towed mower, not a mower attached on top of ATV."
+    ],
+    [
+      "zastreseni-kontejneru-rozmery-c20-c26-c33s",
+      "Two parallel muted grey-green steel shipping containers with a white arched tensioned-fabric canopy spanning the clear space between them, arch supported on the inner top edges of the containers. Front three-quarter view showing both containers, curved steel ribs, taut fabric and clear empty sheltered access between. Rural farm yard, compacted gravel, fields and gentle hills. No tractor or other large vehicle. Believable shipping container proportions, elegant warm painterly light."
+    ]
+  ]
+}

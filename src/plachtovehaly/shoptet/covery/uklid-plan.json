@@ -1,0 +1,656 @@
+{
+  "plan": [
+    {
+      "pid": "50",
+      "cover": {
+        "alt": "Sedlová hala řady 33 – vojenská zelená, hlavní fotografie",
+        "field": "alts[4187]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50-65.jpg?ff=1&x=140&y=100&q=85&ts=6afc8455&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "50",
+          "alt": "Sedlová hala 10 × 12,2 m (334017P) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[605]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4ca&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/50-605.jpg",
+          "sha256": "31a3ac28a827ff70898fe9e3aee3f1eb7a6519ce6477543e5536b01156f89abc"
+        },
+        {
+          "pid": "50",
+          "alt": "Sedlová hala 10 × 15,25 m (335017DP) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[3620]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50-15.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4cf&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/50-3620.jpg",
+          "sha256": "31a3ac28a827ff70898fe9e3aee3f1eb7a6519ce6477543e5536b01156f89abc"
+        },
+        {
+          "pid": "50",
+          "alt": "Sedlová hala 10 × 18,3 m (336017P) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[3653]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50-26.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4cf&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/50-3653.jpg",
+          "sha256": "31a3ac28a827ff70898fe9e3aee3f1eb7a6519ce6477543e5536b01156f89abc"
+        },
+        {
+          "pid": "50",
+          "alt": "Sedlová hala 10 × 21,35 m (337017P) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[3686]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50-37.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4cf&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/50-3686.jpg",
+          "sha256": "31a3ac28a827ff70898fe9e3aee3f1eb7a6519ce6477543e5536b01156f89abc"
+        },
+        {
+          "pid": "50",
+          "alt": "Sedlová hala 10 × 24,4 m (338017P) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[3710]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/50-45.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4cf&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/50-3710.jpg",
+          "sha256": "31a3ac28a827ff70898fe9e3aee3f1eb7a6519ce6477543e5536b01156f89abc"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Vojenská zelená,                                                                                                     12,2 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/50_sedlova-hala-10--12-2-m--334017p-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4ca&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=53"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     24,4 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/50-45_sedlova-hala-10--24-4-m--338017p-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4cf&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1121"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     15,25 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/50-15_sedlova-hala-10--15-25-m--335017dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4cf&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1103"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     18,3 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/50-26_sedlova-hala-10--18-3-m--336017p-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4cf&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1109"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     21,35 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/50-37_sedlova-hala-10--21-35-m--337017p-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4cf&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1115"
+        }
+      ]
+    },
+    {
+      "pid": "113",
+      "cover": {
+        "alt": "Sedlová hala řady PP – bílá, hlavní fotografie",
+        "field": "alts[4190]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/113-17.jpg?ff=1&x=140&y=100&q=85&ts=6afc846e&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "113",
+          "alt": "Sedlová hala řady PP, šířka 10 m (Délka 12,2 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[716]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/113.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d1&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/113-716.jpg",
+          "sha256": "5544bb49f9a271c24423db1e5054eeaa53b985442f8b27131fb6600201de9b9b"
+        },
+        {
+          "pid": "113",
+          "alt": "Sedlová hala řady PP, šířka 10 m (Délka 18,3 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3836]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/113-7.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d1&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/113-3836.jpg",
+          "sha256": "5544bb49f9a271c24423db1e5054eeaa53b985442f8b27131fb6600201de9b9b"
+        },
+        {
+          "pid": "113",
+          "alt": "Sedlová hala řady PP, šířka 10 m (Délka 24,4 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3845]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/113-10.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d1&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/113-3845.jpg",
+          "sha256": "5544bb49f9a271c24423db1e5054eeaa53b985442f8b27131fb6600201de9b9b"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     12,2 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/113_sedlova-hala-rady-pp--sirka-10-m--delka-12-2-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d1&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=158"
+        },
+        {
+          "name": "Bílá,                                                                                                     24,4 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/113-10_sedlova-hala-rady-pp--sirka-10-m--delka-24-4-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d1&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1151"
+        },
+        {
+          "name": "Bílá,                                                                                                     18,3 m,                                                                                                     10 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/113-7_sedlova-hala-rady-pp--sirka-10-m--delka-18-3-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d1&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1148"
+        }
+      ]
+    },
+    {
+      "pid": "152",
+      "cover": {
+        "alt": "Sedlová hala s dvojitou konstrukcí – hlavní fotografie",
+        "field": "alts[4181]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/152-33.jpg?ff=1&x=140&y=100&q=85&ts=6afc8402&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "152",
+          "alt": "Sedlová hala 6,1 × 7,32 m s dvojitou konstrukcí (202416DP) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[443]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/152-2.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c3&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/152-443.jpg",
+          "sha256": "2b14b91097e389d2dfa64f4a63da2ccf441bcaed22849fa288f2d00b6a909ded"
+        },
+        {
+          "pid": "152",
+          "alt": "Sedlová hala 6,1 × 9,76 m s dvojitou konstrukcí (203216DP) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[2942]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/152-7.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c5&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/152-2942.jpg",
+          "sha256": "2b14b91097e389d2dfa64f4a63da2ccf441bcaed22849fa288f2d00b6a909ded"
+        },
+        {
+          "pid": "152",
+          "alt": "Sedlová hala 6,1 × 12,2 m s dvojitou konstrukcí (204016DP) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[2957]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/152-12.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c5&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/152-2957.jpg",
+          "sha256": "2b14b91097e389d2dfa64f4a63da2ccf441bcaed22849fa288f2d00b6a909ded"
+        },
+        {
+          "pid": "152",
+          "alt": "Sedlová hala 6,1 × 14,64 m s dvojitou konstrukcí (204816DP) (Provedení plachty Vojenská zelená · 900 g/m²)",
+          "field": "alts[2972]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/152-17.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c5&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/152-2972.jpg",
+          "sha256": "2b14b91097e389d2dfa64f4a63da2ccf441bcaed22849fa288f2d00b6a909ded"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Vojenská zelená,                                                                                                     7,32 m,                                                                                                     6,1 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/152-2_sedlova-hala-6-1--7-32-m-s-dvojitou-konstrukci--202416dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c3&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=227"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     9,76 m,                                                                                                     6,1 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/152-7_sedlova-hala-6-1--9-76-m-s-dvojitou-konstrukci--203216dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c5&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1013"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     12,2 m,                                                                                                     6,1 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/152-12_sedlova-hala-6-1--12-2-m-s-dvojitou-konstrukci--204016dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c5&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1019"
+        },
+        {
+          "name": "Vojenská zelená,                                                                                                     14,64 m,                                                                                                     6,1 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/152-17_sedlova-hala-6-1--14-64-m-s-dvojitou-konstrukci--204816dp-provedeni-plachty-vojenska-zelena--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c5&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1025"
+        }
+      ]
+    },
+    {
+      "pid": "164",
+      "cover": {
+        "alt": "Sedlová hala řady 26 – bílá, hlavní fotografie Agro Dabaki",
+        "field": "alts[4178]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/164-27.jpg?ff=1&x=140&y=100&q=85&ts=6afc835f&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "164",
+          "alt": "167 4 sedlova hala 8 12 2 m 264017dp",
+          "field": "alts[3191]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/164-6.jpg?ff=1&x=140&y=100&q=85&ts=6afafdb3&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/164-3191.jpg",
+          "sha256": "d95f1e71fd468804a46d3b80eb5ea46998ead4d824631ef5b627a53b5f68d20c"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "pid": "200",
+      "cover": {
+        "alt": "Sedlová hala řady 50 – hlavní fotografie",
+        "field": "alts[4217]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/200-21.jpg?ff=1&x=140&y=100&q=85&ts=6afc881e&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "200",
+          "alt": "Sedlová hala řady 50, šířka 15,25 m (Délka 15,25 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[386]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/200.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d5&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/200-386.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "200",
+          "alt": "Sedlová hala řady 50, šířka 15,25 m (Délka 18,3 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[4007]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/200-4.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/200-4007.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "200",
+          "alt": "Sedlová hala řady 50, šířka 15,25 m (Délka 21,35 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[4016]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/200-7.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/200-4016.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "200",
+          "alt": "Sedlová hala řady 50, šířka 15,25 m (Délka 27,45 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[4040]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/200-15.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/200-4040.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     15,25 m,                                                                                                     15,25 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/200_sedlova-hala-rady-50--sirka-15-25-m--delka-15-25-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d5&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=290"
+        },
+        {
+          "name": "Bílá,                                                                                                     27,45 m,                                                                                                     15,25 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/200-15_sedlova-hala-rady-50--sirka-15-25-m--delka-27-45-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1202"
+        },
+        {
+          "name": "Bílá,                                                                                                     18,3 m,                                                                                                     15,25 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/200-4_sedlova-hala-rady-50--sirka-15-25-m--delka-18-3-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1193"
+        },
+        {
+          "name": "Bílá,                                                                                                     21,35 m,                                                                                                     15,25 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/200-7_sedlova-hala-rady-50--sirka-15-25-m--delka-21-35-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1196"
+        }
+      ]
+    },
+    {
+      "pid": "203",
+      "cover": {
+        "alt": "Sedlová hala řady 40 – hlavní fotografie",
+        "field": "alts[4214]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203-61.jpg?ff=1&x=140&y=100&q=85&ts=6afc8784&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "203",
+          "alt": "Sedlová hala řady 40, šířka 12,2 m (Délka 9,15 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[470]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d1&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/203-470.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "203",
+          "alt": "Sedlová hala 12,2 × 12,2 m (404021DP) (Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3866]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203-4.jpg?ff=1&x=140&y=100&q=85&ts=6afafdb4&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/203-3866.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "203",
+          "alt": "Sedlová hala řady 40, šířka 12,2 m (Délka 27,45 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3941]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203-29.jpg?ff=1&x=140&y=100&q=85&ts=6afafdb4&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/203-3941.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "203",
+          "alt": "Sedlová hala řady 40, šířka 12,2 m (Délka 33,55 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3980]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203-42.jpg?ff=1&x=140&y=100&q=85&ts=6afafdb4&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/203-3980.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        },
+        {
+          "pid": "203",
+          "alt": "Sedlová hala řady 40 (Provedení plachty Bílá, Délka 15,25 m, Šířka 12,2 m)",
+          "field": "alts[4145]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/203-51.jpg?ff=1&x=140&y=100&q=85&ts=6afafdb6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/203-4145.jpg",
+          "sha256": "de1739a14decf448cf765b332e2a8f06751bb5ff6e77c0739afffcd62dc3eeab"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     12,2 m,                                                                                                     12,2 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/203-4_sedlova-hala-12-2--12-2-m--404021dp-provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6afafdb4&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1163"
+        },
+        {
+          "name": "Bílá,                                                                                                     9,15 m,                                                                                                     12,2 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/203_sedlova-hala-rady-40--sirka-12-2-m--delka-9-15-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d1&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=293"
+        },
+        {
+          "name": "Bílá,                                                                                                     15,25 m,                                                                                                     12,2 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/203-51_sedlova-hala-rady-40--provedeni-plachty-bila--delka-15-25-m--sirka-12-2-m.jpg?ff=1&x=100&y=100&q=85&ts=6afafdb6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1382"
+        },
+        {
+          "name": "Bílá,                                                                                                     27,45 m,                                                                                                     12,2 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/203-29_sedlova-hala-rady-40--sirka-12-2-m--delka-27-45-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6afafdb4&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1178"
+        },
+        {
+          "name": "Bílá,                                                                                                     33,55 m,                                                                                                     12,2 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/203-42_sedlova-hala-rady-40--sirka-12-2-m--delka-33-55-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6afafdb4&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1187"
+        }
+      ]
+    },
+    {
+      "pid": "206",
+      "cover": {
+        "alt": "Sedlová hala řady 60 – bílá, hlavní fotografie",
+        "field": "alts[4193]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/206-8.jpg?ff=1&x=140&y=100&q=85&ts=6afc8489&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "206",
+          "alt": "Sedlová hala řady 60, šířka 18,3 m (Délka 24,4 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[584]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/206.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/206-584.jpg",
+          "sha256": "e5217736037393a744e2f22364a98abec485b59c2427a873f076f1ae17c7e013"
+        },
+        {
+          "pid": "206",
+          "alt": "Sedlová hala řady 60, šířka 18,3 m (Délka 31,72 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[4058]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/206-4.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/206-4058.jpg",
+          "sha256": "e5217736037393a744e2f22364a98abec485b59c2427a873f076f1ae17c7e013"
+        },
+        {
+          "pid": "206",
+          "alt": "Sedlová hala řady 60, šířka 18,3 m (Délka 36,6 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[4064]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/206-6.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4d6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/206-4064.jpg",
+          "sha256": "e5217736037393a744e2f22364a98abec485b59c2427a873f076f1ae17c7e013"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     24,4 m,                                                                                                     18,3 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/206_sedlova-hala-rady-60--sirka-18-3-m--delka-24-4-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=296"
+        },
+        {
+          "name": "Bílá,                                                                                                     36,6 m,                                                                                                     18,3 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/206-6_sedlova-hala-rady-60--sirka-18-3-m--delka-36-6-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1211"
+        },
+        {
+          "name": "Bílá,                                                                                                     31,72 m,                                                                                                     18,3 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/206-4_sedlova-hala-rady-60--sirka-18-3-m--delka-31-72-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4d6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1208"
+        }
+      ]
+    },
+    {
+      "pid": "233",
+      "cover": {
+        "alt": "Sedlová hala řady 23 – bílá, hlavní fotografie",
+        "field": "alts[4184]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/233-12.jpg?ff=1&x=140&y=100&q=85&ts=6afc8431&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "233",
+          "alt": "Sedlová hala řady 23, šířka 7 m (Délka 9,15 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[767]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/233.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c5&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/233-767.jpg",
+          "sha256": "19948766014e2f2d0caf59f7ef96d3433a1d2d3277e0465ebdd97cf8b36a88a5"
+        },
+        {
+          "pid": "233",
+          "alt": "Sedlová hala řady 23, šířka 7 m (Délka 12,2 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3020]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/233-4.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/233-3020.jpg",
+          "sha256": "19948766014e2f2d0caf59f7ef96d3433a1d2d3277e0465ebdd97cf8b36a88a5"
+        },
+        {
+          "pid": "233",
+          "alt": "Sedlová hala řady 23, šířka 7 m (Délka 15,25 m, Provedení plachty Bílá · 900 g/m²)",
+          "field": "alts[3032]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/233-8.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c6&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/233-3032.jpg",
+          "sha256": "19948766014e2f2d0caf59f7ef96d3433a1d2d3277e0465ebdd97cf8b36a88a5"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     12,2 m,                                                                                                     7 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/233-4_sedlova-hala-rady-23--sirka-7-m--delka-12-2-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1046"
+        },
+        {
+          "name": "Bílá,                                                                                                     9,15 m,                                                                                                     7 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/233_sedlova-hala-rady-23--sirka-7-m--delka-9-15-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c5&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=329"
+        },
+        {
+          "name": "Bílá,                                                                                                     15,25 m,                                                                                                     7 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/233-8_sedlova-hala-rady-23--sirka-7-m--delka-15-25-m--provedeni-plachty-bila--900-g-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c6&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1049"
+        }
+      ]
+    },
+    {
+      "pid": "659",
+      "cover": {
+        "alt": "Přístřešek pro zvířata Animal – hlavní fotografie",
+        "field": "alts[4199]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/659-24.jpg?ff=1&x=140&y=100&q=85&ts=6afc84c2&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "659",
+          "alt": "Přístřešek pro zvířata Animal, šířka 6 m (Délka 6 m)",
+          "field": "alts[3539]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/659-4.jpg?ff=1&x=140&y=100&q=85&ts=6afa06c8&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/659-3539.jpg",
+          "sha256": "264ca869095e8288454c3299af07bbc31d2259854866690a67a0f600572726f9"
+        }
+      ],
+      "variants": [
+        {
+          "name": "6 m,                                                                                                     6 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/659-4_pristresek-pro-zvirata-animal--sirka-6-m--delka-6-m.jpg?ff=1&x=100&y=100&q=85&ts=6afa06c8&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1274"
+        }
+      ]
+    },
+    {
+      "pid": "674",
+      "cover": {
+        "alt": "Zastřešení lodních kontejnerů C20 – hlavní fotografie",
+        "field": "alts[4196]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/674-6.jpg?ff=1&x=140&y=100&q=85&ts=6afc84a2&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "674",
+          "alt": "Zastřešení kontejnerů 6 × 6 m (C2020) (Barva plachty Vojenská zelená)",
+          "field": "alts[2315]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/674-2.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c9&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/674-2315.jpg",
+          "sha256": "ca2d4233281e4de033be8559738ce5a6bf92a3073ef76a8d79490890c2687c19"
+        },
+        {
+          "pid": "674",
+          "alt": "Zastřešení kontejnerů 6 × 12 m (C2040) (Barva plachty Vojenská zelená)",
+          "field": "alts[3368]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/674-5.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c9&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/674-3368.jpg",
+          "sha256": "ca2d4233281e4de033be8559738ce5a6bf92a3073ef76a8d79490890c2687c19"
+        }
+      ],
+      "variants": [
+        {
+          "name": "6 m,                                                                                                     Vojenská zelená,                                                                                                     6 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/674-2_zastreseni-kontejneru-6--6-m--c2020-barva-plachty-vojenska-zelena.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c9&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=842"
+        },
+        {
+          "name": "12 m,                                                                                                     Vojenská zelená,                                                                                                     6 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/674-5_zastreseni-kontejneru-6--12-m--c2040-barva-plachty-vojenska-zelena.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c9&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1259"
+        }
+      ]
+    },
+    {
+      "pid": "689",
+      "cover": {
+        "alt": "Zastřešení kontejnerů s navijákovými vraty – hlavní fotografie",
+        "field": "alts[4211]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/689-2.jpg?ff=1&x=140&y=100&q=85&ts=6afc8772&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "689",
+          "alt": "Zastřešení kontejnerů s navijákovými vraty, hloubka 12 m (Šířka 18 m)",
+          "field": "alts[3380]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/689-1.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c9&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/689-3380.jpg",
+          "sha256": "7cc72300a9fa42fcb45a76183c94bed1b3fb33b7ce25d888b1af5c8ef0441063"
+        },
+        {
+          "pid": "689",
+          "alt": "Zastřešení kontejnerů s navijákovými vraty, hloubka 12 m (Šířka 15 m)",
+          "field": "alts[2123]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/689.jpg?ff=1&x=140&y=100&q=85&ts=6af9f4c9&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/689-2123.jpg",
+          "sha256": "7cc72300a9fa42fcb45a76183c94bed1b3fb33b7ce25d888b1af5c8ef0441063"
+        }
+      ],
+      "variants": [
+        {
+          "name": "15 m,                                                                                                     12 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/689_zastreseni-kontejneru-s-navijakovymi-vraty--hloubka-12-m--sirka-15-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c9&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=860"
+        },
+        {
+          "name": "18 m,                                                                                                     12 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/689-1_zastreseni-kontejneru-s-navijakovymi-vraty--hloubka-12-m--sirka-18-m.jpg?ff=1&x=100&y=100&q=85&ts=6af9f4c9&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=1268"
+        }
+      ]
+    },
+    {
+      "pid": "698",
+      "cover": {
+        "alt": "Zastřešení kontejnerů C4040 – hlavní fotografie",
+        "field": "alts[4208]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/698-1.jpg?ff=1&x=140&y=100&q=85&ts=6afc870b&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "698",
+          "alt": "",
+          "field": "alts[2144]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/698.jpg?ff=1&x=140&y=100&q=85&ts=6af9e2a7&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/698-2144.jpg",
+          "sha256": "7cc72300a9fa42fcb45a76183c94bed1b3fb33b7ce25d888b1af5c8ef0441063"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "pid": "701",
+      "cover": {
+        "alt": "Zastřešení kontejnerů C4040 – hlavní fotografie",
+        "field": "alts[4205]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/701-1.jpg?ff=1&x=140&y=100&q=85&ts=6afc86f4&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "701",
+          "alt": "",
+          "field": "alts[2147]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/701.jpg?ff=1&x=140&y=100&q=85&ts=6af9e2a7&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/701-2147.jpg",
+          "sha256": "7cc72300a9fa42fcb45a76183c94bed1b3fb33b7ce25d888b1af5c8ef0441063"
+        }
+      ],
+      "variants": []
+    },
+    {
+      "pid": "710",
+      "cover": {
+        "alt": "Plachtová garáž pro auto (122008R) – vojenská zelená, hlavní fotografie",
+        "field": "alts[4175]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/710-5.jpg?ff=1&x=140&y=100&q=85&ts=6afc82d8&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "710",
+          "alt": "Plachtová garáž pro auto 3,66 × 6,1 m (122008R) (Barva plachty Vojenská zelená)",
+          "field": "alts[2204]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/710-2.jpg?ff=1&x=140&y=100&q=85&ts=6af9e2a8&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/710-2204.jpg",
+          "sha256": "26f9a4300834bb9bef60d49f819d1dcbcd9e8ef7f9d04e1ce633f522e2cc5610"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Vojenská zelená,                                                                                                     3,66 × 6,1 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/710-2_plachtova-garaz-pro-auto-3-66--6-1-m--122008r-barva-plachty-vojenska-zelena.jpg?ff=1&x=100&y=100&q=85&ts=6af9e2a8&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=890"
+        }
+      ]
+    },
+    {
+      "pid": "713",
+      "cover": {
+        "alt": "Plachtová garáž pro autobus a nákladní vůz – hlavní fotografie",
+        "field": "alts[4202]",
+        "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/713-8.jpg?ff=1&x=140&y=100&q=85&ts=6afc84d9&sg=8e0f9bbd"
+      },
+      "remove": [
+        {
+          "pid": "713",
+          "alt": "Plachtová garáž pro autobus a nákladní vůz 5,5 × 15 m (Barva plachty Bílá)",
+          "field": "alts[2222]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/713.jpg?ff=1&x=140&y=100&q=85&ts=6af9e2aa&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/713-2222.jpg",
+          "sha256": "891618da5c31e7d485bce030d50baefef555d4d4a45ed16f0f2da1f41a86414f"
+        },
+        {
+          "pid": "713",
+          "alt": "",
+          "field": "alts[2240]",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/admin_detail/713-6.jpg?ff=1&x=140&y=100&q=85&ts=6af9e2aa&sg=8e0f9bbd",
+          "file": ".wexbo-cache/cover-cleanup/713-2240.jpg",
+          "sha256": "891618da5c31e7d485bce030d50baefef555d4d4a45ed16f0f2da1f41a86414f"
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bílá,                                                                                                     5,5 × 15 m",
+          "src": "https://plachtovehaly.agrodabaki.cz/user/shop/related/713_plachtova-garaz-pro-autobus-a-nakladni-vuz-5-5--15-m--barva-plachty-bila.jpg?ff=1&x=100&y=100&q=85&ts=6af9e2aa&sg=8dda0505",
+          "url": "https://plachtovehaly.agrodabaki.cz/admin/pridat-variantu/?id=893"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

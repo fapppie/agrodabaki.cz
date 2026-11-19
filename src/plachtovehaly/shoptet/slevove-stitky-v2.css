@@ -1,0 +1,36 @@
+/* Slevový štítek v produktových náhledech a galerii. */
+html body .flags .flag.flag-discount,
+html body #content .flags .flag.flag-discount {
+    display: inline-flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    width: auto !important;
+    min-width: 0 !important;
+    height: auto !important;
+    min-height: 26px;
+    padding: 5px 9px !important;
+    border-radius: 3px !important;
+    background: #b5362d !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    font-weight: 600;
+    line-height: 16px !important;
+    white-space: nowrap;
+    box-shadow: none;
+}
+
+.flags .flag.flag-discount .price-save {
+    display: inline !important;
+    margin: 0 !important;
+    color: inherit !important;
+    font-size: inherit !important;
+    font-weight: 700;
+    line-height: inherit !important;
+}
+
+/* Přesná původní cena je uvedená u ceny vybraného provedení. */
+.flags .flag.flag-discount .price-standard {
+    display: none !important;
+}

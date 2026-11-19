@@ -2,7 +2,7 @@
 
 Výchozí provozní návod: [Správa katalogu pro správce a přebírající Codex](plachtovehaly/katalog/SPRAVA-KATALOGU.md). Obsahuje logiku dostupností, editaci a založení produktů/variant, jednotné názvy, parametry a kontrolu výsledku.
 
-Pro pokračování migrace otevřete [aktuální plán](PLAN.md). Pro zásah na webu vyberte níže projekt a konkrétní téma. Návody popisují postup správce, datované kontroly zachycují stav v okamžiku testu.
+Pro pokračování migrace otevřete [plán a historii projektu](PLAN.md): nahoře jsou otevřené úkoly, pod nimi vývoj po jednotlivých dnech a zdroje rozhodnutí. Každý samostatný úkol nebo myšlenka má vlastní odrážku podle [pravidel vedení historie](../AGENTS.md#vedení-plánu-a-historie). Pro zásah na webu vyberte níže projekt a konkrétní téma. Návody popisují postup správce, datované kontroly zachycují stav v okamžiku testu.
 
 ## Firemní web agrodabaki.cz
 
@@ -31,9 +31,13 @@ Pro pokračování migrace otevřete [aktuální plán](PLAN.md). Pro zásah na 
 
 ## Vzhled, fotografie a obsah
 
+- [Konkurenční výhody – návrh a měření](plachtovehaly/vzhled/konkurencni-vyhody.md)
+
 - [Informační stránky pro Shoptet](plachtovehaly/vzhled/informacni-stranky.md)
+- [Blogové ilustrace — schválený styl C a správa](plachtovehaly/vzhled/blogove-ilustrace.md)
 - [Větší fotografie v rozbalovacím menu Adaminu](plachtovehaly/vzhled/menu-nahledy.md)
 - [Náhledové fotografie produktů](plachtovehaly/vzhled/nahledove-fotografie.md)
+- [Audit vyplnění produktových dlaždic – 141 coverů](plachtovehaly/vzhled/audit-cover-fotografii-2026-11-17.md)
 
 ## Objednávky a zákaznické dotazy
 

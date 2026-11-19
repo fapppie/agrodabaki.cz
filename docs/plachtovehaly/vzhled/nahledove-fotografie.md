@@ -1,5 +1,9 @@
 # Náhledové fotografie produktů
 
+## Vyplnění celé dlaždice, 17. 11. 2026
+
+[Nový audit všech 141 hlavních obrázků](audit-cover-fotografii-2026-11-17.md) rozlišuje správný výběr pohledu a správný formát: samotné přeřazení fotografie v galerii nezajistí vyplnění dlaždice 4 : 3. Bílé pásy přidává CDN do náhledů. U 23 fotografií staveb vyhovuje formát u 8, pro 15 je navržen ořez, rozšíření prostředí nebo nejprve ověření modelu. Audit obsahuje úplný seznam, zdrojové URL, rozměry, obrazové přehledy a postup pilotu. Zatím nebyly generovány ani nasazeny nové fotografie.
+
 ## Plachtové garáže, 16. 11. 2026
 
 Ve veřejných galeriích všech tří produktů bylo porovnáno 25 snímků včetně technických výkresů a fotografií opakovaných u variant. Při výběru hlavní fotografie rozhodoval celkový pohled na výrobek, viditelný vjezd a využití plochy karty ve výpisu.
@@ -53,3 +57,78 @@ Prověřeno všech jedenáct veřejných karet a 366 položek jejich galerií. P
 | Řady 40 (ID 203), 50 (200) a 60 (206) | Hlavní snímky řad 40 a 50 jsou totožné. Řada 60 má výchozí snímek na výšku a její širokoúhlé fotografie se opakují u dalších šířek. Pro jednoznačné odlišení těchto tří řad získat od provozovatele celkové fotografie s potvrzením modelu. |
 
 Na 1440 px i 390 px byla ověřena náhledová fotografie v kategorii a výchozí obrázek detailu u všech jedenácti výrobků. U tří změněných karet bylo na obou šířkách postupně vybráno všech 37 prodejních kombinací (SP 18, dvojitá konstrukce 14, řada 26 pět). Každá volba vyřešila konkrétní variantu a zobrazila načtenou fotografii. [SP na počítači](../overeni/nahled-83-1440.png) · [Řada 26 na telefonu](../overeni/nahled-164-390.png)
+
+## Covery 4 : 3 – nasazení 17. 11. 2026
+
+Uživatel po zhlédnutí detailů schválil drobné AI rekonstrukce. Do Produkty → Přehled → detail produktu → galerie bylo přidáno deset JPG 1448 × 1086 px a přesunuto na první místo. Původní fotografie i jejich vzájemné pořadí zůstaly zachované. Nové covery neobsahují cizí označení; z řady PP odstraněno ALLSHELTER, na řadě 26 opraven žlutý štítek podle reference Agro Dabaki. Toto není revize všech starších fotografií galerie.
+
+| Produkt ID | Nové foto ID | Počet fotografií po uložení |
+| --- | --- | --- |
+| 710 – garáž pro auto | 4175 | 6 |
+| 152 – dvojitá konstrukce | 4181 | 34 |
+| 233 – řada 23 | 4184 | 13 |
+| 164 – řada 26 | 4178 | 28 |
+| 50 – řada 33 | 4187 | 66 |
+| 113 – řada PP | 4190 | 18 |
+| 206 – řada 60 | 4193 | 9 |
+| 674 – C20 | 4196 | 7 |
+| 659 – Animal | 4199 | 25 |
+| 713 – garáž pro autobus | 4202 | 9 |
+
+Soubory, zadání image_gen a záznam uložení jsou v [covery](../../../src/plachtovehaly/shoptet/covery/). Pilotní zadání jsou v [prompts.json](../../../src/plachtovehaly/navrhy/cover-pilot/prompts.json). V nasazeni.json jsou úplné uložené seznamy ID galerií; první je přidaný cover, zbytek odpovídá původnímu pořadí. Pro návrat přesuňte druhou fotografii na první místo, bez mazání souborů.
+
+Ověřeno: všech deset nových náhledů ve čtyřech veřejných kategoriích, správný výchozí obrázek a jeho načtení na všech deseti detailech při viewportu 1440 a 390 px. Vizuálně zkontrolována kategorie Sedlové haly na obou šířkách a detail PP bez loga. U dvojité konstrukce ověřeno přepnutí na původní fotografii bílé varianty 7,32 m; nejde o úplný nový test všech variant. Nákupní logika se neměnila.
+
+[Počítač](../overeni/covery-2026-11-17-desktop.jpg) · [Mobil](../overeni/covery-2026-11-17-mobile.jpg) · [PP bez loga](../overeni/cover-pp-bez-loga.jpg)
+
+Zbývá potvrdit identitu zdrojových fotografií řad 40/50 a zastřešení C4040 otevřené/s vraty a s navijákovými vraty. Těchto pět karet nebylo upraveno.
+
+## Doplnění pěti coverů – 17. 11. 2026
+
+Na další žádost uživatele upraveny také karty 698, 701, 689, 203 a 200. Uživatel výslovně potvrdil použití stávající fotografie pro C4040 otevřené a následně pro navijáková vrata i řady 40/50. Dřívější blokace nasazení těchto pěti coverů tím skončila; vlastní fotografické odlišení provedení tím nevzniklo. Popis otevřeného C4040 uvádí zadní stěnu se vstupem pro osobu, snímek může zachycovat tuto stranu.
+
+Dva společné zdroje upraveny vestavěným image_gen na 1448 × 1086 px: kontejnerová zastřešení mají ubrané nebe a rozšířené okolí, řady 40/50 doplněné nebe a zem. Odstraněny cizí nápisy na kontejnerech a vozíku, zachován vlastní vodoznak Dabaki. Boční vstup 104 už formát vyplňoval a nebyl měněn.
+
+| Produkt | Nové foto | Galerie před → po |
+| --- | --- | --- |
+| 698 C4040 otevřené | 4208 | 1 → 2 |
+| 701 C4040 s vraty | 4205 | 1 → 2 |
+| 689 navijáková vrata | 4211 | 2 → 3 |
+| 203 řada 40 | 4214 | 61 → 62 |
+| 200 řada 50 | 4217 | 21 → 22 |
+
+Správa: Produkty → Přehled → galerie. Po uložení ověřeno celé pořadí, všechny původní snímky zachovány. Návrat: původní druhý obrázek přesunout na první místo. Nové JPG, dva PNG, zadání kontejnery-prompt.txt a rady-40-50-prompt.txt i nasazeni-doplneni.json jsou v [produkčních coverech](../../../src/plachtovehaly/shoptet/covery/). Na všech pěti veřejných detailech ověřen správný hlavní obrázek a načtení při 390/1440 px. Obě kategorie vizuálně ověřeny při obou šířkách. Celkem je nyní nasazeno 15 coverů; žádný z pěti dříve odložených coverů už nečeká na nasazení.
+
+[Sedlové haly – počítač](../overeni/covery-doplneni-sedlove-desktop.jpg) · [mobil](../overeni/covery-doplneni-sedlove-mobile.jpg) · [Kontejnery – počítač](../overeni/covery-doplneni-kontejnery-desktop.jpg) · [mobil](../overeni/covery-doplneni-kontejnery-mobile.jpg)
+
+## Úklid originálů – rozpracováno 17. 11. 2026
+
+Uživatel výslovně schválil odstranění 38 nahrazených fotografií a jejich bajtově totožných kopií u všech 15 karet. Před mazáním bylo převedeno a ověřeno všech 34 vazeb variant na nové covery. Ostatní pohledy a výkresy se zachovávají.
+
+Správa: Produkty → Přehled → detail → Hlavní údaje → Fotogalerie; vazby variant v Ceníku. Inventář, přesná ID s SHA256 a ověření variant jsou v produkční složce coverů jako `uklid-inventar.json`, `uklid-plan.json` a `uklid-varianty.json`. Originály jsou lokálně zálohované v ignorované `.wexbo-cache/cover-cleanup/`.
+
+Opětovným načtením administrace ověřeno odstranění osmi snímků: u 698 foto 2144, u 701 foto 2147, u 689 fotografie 3380 a 2123, u 50 fotografie 605, 3620, 3653 a 3686. Karty 689/698/701 nyní obsahují pouze nové covery. U 50 zbývá 3710. U 113 pokus o smazání 716 nevedl k uložené změně. Aktuální pořadí těchto pěti kontrolovaných galerií je v `uklid-vysledek.json`.
+
+Zbývá 30 fotografií podle plánu a celková kontrola na mobilu i počítači. Potvrzovací dialog Shoptetu opakovaně blokuje ovládání nebo se smazání neprovede; nejde o chybějící souhlas uživatele. Při pokračování nejprve načíst aktuální galerii a mazat jen stále přítomná schválená ID. [Veřejný detail vyčištěné karty 701](../overeni/uklid-galerie-c4040-po.jpg).
+
+U odstraněných snímků už neplatí dřívější návrat přesunutím druhé fotografie. Obnova vyžaduje opětovné nahrání lokální zálohy a případné přiřazení variant; ID nahraného obrázku bude nové.
+
+## Úklid originálů – dokončeno 17. 11. 2026
+
+S pomocí uživatele při potvrzování dialogů dokončeno odstranění všech 38 schválených fotografií z 15 galerií. Všech 34 dotčených vazeb variant bylo převedeno před mazáním. Předchozí rozpracovaný stav je historický; nic dalšího z tohoto úklidu nezbývá.
+
+Po opětovném načtení všech 15 karet v administraci souhlasí kompletní pořadí s původním inventářem po odečtení přesně schválených ID. Ostatní pohledy a výkresy zůstaly. Konečné pořadí zachycuje `uklid-vysledek.json`. Veřejná kontrola všech 15 detailů ověřila nový načtený cover na prvním místě, přítomnost zachovaných snímků a nepřítomnost odstraněných kopií (`uklid-verejne-overeni.json`). U garáže 710 se zelená varianta přepíná na nový cover a bílá na původní odlišný bílý snímek.
+
+Vzhled galerie PP ověřen při 1440 a 390 px, C4040 s vraty při 390 px. Správa a lokální zálohy zůstávají podle předchozího oddílu. Obnova odstraněného originálu vyžaduje znovunahrání ze zálohy, nikoli přesun druhé fotografie.
+
+[PP – počítač](../overeni/uklid-galerii-pp-desktop.jpg) · [PP – mobil](../overeni/uklid-galerii-pp-mobile.jpg) · [C4040 – mobil](../overeni/uklid-galerii-c4040-mobile.jpg)
+
+## Oprava ručních odkazů – 18. 11. 2026
+
+Uživatel v anonymním okně nahlásil 404 u obrázku kontejnerů na homepage. Předchozí kontrola produktových galerií nepokryla ruční HTML odkazy mimo produkty. Homepage stále používala pět odstraněných zdrojů (689, 164-6, 710-2, 674-2, 659-4), Mapa webu další výskyt 689. V běžné relaci se staré obrázky ještě zobrazovaly; samotná kontrola načtení obrázku v existující relaci proto nestačí.
+
+Ve Vzhled a obsah → Titulní strana a Stránky → Mapa webu (794) byly pouze dotčené URL nahrazeny ověřenými novými covery produktů 689, 164, 710, 674 a 659. Aktuální HTML zálohováno v `.wexbo-cache/*-before-image-fix-2026-11-18.html`; projektové zdroje `titulni-strana.html` a `mapa-webu.html` upraveny souběžně. Veřejná kontrola potvrdila načtení náhrad a nepřítomnost odkazů na odstraněnou sadu; homepage vizuálně při 1440/390 px. Anonymní relace nebyla touto kontrolou přímo ovládána.
+
+Před dalším mazáním fotografie prověřit nejen galerii a vazby variant, ale i ruční obsah homepage, Mapy webu, bannerů a dalších stránek. Porovnávat URL se seznamem odstraněných souborů, nikoli pouze načtení z cache. Starou URL neobnovovat bez obnovení samotného souboru.
+
+[Opravená homepage – počítač](../overeni/homepage-obrazky-oprava-2026-11-18-desktop.jpg) · [mobil](../overeni/homepage-obrazky-oprava-2026-11-18-mobile.jpg)

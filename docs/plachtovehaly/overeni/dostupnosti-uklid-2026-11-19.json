@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-19",
+  "removed": {
+    "id": 71,
+    "name": "nedostupné",
+    "inStockUses": 0,
+    "outOfStockUses": 0
+  },
+  "retained": [
+    {
+      "id": 68,
+      "name": "vyprodáno",
+      "uses": 10,
+      "reason": "archivní položky"
+    },
+    {
+      "id": 77,
+      "name": "na dotaz",
+      "uses": 2,
+      "reason": "prodejní a archivní varianta"
+    }
+  ],
+  "exportRecordsBefore": 448,
+  "exportRecordsAfter": 448,
+  "changedProductRecords": [],
+  "dropdownVerified": true
+}

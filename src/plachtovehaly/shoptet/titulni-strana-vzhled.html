@@ -27,6 +27,7 @@
 .dh-guide {margin:38px 0 24px;padding:26px 15px;background:#eff7f4}
 .dh-guide h2 {margin:0 0 7px}.dh-guide p {margin:0 0 12px}.dh-guide a {font-weight:bold;color:#007655}
 .welcome:has(.dabaki-home) {max-width:none;width:100%}
+.type-index .homepage-box.welcome-wrapper:has(.dabaki-home) {padding-top:8px}
 .welcome:has(.dabaki-home)>[data-testid=eshopHeader] {display:none}
 @media(max-width:900px){.dh-categories{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:650px){
@@ -38,11 +39,13 @@
 .dh-categories{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 10px}
 }
 .dh-selection {margin-top:42px}
+.dh-selection h3 {margin:26px 0 12px;text-align:left;font-size:clamp(19px,2vw,24px);line-height:1.25;color:var(--dh-ink)}
 .dh-products {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;text-align:left}
-.dh-products a {display:block;border:1px solid #dce9e4;padding:12px;color:var(--dh-ink);text-decoration:none!important}
-.dh-products img {display:block;width:100%;aspect-ratio:1.5;object-fit:contain}
+.dh-products a {display:flex;flex-direction:column;min-width:0;border:1px solid #dce9e4;padding:12px;color:var(--dh-ink);text-decoration:none!important}
+.dh-products a:hover,.dh-products a:focus-visible {border-color:var(--dh-green)}
+.dh-products img {display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
 .dh-products strong {display:block;margin:12px 0 6px;font-size:18px;line-height:1.25}
-.dh-products span {color:#007655;font-weight:bold}
+.dh-products span {margin-top:auto;color:#007655;font-weight:bold}
 @media(max-width:760px){.dh-products{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.dh-products strong{font-size:15px}}
 </style>
 <script>

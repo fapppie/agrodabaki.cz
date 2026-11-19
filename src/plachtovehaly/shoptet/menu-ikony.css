@@ -1,0 +1,57 @@
+/* Adamin: symboly hlavních kategorií, společné pro lištu, nabídku Více a telefon. */
+.menu-level-1 > li > a[href="/sedlove-haly/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M2%2021V9l10-6%2010%206v12M7%2021v-9h10v9%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/obloukove-haly/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M2%2021v-6a10%2010%200%200%201%2020%200v6M7%2021v-6a5%205%200%200%201%2010%200v6%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/pristresky-pro-zvirata/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M2%2021V9l10-6%2010%206v12%22%2F%3E%3Cpath%20fill%3D%22black%22%20stroke%3D%22none%22%20d%3D%22m5%2012%205%202h2l2-4%202%201%201-1v3l3%201-3%201q0%204-5%204l-1%202H9l1-3q-3-1-5-6z%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/plachtove-garaze/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M2%2021V8l10-5%2010%205v13M6%2021V10h12v11M8.5%2014h7m-7%203.5h7%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/zastreseni-lodnich-kontejneru/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M2%2013q10-17%2020%200M2%2013h5v8H2zm15%200h5v8h-5z%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/zemedelska-technika/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2032%2026%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M3%202h12v2h-1l2%206h5V5h2v5l5%201v4a6%206%200%200%200-9%204h-3a9%209%200%200%200-12-9V4H3zm3%202v5h7l-1.6-5z%22%2F%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M15%2018a7%207%200%201%201-14%200%207%207%200%200%201%2014%200zm-4%200a3%203%200%201%200-6%200%203%203%200%200%200%206%200zm19%202a5%205%200%201%201-10%200%205%205%200%200%201%2010%200zm-3%200a2%202%200%201%200-4%200%202%202%200%200%200%204%200z%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/lesni-technika/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22m12%202-6%208h3l-5%207h6.5v5h3v-5H20l-5-7h3z%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/vybaveni-pro-chov-koni/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M5%2021c3-4%205-7%204-10l-4%203-3-3%206-6%202-3%202%203%203-2-1%204c5%203%206%208%207%2014%22%2F%3E%3Ccircle%20cx%3D%229%22%20cy%3D%228%22%20r%3D%22.9%22%20fill%3D%22black%22%20stroke%3D%22none%22%2F%3E%3C%2Fsvg%3E");
+}
+.menu-level-1 > li > a[href="/nahradni-dily-ke-strojum/"] {
+    --dabaki-menu-content: "";
+    --dabaki-menu-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.8%22%20stroke-linejoin%3D%22round%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M20%203a6%206%200%200%200-8%207L3%2018a2.4%202.4%200%200%200%203.5%203.4l8.5-9A6%206%200%200%200%2022%205l-4%204-3-3z%22%2F%3E%3C%2Fsvg%3E");
+}
+
+:is(#navigation, .menu-helper) .menu-level-1 > li > a > b::before {
+    content: var(--dabaki-menu-content, none);
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-inline-end: 6px;
+    vertical-align: -3px;
+    background-color: currentColor;
+    mask: var(--dabaki-menu-icon) center / contain no-repeat;
+}
+
+@media (min-width: 768px) {
+    #navigation .menu-level-1 > li > a {
+        padding-inline: 13px !important;
+    }
+    #navigation .menu-level-1 > li:first-child > a {
+        padding-inline-start: 0 !important;
+    }
+}

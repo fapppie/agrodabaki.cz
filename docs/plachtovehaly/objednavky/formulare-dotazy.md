@@ -16,3 +16,7 @@ V Nastavení → Emaily → Automatické zasílání → Systémové akce otevř
 ## Co zbývá před předáním
 
 V dostupné administraci ani v návodu Shoptetu se nepodařilo ověřit samostatný archiv obsahu obou soukromých formulářů. Provozní postup počítá s vyřizováním dotazů ve schránce agro@dabaki.cz. Při předávacím testu poslat z každého formuláře jednu rozlišitelnou zprávu, s provozovatelem potvrdit její skutečné přijetí, u produktového dotazu identifikaci výrobku a u obou správnou adresu pro odpověď. Zapsat výsledek a případnou dohledanou interní evidenci. Dosud bylo ověřeno směrování, skutečné doručení čeká na tento test.
+
+## Vzhled zákaznických formulářů
+
+Od 17. 11. 2026 sdílí Kontakty, diskuze a produktový dotaz [styl formulare.css](../../../src/plachtovehaly/shoptet/formulare.css). Soubor nahrajte ve Správci souborů do kořene. Vzhled a obsah → Editor → HTML kódy → Záhlaví jej načítá odkazem s ID dabaki-formulare z /user/documents/upload/formulare.css. Pro návrat k vzhledu šablony odeberte tento odkaz. Při změně zkontrolujte samostatnou kontaktní stránku, záložku Diskuze a dialog Zeptat se včetně povinných polí a zobrazení chyb na telefonu. [Kontakty](../overeni/form-kontakt-1440.png) · [Diskuze](../overeni/form-diskuze-1440.png) · [Produktový dotaz na telefonu](../overeni/form-dotaz-390.png)

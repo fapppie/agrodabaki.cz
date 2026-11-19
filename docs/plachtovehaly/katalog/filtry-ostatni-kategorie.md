@@ -40,3 +40,9 @@ V administraci se rozsah kategorií spravuje v Nastavení → Produkty → Param
 Na počítači i telefonu byly kliknutím ověřeny konkrétní výsledky pro šířku zastřešení 10 m (C33S), přístřešek 8 × 12 m (Animal), délku vidlí 90 cm (Deleks D 300) a kompatibilní šířku 9 m (náhradní oblouk).
 
 U čtyř nadřazených rozcestníků je dostupný až výpis v podkategorii. U hrotů rotačních bran, ložisek a převodovek chybějí spolehlivé rozměry. U boxu PRMH jsou rozměry ložné plochy doloženy pro dvě z pěti variant. Pracovní záběr ATV 120 zatím vyžaduje potvrzení.
+
+## Číselné pořadí hodnot od 17. 11. 2026
+
+V Nastavení → Produkty → Parametry a příznaky → Parametry pro filtrování otevřete konkrétní parametr. V tabulce Hodnoty parametru přesuňte řádky úchytem vpravo a uložte. U filtru Rozměr pro díly k mulčovačům použijte záložku Parametry variant. Tyto priority jsou společné pro kategorie využívající daný parametr. Při přidání hodnoty ověřte její pozici.
+
+Pořadí se řídí skutečnou velikostí po převodu jednotek (296 mm před 40 cm). U dvojic a trojic se nejprve porovnává první rozměr a při shodě následující rozměr. Upraveny byly Šířka, Délka, Pracovní záběr, Průměr větví, Délka nože, Půdorys přístřešku, Šířka kompatibilního zastřešení a variantní Rozměr. U ostatních veřejných rozměrových filtrů už pořadí vyhovovalo.

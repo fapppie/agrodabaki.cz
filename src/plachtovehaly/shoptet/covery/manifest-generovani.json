@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-17",
+  "method": "image_gen",
+  "approval": "Uživatel schválil drobné rekonstrukce detailů; cizí loga odstranit, vlastní Agro Dabaki zachovat.",
+  "records": [
+    {
+      "id": 164,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-135dfcb6-c0c8-4372-a0fd-9091669271ba.png",
+      "prompt": "Precise localized edit. Image 1 is the edit target, image 2 is the authentic Agro Dabaki label reference. Change ONLY the text and artwork inside the small yellow oval badge on the LEFT SIDE of the white hall. Replace invented \"North Shelter\" with EXACTLY \"Agro Dabaki\", matching the yellow oval, black italic serif lettering and thin outline shown in reference image 2. The legible main text must read Agro Dabaki, no other brand. No invented small slogan or URL; omit unreadable microtext if necessary. Keep the oval at the same small size and location, in perspective on fabric. Do not add a larger logo elsewhere. Keep entire rest of photo unchanged, including building shape, door, fabric texture, trees and ground. Keep 4:3 dimensions."
+    },
+    {
+      "id": 206,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-785a8b1c-cf0c-4ec8-907b-90bdc5a48579.png",
+      "prompt": "Use case: precise-object-edit. Edit target is supplied real ecommerce product photograph, ID 206. Create a faithful 4:3 landscape cover that fills every edge with photographic content (no white bars, no frame). White large gable hall viewed straight on, existing open entrance and long visible internal truss structure. Reframe to landscape by cropping excess sky at top and grass at bottom, preserving entire roof, sides and base. Add small amounts of actual landscape at sides only if necessary. Keep doorway and internal truss layout. Preserve product identity, proportions, original camera perspective and lighting. Prefer minimal crop/reframing or outpainting ONLY the surroundings. Do not redesign, add or remove product features, change colour, close/open doors, remove logos/watermarks, add text, beautify the scene or exaggerate sharpness. Keep all existing marks and signs. Output exactly 4:3, approximately 1448x1086."
+    },
+    {
+      "id": 113,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-c6454ad8-7c8b-4351-8c91-6528f40a9ce4.png",
+      "prompt": "Precise localized photo edit: remove ONLY the small burgundy ALLSHELTER emblem and text on the right side wall of the white fabric hall. Replace that tiny area with seamlessly matching plain white fabric and existing folds. NO replacement logo, NO text, NO symbols. Preserve everything else exactly including structure, perspective, door, original fabric, background, dimensions and 4:3 aspect ratio. This is a small logo removal, not a new photo."
+    },
+    {
+      "id": 674,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-35819df0-5471-4822-b72d-42b3aef5fcd1.png",
+      "prompt": "Use case: precise-object-edit. Edit target is supplied real ecommerce product photograph, ID 674. Create a faithful 4:3 landscape cover that fills every edge with photographic content (no white bars, no frame). Green curved canopy spanning TWO shipping containers in industrial courtyard. Preserve both containers, roof, connections and original rear fabric wall. Extend courtyard below and industrial background above as needed instead of cutting container sides. Preserve product identity, proportions, original camera perspective and lighting. Prefer minimal crop/reframing or outpainting ONLY the surroundings. Do not redesign, add or remove product features, change colour, close/open doors, remove logos/watermarks, add text, beautify the scene or exaggerate sharpness. Keep all existing marks and signs. Output exactly 4:3, approximately 1448x1086."
+    },
+    {
+      "id": 659,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-071e8d65-3676-4cc7-a314-66a03964dbbd.png",
+      "prompt": "Use case: precise-object-edit. Edit target is supplied real ecommerce product photograph, ID 659. Create a faithful 4:3 landscape cover that fills every edge with photographic content (no white bars, no frame). Green curved animal shelter with metal gates and existing large Dabaki watermark. Preserve complete shelter, gates, bars and watermark. Extend sky/building above and concrete below a little rather than cutting sides of product. Preserve product identity, proportions, original camera perspective and lighting. Prefer minimal crop/reframing or outpainting ONLY the surroundings. Do not redesign, add or remove product features, change colour, close/open doors, remove logos/watermarks, add text, beautify the scene or exaggerate sharpness. Keep all existing marks and signs. Output exactly 4:3, approximately 1448x1086."
+    },
+    {
+      "id": 713,
+      "source": "C:\\Users\\ja\\.codex\\generated_images\\01a1ea40-f942-7fe3-90c7-93a4560d6edd\\exec-e8099965-e7ef-4561-818f-a375bfc25990.png",
+      "prompt": "Use case: precise-object-edit. Edit target is supplied real ecommerce product photograph, ID 713. Create a faithful 4:3 landscape cover that fills every edge with photographic content (no white bars, no frame). Green tall fabric garage with gable roof, open entrance and large Dabaki watermark. Preserve whole garage, rolled fabric door, transparent vent, metal tubes, colour, original industrial setting and watermark. Extend sky above and ground below a little for 4:3, no cutoff at base or roof. Preserve product identity, proportions, original camera perspective and lighting. Prefer minimal crop/reframing or outpainting ONLY the surroundings. Do not redesign, add or remove product features, change colour, close/open doors, remove logos/watermarks, add text, beautify the scene or exaggerate sharpness. Keep all existing marks and signs. Output exactly 4:3, approximately 1448x1086."
+    }
+  ]
+}

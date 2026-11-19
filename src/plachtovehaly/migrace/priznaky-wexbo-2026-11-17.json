@@ -1,0 +1,2658 @@
+[
+  {
+    "sku": "1000010",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/203012-r-plachtova-hala-61-x-915-x-366-m-bila-1000010/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000011",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/203012-r-plachtova-hala-61-x-915-x-366-m-vojenska-zelena-1000011/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000013",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/204212-r-plachtova-hala-61-x-128-x-366-m-bila-1000013/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000014",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/204212-r-plachtova-hala-61-x-128-x-366-m-vojenska-zelena-1000014/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000016",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/206012-r-plachtova-hala-61-x-183-x-366-m-bila-1000016/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000017",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/206012r-plachtova-hala-61-x-183-x-366-vojenska-zelena-1000017/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000026",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/334017-p-plachtova-hala-10-x-122-x-52-vojenska-zelena-1000026/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000027",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/334017-p-plachtova-hala-10-x-122-x-52-bila-1000027/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000028",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/335017-dp-plachtova-hala-10-x-1525-x-52-vojenska-zelena-1000028/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000029",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/335017-dp-plachtova-hala-10-x-1525-x-52-bila-1000029/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000030",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/336017-p-plachtova-hala-10-x-183-x-52-vojenska-zelena-1000030/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000031",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/336017-p-plachtova-hala-10-x-183-x-52-bila-1000031/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000032",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/338017-p-plachtova-hala-10-x-244-x-52-vojenska-zelena-1000032/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000033",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/338017-p-plachtova-hala-10-x-244-x-52-bila-1000033/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000034",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-age-125-1000034/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prikopovy-mulcovac-age/",
+    "shoptetId": "248",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000035",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-age-145-1000035/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prikopovy-mulcovac-age/",
+    "shoptetId": "248",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000036",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-140-pro-1000036/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/",
+    "shoptetId": "254",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000037",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-160-pro-1000037/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/",
+    "shoptetId": "254",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000038",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-180-pro-1000038/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/",
+    "shoptetId": "254",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000039",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-agf-200-pro-1000039/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-agf-pro/",
+    "shoptetId": "254",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000040",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-atv-120-1000040/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-pro-ctyrkolku-atv-120/",
+    "shoptetId": "266",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000041",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovac-atv-145-ot-1000041/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovac-pro-ctyrkolku-atv-145-ot/",
+    "shoptetId": "269",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000045",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lesni-mulcovac-ffm-140-1000045/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lesni-mulcovac-ffm/",
+    "shoptetId": "272",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000046",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lesni-mulcovac-ffm-180-1000046/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lesni-mulcovac-ffm/",
+    "shoptetId": "272",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000049",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-130-1000049/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/",
+    "shoptetId": "278",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000050",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-170-1000050/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/",
+    "shoptetId": "278",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000051",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-brany-lxg-210-1000051/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotacni-brany-lxg/",
+    "shoptetId": "278",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000059",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/z-kompletni-oblouk-hala-6-m-1000059/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nahradni-oblouk-pro-halu-1000059/",
+    "shoptetId": "47",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000070",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-120-1000070/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+    "shoptetId": "287",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000071",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-140-1000071/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+    "shoptetId": "287",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000072",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-160-1000072/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+    "shoptetId": "287",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000073",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-180-1000073/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+    "shoptetId": "287",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000074",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/transportni-box-prmh-200-1000074/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/transportni-box-prmh/",
+    "shoptetId": "287",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000075",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/paletizacni-vidle-d-300-1000075/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-300/",
+    "shoptetId": "302",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000076",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/paletizacni-vidle-d-700-1000076/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-700/",
+    "shoptetId": "305",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000077",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/paletizacni-vidle-d-1200-1000077/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/paletizacni-vidle-deleks-d-1200/",
+    "shoptetId": "308",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000081",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lizina-agf-leva-1000081/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/bocni-lizina-mulcovace-agf/",
+    "shoptetId": "311",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000082",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lizina-agf-prava-1000082/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/bocni-lizina-mulcovace-agf/",
+    "shoptetId": "311",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000083",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/gufero-40x90x10-1000083/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/gufero-pro-mulcovac-agf/",
+    "shoptetId": "314",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000084",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m-10x1-1000084/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sroub-m10-pro-mulcovac-agf/",
+    "shoptetId": "317",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000085",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kryci-plech-levy-1000085/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/levy-kryci-plech-mulcovace-agf/",
+    "shoptetId": "320",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000086",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/maznicka-m-10x1-agf-1000086/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/maznicka-pro-mulcovac-agf/",
+    "shoptetId": "323",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000087",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-zadniho-valce-levy-agf-1000087/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-agf/",
+    "shoptetId": "326",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000088",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/segrovka-vnitrni-90-agf-1000088/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/vnitrni-pojistny-krouzek-pro-mulcovac-agf/",
+    "shoptetId": "329",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000089",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-zadniho-valce-6308-agf-1000089/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-6308-pro-zadni-valec-mulcovace-agf/",
+    "shoptetId": "332",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000090",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/segrovka-vnejsi-40-agf-1000090/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/vnejsi-pojistny-krouzek-pro-mulcovac-agf/",
+    "shoptetId": "335",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000091",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zadni-valec-agf-140-1000091/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zadni-valec-mulcovace-agf/",
+    "shoptetId": "338",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000092",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zadni-valec-agf-160-1000092/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zadni-valec-mulcovace-agf/",
+    "shoptetId": "338",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000093",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zadni-valec-agf-180-1000093/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zadni-valec-mulcovace-agf/",
+    "shoptetId": "338",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000094",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zadni-valec-agf-200-1000094/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zadni-valec-mulcovace-agf/",
+    "shoptetId": "338",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000095",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-zadniho-valce-pravy-agf-1000095/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-agf/",
+    "shoptetId": "326",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000096",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-rotor-agf-140-1000096/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotor-mulcovace-agf/",
+    "shoptetId": "341",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000097",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-rotor-agf-160-1000097/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotor-mulcovace-agf/",
+    "shoptetId": "341",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000098",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-rotor-agf-180-1000098/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotor-mulcovace-agf/",
+    "shoptetId": "341",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000099",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-rotor-agf-200-1000099/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotor-mulcovace-agf/",
+    "shoptetId": "341",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000100",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/gufero-45x80x10-agf-1000100/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/gufero-pro-mulcovac-agf/",
+    "shoptetId": "314",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000101",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-rotoru-1308-agf-1000101/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-rotoru-1308-pro-mulcovac-agf/",
+    "shoptetId": "347",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000102",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/domecek-loziska-rotoru-agf-1000102/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/loziskovy-domek-rotoru-mulcovace-agf/",
+    "shoptetId": "350",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000103",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pouzdro-remenice-40x65-agf-1000103/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pouzdro-remenice-pro-mulcovac-agf/",
+    "shoptetId": "365",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000104",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/remenice-mala-spodni-agf-1000104/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spodni-mala-remenice-mulcovace-agf/",
+    "shoptetId": "356",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000105",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/remenice-velka-horni-agf-1000105/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/horni-velka-remenice-mulcovace-agf/",
+    "shoptetId": "359",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000106",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kryt-remenu-predni-agf-1000106/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000107",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/prevodovka-agf-1000107/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prevodovka-mulcovace-agf/",
+    "shoptetId": "362",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000108",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pouzdro-remenice-33x80-agf-1000108/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pouzdro-remenice-pro-mulcovac-agf/",
+    "shoptetId": "365",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000109",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kryt-remenu-predni-agf-1000109/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000110",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podkova-3-bod-zavesu-agf-1000110/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podkova-tribodoveho-zavesu-mulcovace-agf/",
+    "shoptetId": "368",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000111",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-prevodovky-agf-1000111/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-prevodovky-mulcovace-agf/",
+    "shoptetId": "371",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000112",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/cep-agf-1000112/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/cep-mulcovace-agf/",
+    "shoptetId": "374",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000113",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/futro-cepu-40x44x50-agf-1000113/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pouzdro-cepu-pro-mulcovac-agf/",
+    "shoptetId": "377",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000114",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/perova-zavlacka-32-agf-1000114/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pruzna-zavlacka-pro-mulcovac-agf/",
+    "shoptetId": "380",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000115",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podperna-noha-s-agf-1000115/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podperna-noha-mulcovace-agf-typ-s/",
+    "shoptetId": "383",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000116",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zajistovaci-kolik-nohy-agf-1000116/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zajistovaci-kolik-podperne-nohy-mulcovace-agf/",
+    "shoptetId": "386",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000117",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/matka-cepu-m30x2-agf-1000117/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/matice-cepu-pro-mulcovac-agf/",
+    "shoptetId": "389",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000118",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicka-hadice-agf-1000118/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicka-hadice-mulcovace-agf/",
+    "shoptetId": "392",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000119",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/prutokovy-sroub-m16x15-agf-1000119/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prutokovy-sroub-pro-mulcovac-agf/",
+    "shoptetId": "395",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000120",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podlozka-tesnici-agf-1000120/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/tesnici-podlozka-pro-mulcovac-agf/",
+    "shoptetId": "398",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000121",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rychlospojka-hydraulicka-r1-agf-1000121/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicka-rychlospojka-r1-pro-mulcovac-agf/",
+    "shoptetId": "401",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000122",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m24x100-agf-1000122/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sroub-m24-pro-mulcovac-agf/",
+    "shoptetId": "404",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000123",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicky-pist-agf-1000123/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-mulcovace-agf/",
+    "shoptetId": "407",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000124",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/krytka-hlavniho-zaveseni-agf-1000124/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/krytka-hlavniho-zaveseni-mulcovace-agf/",
+    "shoptetId": "410",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000125",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/futro-hlavniho-cepu-agf-1000125/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pouzdro-hlavniho-cepu-mulcovace-agf/",
+    "shoptetId": "413",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000126",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-hlavniho-zaveseni-agf-1000126/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-hlavniho-zaveseni-mulcovace-agf/",
+    "shoptetId": "416",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000127",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m24x120-agf-1000127/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sroub-m24-pro-mulcovac-agf/",
+    "shoptetId": "404",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000128",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-pulmesic-agf-1000128/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pulmesicovy-drzak-mulcovace-agf/",
+    "shoptetId": "422",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000129",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/sroub-m30x70-agf-1000129/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sroub-m30-pro-mulcovac-agf/",
+    "shoptetId": "425",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000130",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-pulmesic-single-agf-1000130/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pulmesicovy-drzak-mulcovace-agf-provedeni-single/",
+    "shoptetId": "428",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000131",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/matice-m30-agf-1000131/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/matice-pro-mulcovac-agf/",
+    "shoptetId": "431",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000132",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicky-pist-b-agf-1000132/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-mulcovace-agf-typ-b/",
+    "shoptetId": "434",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000133",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podperna-noha-l-agf-1000133/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podperna-noha-mulcovace-agf-typ-l/",
+    "shoptetId": "437",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000134",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-hlavni-podkovy-agf-1000134/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-hlavni-podkovy-mulcovace-agf/",
+    "shoptetId": "440",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000135",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/cep-podkovy-agf-1000135/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/cep-podkovy-mulcovace-agf/",
+    "shoptetId": "443",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000136",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicky-pist-na-drzaku-1000136/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-na-drzaku-mulcovace-age/",
+    "shoptetId": "446",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000137",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicky-pist-na-stroji-1000137/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-pist-na-stroji-mulcovace-age/",
+    "shoptetId": "449",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000138",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/remenice-horni-1000138/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/horni-remenice-mulcovace-age/",
+    "shoptetId": "452",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000139",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/remenice-spodni-1000139/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spodni-remenice-mulcovace-age/",
+    "shoptetId": "455",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000140",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/prevodovka-age-1000140/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prevodovka-mulcovace-age/",
+    "shoptetId": "458",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000141",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-age-125-1000141/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-age/",
+    "shoptetId": "461",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000142",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-age-145-1000142/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-age/",
+    "shoptetId": "461",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000143",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-zadniho-valce-levy-1000143/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-age/",
+    "shoptetId": "464",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000144",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-zadniho-valce-pravy-1000144/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-zadniho-valce-mulcovace-age/",
+    "shoptetId": "464",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000145",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-uc-207-vc-ulozeni-pro-hlavni-hridel-1000145/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-207-s-ulozenim-pro-hlavni-hridel-mulcovace-atv/",
+    "shoptetId": "467",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000146",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/motor-atv-1000146/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/motor-mulcovace-atv/",
+    "shoptetId": "470",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000147",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/palivova-nadrz-atv-1000147/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/palivova-nadrz-mulcovace-atv/",
+    "shoptetId": "473",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000148",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/tlumic-vyfuku-1000148/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/tlumic-vyfuku-mulcovace-atv/",
+    "shoptetId": "476",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000149",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kryt-vzduchoveho-filtru-vc-filtru-1000149/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kryt-vzduchoveho-filtru-mulcovace-atv-vcetne-filtru/",
+    "shoptetId": "479",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000150",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-atv-125-1000150/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-atv/",
+    "shoptetId": "482",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000151",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hlavni-hridel-atv-145-1000151/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hlavni-hridel-mulcovace-atv/",
+    "shoptetId": "482",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000152",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kompletni-spojka-vc-remenice-atv-125-1000152/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spojka-s-remenici-pro-mulcovac-atv/",
+    "shoptetId": "485",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000153",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kompletni-spojka-vc-remenice-atv-145-1000153/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spojka-s-remenici-pro-mulcovac-atv/",
+    "shoptetId": "485",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000154",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-uc-205-vc-ulozeni-pro-zadni-valec-1000154/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-205-s-ulozenim-pro-zadni-valec-mulcovace-atv/",
+    "shoptetId": "488",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000155",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plastova-krytka-do-hlavice-na-pripojeni-1000155/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/krytka-pripojovaci-hlavice-mulcovace-atv/",
+    "shoptetId": "491",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000156",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hrot-rotacnich-bran-par-1000156/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hroty-rotacnich-bran-levy-a-pravy-v-paru/",
+    "shoptetId": "494",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000157",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kladivko-mulcovace-agf-bcs-1000157/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kladivko-pro-mulcovace-agf-a-bcs/",
+    "shoptetId": "497",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000158",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-mulcovace-atv-par-1000158/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/noze-pro-mulcovac-atv-par/",
+    "shoptetId": "500",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000159",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kladivko-mulcovace-age-1000159/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kladivko-pro-mulcovac-age/",
+    "shoptetId": "503",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000160",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-uc-205-vc-ulozeni-1000160/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-205-s-ulozenim/",
+    "shoptetId": "506",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000161",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/lozisko-uc-207-vc-ulozeni-1000161/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/lozisko-uc-207-s-ulozenim/",
+    "shoptetId": "509",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000162",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/prevodovka-lxg-1000162/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prevodovka-rotacnich-bran-lxg/",
+    "shoptetId": "512",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000163",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/prevodovka-efgc-bem-menasor-gkh-ms-1000163/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/prevodovka-pro-efgc-bem-menasor-gkh-a-ms/",
+    "shoptetId": "515",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000164",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-stepkovace-bx-92-rs-1000164/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-stepkovace-bx-92-rs/",
+    "shoptetId": "518",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000165",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/proti-ostri-stepkovace-bx-92-rs-1000165/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/protiostri-stepkovace-bx-92-rs/",
+    "shoptetId": "521",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000166",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pruzina-stepkovace-bx-92-rs-1000166/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pruzina-stepkovace-bx-92-rs/",
+    "shoptetId": "524",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000167",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/hydraulicky-motor-stepkovace-bx-92-rs-1000167/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-motor-stepkovace-bx-92-rs/",
+    "shoptetId": "527",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000168",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/regulacni-ventil-stepkovace-bx-92-rs-1000168/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/regulacni-ventil-stepkovace-bx-92-rs/",
+    "shoptetId": "530",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000169",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kompletni-hydraulicky-prutokovy-ventil-stepkovace-bx-92-rs-1000169/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kompletni-hydraulicky-prutokovy-ventil-stepkovace-bx-92-rs/",
+    "shoptetId": "533",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000170",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/proti-ostri-stepkovace-bx-122-rs-1000170/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/protiostri-stepkovace-bx-122-rs/",
+    "shoptetId": "536",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000171",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-stepkovace-bx-122-rs-1000171/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-stepkovace-bx-122-rs/",
+    "shoptetId": "539",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000172",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1590lw-1550li-ffm-1000172/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000173",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1040lw-1000-li-age-1000173/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000174",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1385lw-1345li-agf-pro-1000174/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000175",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1110lw-1050li-atv-1000175/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000176",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1285-lw-1245-li-1000176/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000177",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1335-lw-1295-li-1000177/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000178",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1750-lw-1710-li-1000178/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000179",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1790-lw-1750-li-1000179/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000180",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/klinovy-remen-b-17-1840-lw-1800-li-1000180/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/klinovy-remen-b-17/",
+    "shoptetId": "545",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000188",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podkopova-lzice-bh-30-cm-1000188/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh/",
+    "shoptetId": "569",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000189",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podkopova-lzice-bh-40-cm-1000189/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh/",
+    "shoptetId": "569",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000192",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podkopova-lzice-bh-5-r-30-cm-1000192/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh-5-r/",
+    "shoptetId": "572",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000193",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/podkopova-lzice-bh-5-r-40-cm-1000193/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/podkopova-lzice-pro-bh-5-r/",
+    "shoptetId": "572",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000194",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/zub-podkopove-lzice-1000194/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zub-podkopove-lzice/",
+    "shoptetId": "575",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000195",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kladivo-mulcovace-ffm-1000195/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kladivo-pro-lesni-mulcovac-ffm/",
+    "shoptetId": "578",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000196",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/ostri-mulcovace-ffm-1000196/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/ostri-pro-lesni-mulcovac-ffm/",
+    "shoptetId": "581",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000197",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/drzak-ostri-mulcovace-ffm-1000197/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/drzak-ostri-lesniho-mulcovace-ffm/",
+    "shoptetId": "584",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000203",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/z-kompletni-oblouk-hala-9-m-1000203/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nahradni-oblouk-pro-halu-1000203/",
+    "shoptetId": "587",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000205",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/stepkovac-bx-92-rs-1000205/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/stepkovac-dreva-bx-92-rs/",
+    "shoptetId": "590",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000207",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/stipacka-wx-310-1000207/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-310/",
+    "shoptetId": "593",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000208",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/stipacka-wx-350-1000208/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-350/",
+    "shoptetId": "596",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000209",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/stipacka-wx-380-1000209/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/traktorova-stipacka-dreva-wx-380/",
+    "shoptetId": "599",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000211",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/spalikovac-tr-110-1000211/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spalikovac-dreva-tr-110/",
+    "shoptetId": "602",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000213",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/planyrovac-hm-200-1000213/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hm-200-do-tribodoveho-zavesu/",
+    "shoptetId": "605",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000214",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/planyrovac-hm-200-atv-1000214/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hm-200-atv/",
+    "shoptetId": "608",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000215",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/planyrovac-hv-200-1000215/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/planyrovac-jizdarny-hv-200-s-valcem/",
+    "shoptetId": "611",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000216",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/paddock-cleaner-sberac-koblih-ksp-120-1000216/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sberac-konskeho-trusu-ksp-120/",
+    "shoptetId": "614",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000220",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-sekacky-fm-120-1000220/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-mulcovaci-sekacky-fm/",
+    "shoptetId": "617",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000221",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-sekacky-fm-150-1000221/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-mulcovaci-sekacky-fm/",
+    "shoptetId": "617",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000222",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-sekacky-fm-180-1000222/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-mulcovaci-sekacky-fm/",
+    "shoptetId": "617",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000223",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/cerpadlo-podkopu-bh-1000223/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/cerpadlo-traktoroveho-podkopu-bh/",
+    "shoptetId": "620",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000224",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rozvadec-podkopu-bh-1000224/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/hydraulicky-rozvadec-podkopu-bh/",
+    "shoptetId": "623",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000225",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kladka-atv-1000225/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kladka-mulcovace-atv/",
+    "shoptetId": "626",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000226",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/337017p-plachtova-hala-10-x-2135-x-52-vojenska-zelena-1000226/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000227",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/337017p-plachtova-hala-10-x-2135-x-52-bila-1000227/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000228",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-183m-x-64m-406021dp-bila-1000228/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000229",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-244m-x-64m-408021dp-bila-1000229/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000230",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/nuz-spalikovace-tr-110-1000230/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/nuz-spalikovace-tr-110/",
+    "shoptetId": "629",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000231",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/baterie-atv-1000231/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/baterie-mulcovace-atv/",
+    "shoptetId": "632",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000232",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-120-1000232/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/",
+    "shoptetId": "635",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000233",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-150-1000233/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/",
+    "shoptetId": "635",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000234",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/mulcovaci-sekacka-fm-180-1000234/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/mulcovaci-sekacka-fm/",
+    "shoptetId": "635",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000235",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/kolecko-na-sekacku-fm-1000235/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/kolecko-mulcovaci-sekacky-fm/",
+    "shoptetId": "644",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000236",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/spalikovac-trs-110-1000236/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/spalikovac-dreva-trs-110-s-dopravnikem/",
+    "shoptetId": "647",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000238",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-213m-x-64m-407021dp-bila-1000238/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000239",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-305m-x-64m-4010021dp-bila-1000239/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": true
+  },
+  {
+    "sku": "1000240",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-366m-x-64m-401202dp-bila-1000240/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000242",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/50-80-23-dp-plachtova-hala-1525m-x-244m-x-7015m-bila-1000242/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000243",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-50-100-23d-p-1525m-x-305m-x-7015m-bila-1000243/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000244",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-50-120-23-dp-1525m-x-366m-x-7015-1000244/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000246",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/rotacni-nuz-ms-200-1000246/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/rotacni-nuz-ms-200/",
+    "shoptetId": "650",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000247",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/stacionarni-nuz-ms-200-1000247/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/stacionarni-nuz-ms-200/",
+    "shoptetId": "653",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000248",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/krouzek-do-rotacniho-noze-1000248/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/krouzek-rotacniho-noze/",
+    "shoptetId": "656",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000251",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-4m-x-315m-vojenska-zelena-1000251/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000252",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-6m-x-37m-vojenska-zelena-1000252/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000253",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp202012p-61m-x-61m-x-366m-bila-1000253/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000254",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp203012p-61m-x-915m-x-366m-bila-1000254/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000255",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp204012p-61m-x-122m-x-366m-bila-1000255/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000256",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/303020dp-plachtova-hala-915m-x-915m-x-61m-bila-1000256/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000257",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/304020dp-plachtova-hala-915m-x-12m-x-61m-bila-1000257/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000258",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/306020dp-plachtova-hala-915m-x-183m-x-61m-bila-1000258/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000259",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/308020dp-plachtova-hala-915m-x-244m-x-61m-bila-1000259/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000260",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp202012p-61m-x-61m-x-366m-vojenska-zelena-1000260/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000261",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp203012p-61m-x-915m-x-366m-vojenska-zelena-1000261/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000262",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp204012p-61m-x-122m-x-366m-vojenska-zelena-1000262/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000263",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/303020dp-plachtova-hala-915m-x-915m-x-61m-vojenska-zelena-1000263/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000264",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/304020dp-plachtova-hala-915m-x-12m-x-61m-vojenska-zelena-1000264/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000265",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/306020dp-plachtova-hala-915m-x-183m-x-61m-vojenska-zelena-1000265/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000266",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/308020dp-plachtova-hala-915m-x-244m-x-61m-vojenska-zelena-1000266/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000267",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p334020dp-10m-x-12m-x-61m-bila-1000267/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/",
+    "shoptetId": "104",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000268",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p336020dp-10m-x-183m-x-61m-bila-1000268/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/",
+    "shoptetId": "104",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000269",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-p338020dp-10m-x-244m-x-61m-bila-1000269/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-bocnim-vstupem/",
+    "shoptetId": "104",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000279",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-12-x-45-900g-m2-%2B-navijak-bila-1000279/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000280",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-20-x-45-900g-m2-%2B-navijak-bila-1000280/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000281",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-26-x-45-900g-m2-%2B-navijak-bila-1000281/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000282",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-12-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000282/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000283",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-20-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000283/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000284",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-26-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000284/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000285",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-bily-1000285/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/",
+    "shoptetId": "674",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000286",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-bily-1000286/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/",
+    "shoptetId": "674",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000287",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp334020dp-plachtova-hala-10m-x-122m-x-61m-bila-1000287/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000288",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp336020dp-plachtova-hala-10m-x-183m-x-61m-bila-1000288/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000289",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp338020dp-plachtova-hala-10m-x-244m-x-61m-bila-1000289/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000293",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-43m-750g-m2-bila-143014r-1000293/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-karavan/",
+    "shoptetId": "707",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000294",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-vojenska-zelena-143016r-1000294/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-karavan/",
+    "shoptetId": "707",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000295",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-8m-x-4m-vojenska-zelena-1000295/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000296",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-203216dp-61m-x-976m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000296/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000298",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204016dp-61m-x-122m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000298/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000299",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204016dp-61m-x-122m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000299/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000300",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-205616dp-61m-x-17m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000300/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000301",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-205616dp-61m-x-17m-x-488m-900g-pvc-zelena-dvojita-konstrukce-1000301/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000302",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-206416dp-61m-x-1952m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000302/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000303",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-206416dp-61m-x-1952m-x-488m-900g-pvc-zelena-dvojita-konstrukce-1000303/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000304",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/305020dp-plachtova-hala-915m-x-1525m-x-61m-bila-1000304/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000306",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp205012p-61-x-1525-x-366-bila-1000306/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000309",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/307020dp-plachtova-hala-915m-x-2135m-x-61m-bila-1000309/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000315",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-10-x-36-x-52-3312017dp-bila-1000315/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000316",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-10-x-30-x-52-3310017dp-bila-1000316/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000317",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-16-x-45-900g-m2-%2B-navijak-bila-1000317/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000318",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-16-x-45-900g-m2-%2B-navijak-vojenska-zelena-1000318/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000319",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/305020dp-plachtova-hala-915m-x-1525m-x-61m-vojenska-zelena-1000319/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000321",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/307020dp-plachtova-hala-915m-x-2135m-x-61m-vojenska-zelena-1000321/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000322",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204816dp-61m-x-1464m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000322/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000323",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-204816dp-61m-x-1464m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000323/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000324",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-30-x-45-900g-m2-%2B-navijak-bila-1000324/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000325",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-30-x-45-900g-m2-%2B-navijak-voj-zelena-1000325/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-s-navijakem/",
+    "shoptetId": "734",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000326",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-3010020dp-915m-x-305m-x-61m-bila-1000326/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-30/",
+    "shoptetId": "92",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000327",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/333017dp-plachtova-hala-10-x-915-x-52-bila-1000327/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000328",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-10-x-30-x-52-3310017dp-voj-zelena-1000328/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000329",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c3320s-10m-x-6m-x-36m-900g-m2-bily-1000329/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c33s/",
+    "shoptetId": "683",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000331",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-1525m-x-64m-405021dp-bila-1000331/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000332",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-8m-x-37m-vojenska-zelena-1000332/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000333",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-6m-x-10m-x-37m-vojenska-zelena-1000333/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000334",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-10m-x-10m-x-45m-vojenska-zelena-1000334/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000335",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-bila-1000335/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000336",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/202412-r-plachtova-hala-61-x-73-x-366-m-vojenska-zelena-1000336/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000337",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/204812-r-plachtova-hala-61-x-1464-x-366-m-bila-1000337/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000338",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/204812-r-plachtova-hala-61-x-1464-x-366-m-vojenska-zelena-1000338/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/obloukova-hala-se-zipovymi-vraty/",
+    "shoptetId": "44",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000339",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-202416dp-61m-x-732m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000339/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000340",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-202416dp-61m-x-732m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000340/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000341",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-208016dp-61m-x-244m-x-488m-900g-pvc-bila-dvojita-konstrukce-1000341/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000342",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-208016dp-61m-x-244m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000342/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000343",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-1000343/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c26/",
+    "shoptetId": "695",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000344",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2620-8m-x-6m-x-3m-750g-m2-bily-1000344/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c26/",
+    "shoptetId": "695",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000345",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp206012p-61-x-183-x-366-bila-1000345/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000346",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-40-x-45-900g-m2-%2B-navijak-voj-zelena-1000346/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000347",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-915-x-40-x-45-900g-m2-%2B-navijak-bila-1000347/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000348",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/339017-p-plachtova-hala-10-x-2745-x-52-bila-1000348/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000349",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/263017dp-plachtova-hala-8m-x-915m-x-518m-bila-1000349/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000350",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/264017dp-plachtova-hala-8m-x-122m-x-518m-bila-1000350/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000351",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/265017dp-plachtova-hala-8m-x-1525m-x-518m-bila-1000351/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000352",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/266017dp-plachtova-hala-8m-x-183m-x-518m-bila-1000352/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000353",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/267017dp-plachtova-hala-8m-x-2135m-x-518m-bila-1000353/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000354",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/268017dp-plachtova-hala-8m-x-244m-x-518m-bila-1000354/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000355",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/269017dp-plachtova-hala-8m-x-2745m-x-518m-bila-1000355/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000356",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-8m-x-305m-x-518m-bila-2610017dp-1000356/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000357",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-karavan-obytny-vuz-43m-x-92m-x-5m-750g-m2-sediva-143016r-1000357/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-karavan/",
+    "shoptetId": "707",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000358",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-366-x-61-x-244-m-122008r-bila-novy-typ-kotveni-1000358/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-auto/",
+    "shoptetId": "710",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000359",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-366-x-61-x-244-m-122008r-voj-zelena-novy-typ-kotveni-1000359/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-auto/",
+    "shoptetId": "710",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000360",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-12m-x-12m-x-5m-vojenska-zelena-1000360/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000362",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp335020dp-plachtova-hala-10m-x-1525m-x-61m-bila-1000362/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000363",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-autobus-nakladni-automobil-55m-x-15m-x-58m-900g-m2-bila-1000363/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-autobus-a-nakladni-vuz/",
+    "shoptetId": "713",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000364",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/najezdova-rampa-do-lodnich-kontejneru-pd08b-1000364/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/najezdova-rampa-do-kontejneru-pd08b-nosnost-6-t/",
+    "shoptetId": "725",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000365",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/50-70-23-dp-plachtova-hala-1525m-x-2135m-x-7015m-bila-1000365/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000366",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2020-6m-x-6m-x-2m-750g-m2-vojenska-zelena-1000366/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/",
+    "shoptetId": "674",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000367",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2040-6m-x-12m-x-2m-750g-m2-vojenska-zelena-1000367/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c20/",
+    "shoptetId": "674",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000368",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp3310020dp-plachtova-hala-10m-x-305m-x-61m-bila-1000368/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000369",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/50-60-23-dp-plachtova-hala-1525m-x-183m-x-7015m-bila-1000369/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000370",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-203216dp-61m-x-976m-x-488m-900g-pvc-voj-zelena-dvojita-konstrukce-1000370/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-s-dvojitou-konstrukci/",
+    "shoptetId": "152",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000371",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-122m-x-64m-404021dp-bila-1000371/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000372",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-2745m-x-64m-409021dp-bila-1000372/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000373",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-3355m-x-64m-4011021dp-bila-1000373/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000374",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp205012p-61-x-1525-x-366-vojenska-zelena-1000374/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000375",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-10-x-3355-x-52-3311017dp-bila-1000375/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000376",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-garaz-na-autobus-nakladni-automobil-55m-x-15m-x-58m-900g-m2-vojenska-zelena-1000376/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/plachtova-garaz-pro-autobus-a-nakladni-vuz/",
+    "shoptetId": "713",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000377",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp206012p-61-x-183-x-366-vojenska-zelena-1000377/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000378",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/264017dp-plachtova-hala-8m-x-122m-x-518m-vojenska-zelena-1000378/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-26/",
+    "shoptetId": "164",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000379",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-4m-x-6m-x-315m-vojenska-zelena-1000379/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000380",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c2640-8m-x-12m-x-3m-750g-m2-bily-2m-arch-space-1000380/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c26/",
+    "shoptetId": "695",
+    "novinka": true,
+    "akce": true
+  },
+  {
+    "sku": "1000381",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/265017dp-plachtova-hala-8m-x-1525m-x-518m-vojenska-zelena-1000381/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000382",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/266017dp-plachtova-hala-8m-x-183m-x-518m-vojenska-zelena-1000382/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000383",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/267017dp-plachtova-hala-8m-x-2135m-x-518m-vojenska-zelena-1000383/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000384",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/268017dp-plachtova-hala-8m-x-244m-x-518m-vojenska-zelena-1000384/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000385",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-122m-x-64m-404021dp-vojenska-zelena-1000385/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000386",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-1525m-x-64m-405021dp-vojenska-zelena-1000386/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000387",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-183m-x-64m-406021dp-vojenska-zelena-1000387/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000388",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-244m-x-64m-408021dp-vojenska-zelena-1000388/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000389",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-305m-x-64m-4010021dp-vojenska-zelena-1000389/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000390",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/50-50-23-dp-plachtova-hala-1525m-x-1525m-x-7015m-bila-1000390/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000391",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp337020dp-plachtova-hala-10m-x-2135m-x-61m-bila-1000391/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000392",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-122m-x-0915m-x-64m-403021dp-bila-1000392/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-40/",
+    "shoptetId": "203",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000393",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-10m-c33s-1000393/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c33s/",
+    "shoptetId": "716",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000394",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-6m-c20-vojenska-zelena-1000394/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c20/",
+    "shoptetId": "719",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000395",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/predni-celo-s-navijakovymi-vraty-pro-8m-c26-bila-1000395/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/predni-celo-s-vraty-pro-zastreseni-c26/",
+    "shoptetId": "722",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000396",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c4040-12m-x-12m-x-45m-900g-m2-bily-1000396/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c4040-otevrene/",
+    "shoptetId": "698",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000397",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-244m-x-76m-bila-6080-25-dp-1000397/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/",
+    "shoptetId": "206",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000398",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-3172m-x-76m-bila-60-110-25-dp-1000398/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/",
+    "shoptetId": "206",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000399",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-183m-x-366m-x-76m-bila-60-120-25-dp-1000399/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-60/",
+    "shoptetId": "206",
+    "novinka": false,
+    "akce": false
+  },
+  {
+    "sku": "1000400",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-10m-x-4m-vojenska-zelena-1000400/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000401",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtovy-pristresek-animal-8m-x-12m-x-4m-vojenska-zelena-1000401/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/pristresek-pro-zvirata-animal/",
+    "shoptetId": "659",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000402",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c3340s-10m-x-12m-x-36m-900g-m2-bila-2m-arch-space-1000402/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c33s/",
+    "shoptetId": "683",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000403",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c4040-12m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000403/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-c4040-s-vraty/",
+    "shoptetId": "701",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000404",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c5040s-15m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000404/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-s-navijakovymi-vraty/",
+    "shoptetId": "689",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000405",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/c6040s-18m-x-12m-x-45m-900g-m2-bily-dvojita-konstrukce-1000405/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/zastreseni-kontejneru-s-navijakovymi-vraty/",
+    "shoptetId": "689",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000406",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/50-90-23-dp-plachtova-hala-1525m-x-2745m-x-7015m-bila-1000406/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-50/",
+    "shoptetId": "200",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000407",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp333020dp-plachtova-hala-10m-x-915m-x-61m-bila-1000407/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000408",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp3311020dp-plachtova-hala-10m-x-3355m-x-61m-bila-1000408/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000409",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/pp3312020dp-plachtova-hala-10m-x-366m-x-61m-bila-1000409/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-pp/",
+    "shoptetId": "113",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000410",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp202512p-61m-x-762m-x-366m-bila-1000410/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000411",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp202512p-61m-x-762m-x-366m-vojenska-zelena-1000411/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000412",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp203512p-61m-x-1067m-x-366m-bila-1000412/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000413",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp203512p-61m-x-1067m-x-366m-vojenska-zelena-1000413/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000414",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/233017dp-plachtova-hala-7m-x-915m-x-52m-bila-1000414/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/",
+    "shoptetId": "233",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000415",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/234017dp-plachtova-hala-7m-x-122m-x-52m-bila-1000415/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/",
+    "shoptetId": "233",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000416",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/235017dp-plachtova-hala-7m-x-1525m-x-52m-bila-1000416/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-23/",
+    "shoptetId": "233",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000417",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/203612-r-plachtova-hala-61-x-1098-x-366-m-bila-1000417/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000418",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/203612-r-plachtova-hala-61-x-1098-x-366-m-vojenska-zelena-1000418/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000419",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/205412-r-plachtova-hala-61-x-1647-x-366-m-vojenska-zelena-1000419/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000420",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/205412-r-plachtova-hala-61-x-1647-x-366-m-bila-1000420/",
+    "cil": "",
+    "shoptetId": "",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000421",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp204512p-61m-x-1372m-x-366m-vojenska-zelena-1000421/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000422",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp204512p-61m-x-1372m-x-366m-bila-1000422/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000423",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp205512p-61-x-1678-x-366-vojenska-zelena-1000423/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000424",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/plachtova-hala-sp205512p-61-x-1678-x-366-bila-1000424/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-sp/",
+    "shoptetId": "83",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000425",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/333017dp-plachtova-hala-10-x-915-x-52-vojenska-zelena-1000425/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": true,
+    "akce": false
+  },
+  {
+    "sku": "1000426",
+    "zdroj": "https://www.plachtovehaly-agrodabaki.cz/d/339017-p-plachtova-hala-10-x-2745-x-52-vojenska-zelena-1000426/",
+    "cil": "https://plachtovehaly.agrodabaki.cz/sedlova-hala-rady-33/",
+    "shoptetId": "50",
+    "novinka": true,
+    "akce": false
+  }
+]

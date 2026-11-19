@@ -1,0 +1,155 @@
+/* Zprávy a veřejné příspěvky v Adaminu. Modální dotaz má vlastní dostupnou šířku. */
+:is(form.contact-form, form.discussion-form, form.product-question-form) {
+  box-sizing: border-box;
+  container-type: inline-size;
+  width: 100%;
+
+  max-width: min(100%, 740px);
+  margin: 16px 0 24px;
+  padding: clamp(16px, 3vw, 32px);
+  border: 1px solid #d1dfd8;
+  border-top: 3px solid #397257;
+  border-radius: 8px;
+  background: #f4f8f5;
+  color: #293e35;
+
+  &.discussion-form, & > fieldset {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  & > fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: 0;
+  }
+  .form-group, .form-legend {
+    grid-column: 1 / -1;
+    display: block;
+    margin: 0;
+    padding: 0;
+    min-width: 0;
+  }
+  .form-legend {
+    color: #475f53;
+    font-size: 13px;
+  }
+  .smart-label-wrapper > label {
+    position: static;
+    display: block;
+    width: auto;
+    margin: 0 0 6px;
+    padding: 0;
+    transform: none;
+    color: #304b3d;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: start;
+  }
+  .form-control-wrapper {
+    display: block;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+  .form-control {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: none;
+    min-height: 44px;
+    padding: 10px 12px;
+    border: 1px solid #96aaa0;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #20382c;
+    font: inherit;
+    font-size: 16px;
+  }
+  textarea.form-control {
+    height: 132px;
+    min-height: 96px;
+    resize: vertical;
+  }
+  .form-control:focus-visible, :is(button, a):focus-visible {
+    outline: 2px solid #23654a;
+    outline-offset: 2px;
+  }
+  .form-control:user-invalid, .form-control[aria-invalid="true"],
+  .js-validated-element-wrapper.error .form-control {
+    border-color: #ad3734;
+  }
+  .consents .label {
+    display: block;
+    margin: 0;
+    color: #42564a;
+    line-height: 1.5;
+  }
+  .consents a { color: #286047; text-decoration: underline; }
+  button[type="submit"] {
+    min-height: 44px;
+    padding: 10px 22px;
+    border-radius: 5px;
+    background: #34674e;
+    border-color: #34674e;
+    color: white;
+    font-weight: 700;
+  }
+  button[type="submit"]:hover { background: #264e3a; }
+}
+
+/* První dvě kontaktní pole vedle sebe pouze tam, kde mají dost prostoru. */
+@container (min-width: 440px) {
+  :is(form.contact-form, form.discussion-form, form.product-question-form)
+    .form-group:has(> label:is([for="fullName"], [for="discussionFullName"], [for="productQuestionEmail"])) {
+    grid-column: 1;
+  }
+  :is(form.contact-form, form.discussion-form, form.product-question-form)
+    .form-group:has(> label:is([for="email"], [for="discussionEmail"], [for="productQuestionPhone"])) {
+    grid-column: 2;
+  }
+}
+
+
+/* Colorbox měří obsah dialogu při otevření. */
+.content-modal:has(> form.product-question-form) {
+  width: min(580px, calc(100vw - 80px));
+  max-width: 100%;
+}
+#formProductQuestion {
+  margin-block: 12px 0;
+  padding: clamp(12px, 2vw, 24px);
+}
+#formProductQuestion .form-control-wrapper,
+#formProductQuestion .form-control {
+  width: 100%;
+  max-width: 100%;
+}
+:is(form.contact-form, form.discussion-form, form.product-question-form) .consents {
+  overflow-wrap: anywhere;
+}
+:is(form.contact-form, form.discussion-form, form.product-question-form)
+  label > .required-asterisk::after {
+  content: " *";
+  display: inline;
+  color: #39634d;
+}
+:is(form.discussion-form, form.product-question-form) .form-legend .required-asterisk::before {
+  content: "* ";
+  display: inline;
+  color: #39634d;
+}
+
+:is(form.contact-form, form.discussion-form, form.product-question-form) .js-validator-msg {
+  position: static;
+  transform: none;
+  width: fit-content;
+  max-width: 100%;
+  margin: 6px 0 0;
+  white-space: normal;
+}
+:is(form.contact-form, form.discussion-form, form.product-question-form) .js-validator-msg::after,
+:is(form.contact-form, form.discussion-form, form.product-question-form) .js-validator-msg::before {
+  display: none;
+}

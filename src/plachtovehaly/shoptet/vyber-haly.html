@@ -40,7 +40,7 @@
     if (nazvy.length < 2 || varianty.some(v => Object.keys(v.hodnoty).length !== nazvy.length || nazvy.some(n => !v.hodnoty[n]))) return;
     nazvy.sort((a, b) => priorita(a) - priorita(b));
     const vybrana = varianty.find(v => v.pole.checked);
-    const poleVyberu = nazvy.map((nazev, i) => {
+    function pridejVyber(nazev, i) {
       const tr = document.createElement('tr');
       const th = document.createElement('th');
       const td = document.createElement('td');
@@ -54,7 +54,16 @@
       tr.append(th, td);
       radek.before(tr);
       return select;
-    });
+    }
+    const poleVyberu = nazvy.map(pridejVyber);
+    const produktId = skupina.closest('form')?.querySelector('meta[itemprop="productID"]')?.content;
+    if (['659', '683', '689', '695'].includes(produktId) &&
+        !nazvy.some(n => popisek(n) === 'Barva')) {
+      const parametr = [...document.querySelectorAll('.extended-description .detail-parameters tr')]
+        .find(tr => tr.querySelector('th')?.textContent.trim().replace(/:$/, '') === 'Barva plachty');
+      const barva = parametr?.querySelector('td')?.textContent.trim();
+      if (barva) pridejVyber('Barva', nazvy.length).add(new Option(barva, barva));
+    }
     function aktualizuj(preference) {
       let mozne = varianty.filter(v => !v.pole.disabled);
       nazvy.forEach((nazev, i) => {
