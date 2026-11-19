@@ -1,5 +1,7 @@
 # Předání e-shopu Agro Dabaki
 
+**Výchozí návod pro přebírajícího správce a jeho Codex:** [Správa katalogu](katalog/SPRAVA-KATALOGU.md). Postupy jsou použitelné bez historie chatu a bez lokální pracovní cache; přístupy se předávají zvlášť.
+
 Stav k 16. listopadu 2026. Shoptet běží na [plachtovehaly.agrodabaki.cz](https://plachtovehaly.agrodabaki.cz/). Firemní prezentace má vlastní adresu [agrodabaki.cz](https://agrodabaki.cz/). Přechod zákazníků z původního WEXBO je ještě před námi. [Historie změn, dohody se zadavatelem a seznam úkolů](../PLAN.md)
 
 | Co správce potřebuje | Kde navázat |

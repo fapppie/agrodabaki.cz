@@ -1,5 +1,7 @@
 # Práce s projektem
 
+- Pro změny katalogu načti [návod pro správce a přebírající Codex](docs/plachtovehaly/katalog/SPRAVA-KATALOGU.md): dostupnosti, produkty, varianty, názvy, parametry a ověření.
+
 - Piš česky. Otevři [rozcestník](docs/README.md) a [aktuální plán](docs/PLAN.md), potom jen dokumentaci k danému projektu a úkolu. Starší evidenci načítej při dohledávání konkrétního rozhodnutí.
 - Produkční prezentace patří do [src/agrodabaki/web](src/agrodabaki/web/); změny Shoptetu spravuj podle [administrace](docs/plachtovehaly/ADMINISTRACE.md). Ukázky Adaminu mají vlastní [pracovní strom](src/plachtovehaly/ukazky/); při změně zkontroluj dopad sdílených souborů group-a a shared na ostatní varianty.
 - Změnu nákupní cesty otestuj od detailu přes košík po dotčený krok objednávky. Vzhled ověř na mobilu i počítači. Po nasazení zapiš do plánu datum, místo správy, výsledek kontroly a zbývající práci. Aktualizuj příslušný provozní návod a [předání správci](docs/plachtovehaly/PREDANI.md).

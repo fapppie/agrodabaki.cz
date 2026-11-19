@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-19",
+  "recordsCompared": 448,
+  "changes": [
+    {
+      "code": "ARCHIV-SP-1000046",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000037",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000038",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000039",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000324",
+      "before": "na dotaz",
+      "after": "Na dotaz"
+    },
+    {
+      "code": "1000324",
+      "before": "na dotaz",
+      "after": "Na dotaz"
+    },
+    {
+      "code": "ARCHIV-SP-1000035",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000050",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000051",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000071",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000073",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    },
+    {
+      "code": "ARCHIV-SP-1000074",
+      "before": "vyprodáno",
+      "after": "Vyprodáno"
+    }
+  ],
+  "otherProductChanges": 0,
+  "remainingStates": [
+    "Na dotaz",
+    "ObjednĂˇno",
+    "MomentĂˇlnÄ› nedostupnĂ©",
+    "VyprodĂˇno",
+    "Skladem",
+    "DostupnĂ© od 08.01. 2027",
+    "DostupnĂ© od 22.02. 2027",
+    "DostupnĂ© od 10.12. 2026",
+    "DostupnĂ© od 05.12. 2026",
+    "DostupnĂ© od 05.01. 2027",
+    "DostupnĂ© od 16.12. 2026",
+    "DostupnĂ© od 02.12. 2026",
+    "DostupnĂ© od 08.12. 2026",
+    "DostupnĂ© od 26.11. 2026",
+    "DostupnĂ© od 30.01. 2027",
+    "Na objednĂˇnĂ­",
+    "DostupnĂ© od 25.11. 2026",
+    "DostupnĂ© od 25.01. 2027",
+    "DostupnĂ© od 31.12. 2026",
+    "DostupnĂ© od 11.01. 2027",
+    "DostupnĂ© od 10.02. 2027",
+    "DostupnĂ© od 01.01. 2027",
+    "DostupnĂ© od 19.01. 2027",
+    "DostupnĂ© od 30.12. 2026",
+    "DostupnĂ© od 29.01. 2027",
+    "DostupnĂ© od 26.02. 2027",
+    "DostupnĂ© od 30.11. 2026",
+    "DostupnĂ© od 11.12. 2026"
+  ],
+  "caseInsensitiveDuplicates": 0
+}

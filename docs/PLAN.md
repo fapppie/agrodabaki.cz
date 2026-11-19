@@ -24,3 +24,7 @@ Stav k 16. 11. 2026. Firemní prezentace už směruje zákazníky do původního
 
 Na místním HTTP serveru byla při 390 a 1440 px otevřena produkční prezentace, galerie šablon i ukázka Adaminu. Ověřeny byly oba cílové e-shopy a načtení lokálních souborů. Kontrola prošla místní odkazy v dokumentaci, jejich kotvy a relativní odkazy ve statických HTML. Všech pět migračních utilit spustilo nápovědu. Obsah záhlaví a zápatí byl porovnán čtením z administrace Shoptetu s pěti projektovými bloky. Reorganizace proběhla v repozitáři.
 Zkouška na archivních vstupech po přesunu cest vytvořila totožné XML pro 137 karet strojů a 153 prodejních kódů. Ověřovač rodin úspěšně porovnal historický export se základním exportem a manifestem. Výstup testu vznikl v ignorované pracovní složce.
+
+### 19. 11. 2026 — provozní návod katalogu pro předání Codexu
+
+- **Návod správy katalogu — doplněn:** samostatný postup pro dostupnosti a nákup do minusu, sjednocené názvy stavů, založení produktu a varianty, SKU, parametry, filtry, pojmenování, fotografie, ceny, URL, importy, návrat a kontrolu výsledku. Propojen z AGENTS.md, rozcestníku, administrace a předání. Vychází z existujících projektových návodů a dnešních protokolů; neprovádí nové změny e-shopu ani nové nákupní testy. Zkontrolovány odkazy nového návodu a rozsah připraveného commitu. [Návod](plachtovehaly/katalog/SPRAVA-KATALOGU.md). Zdroj: tento chat, žádost připravit dokumentaci pro kolegův Codex. Bez zbývající práce v rozsahu sepsání návodu.

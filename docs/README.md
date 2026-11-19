@@ -1,5 +1,7 @@
 # Dokumentace Agro Dabaki
 
+Výchozí provozní návod: [Správa katalogu pro správce a přebírající Codex](plachtovehaly/katalog/SPRAVA-KATALOGU.md). Obsahuje logiku dostupností, editaci a založení produktů/variant, jednotné názvy, parametry a kontrolu výsledku.
+
 Pro pokračování migrace otevřete [aktuální plán](PLAN.md). Pro zásah na webu vyberte níže projekt a konkrétní téma. Návody popisují postup správce, datované kontroly zachycují stav v okamžiku testu.
 
 ## Firemní web agrodabaki.cz
