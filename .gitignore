@@ -7,9 +7,11 @@ Desktop.ini
 .DS_Store
 /accesses.txt
 /.wexbo-cache/
+/.shoptet-cache/
 
 /.idea/
 __pycache__/
 *.pyc
 __MACOSX/
 ._*
+node_modules/

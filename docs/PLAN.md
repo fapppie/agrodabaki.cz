@@ -451,3 +451,38 @@ Pro 14. 11. 2026 nebyl v dohledaných podkladech identifikován samostatný dolo
 ### 19. 11. 2026 — uložení celého pracovního stromu
 
 - **Souhrnný commit projektových změn — připraven:** na výslovnou žádost zadavatele zahrnuta dosavadní necommitnutá dokumentace, zdroje, migrační podklady, ilustrace a ověřovací snímky. Přístupy a pracovní cache zůstávají ignorované; kontrola názvů souborů a textových signatur tajných údajů. Jde o uložení existující práce, nikoli nové nasazení ani opakování funkčních testů. Zdroj: tento chat, žádost „commitni prosím celý working tree“.
+
+
+### 19. 11. 2026 — Facebook v patičce
+
+- **Odkaz na firemní Facebook — nasazeno a ověřeno:** na upřesněnou žádost zadavatele přidán pouze Facebook Agro Dabaki (`facebook.com/dabaki.cz`, cíl převzat z WEXBO). Editor → HTML kódy → Zápatí → dabaki-paticka, poslední položka druhého sloupce. Obyčejný odkaz bez nového sociálního widgetu; X zadavatel nemá. Uložení porovnáno, veřejně i vizuálně ověřeno při 390/1440 px po odmítnutí cookies, bez přetečení. Zdroj patičky synchronizován. Bez zbývající práce na přidání odkazu; samostatný audit Analytics a existujících sdílecích prvků zůstává otevřený. [Správa a podklady](plachtovehaly/ADMINISTRACE.md#facebook-v-patičce--19-11-2026).
+
+
+### 19. 11. 2026 — odstranění neplatného facebookového odkazu
+
+- **Facebook v patičce — odstraněno a ověřeno:** po oznámení zadavatele, že stránka neexistuje, odebrán pouze odkaz Facebook Agro Dabaki z Editor → HTML kódy → Zápatí → dabaki-paticka. Nahrazuje předchozí dnešní vložení; historický záznam zachován. Uložené pole porovnáno, zdroj synchronizován; veřejně a vizuálně při 390/1440 px ověřena nepřítomnost odkazu a nepřetékání. Bez zbývající práce na odstranění; audit cookies zůstává samostatný. [Správa a ověření](plachtovehaly/ADMINISTRACE.md#odstranění-neplatného-facebooku--19-11-2026).
+
+
+### 20. 11. 2026 — sloučení dvou podkategorií
+
+- **Náhradní oblouky → Obloukové haly — nasazeno a ověřeno:** karty 47 a 587 (SKU 1000059, 1000203) mají zařazení i výchozí kategorii 707; prázdná podkategorie 710 odstraněna v Produkty → Kategorie. Čerstvé exporty 236 karet před/po potvrzují jen změny kategorií, veřejné detaily správnou drobečkovou navigaci. Kategorie a Mapa webu ověřeny při 390/1440 px; SKU 1000059 prošlo na mobilu detailem, košíkem a dopravou bez odeslání objednávky, samostatná testovací relace uzavřena. [Protokol](plachtovehaly/overeni/subkategorie-zruseni-2026-11-20.json).
+- **Příslušenství → Zastřešení lodních kontejnerů — nasazeno a ověřeno:** karty 725, 719, 722, 716 (SKU 1000364, 1000394, 1000395, 1000393) převedeny včetně výchozí kategorie do 782; prázdná podkategorie 788 odstraněna. Exporty prokazují zachování všech ostatních polí; všechna čtyři zařazení ověřena veřejně, vzhled při 390/1440 px. [Protokol](plachtovehaly/overeni/subkategorie-zruseni-2026-11-20.json).
+- **Mapa webu a odkazy po sloučení — nasazeno a ověřeno:** Stránky → Mapa webu (794), odstraněny oba nadpisy podkategorií a sloučeny seznamy pod rodiče se zachováním všech produktových odkazů. V článku Poradny o zastřešení kontejnerů (11) odkaz přesměrován přímo na hlavní kategorii. Zdroje synchronizovány, dva budoucí migrační cíle WEXBO aktualizovány. Přesměrování zrušených adres podle upřesnění zadavatele nezakládána; obchod ještě nebyl spuštěn. Bez zbývající práce v tomto zadání. [Správa](plachtovehaly/ADMINISTRACE.md#sloučení-podkategorií--20-11-2026).
+
+
+### 20. 11. 2026 — oddělení pracovních cache podle systému
+
+- **Shoptet a WEXBO cache — lokálně rozděleno:** z původních 2 235 souborů přesunuto 1 808 do `.shoptet-cache`; 427 zdrojových souborů a skriptů WEXBO ponecháno v `.wexbo-cache`. Migrační importy pro Shoptet, jeho schémata, exporty a zálohy patří do nové složky; původní stránky a inventura WEXBO zůstávají ve staré. Upraveny cesty ve 232 lokálních skriptech, třech verzovaných nástrojích, provozních návodech a metadatech záloh fotografií. Obě složky jsou ignorované Gitem; AGENTS.md stanovuje pravidlo pro další práci. Kontrola všech 2 235 souborů pomocí SHA256, syntaxe 189 upravených JS skriptů a Pythonu, 168 relativních require bez chybějícího cíle, kontrola gitignore. Staré automatizace nebyly spuštěny a živý e-shop se tímto úkolem neměnil. Lokální manifest a zálohy upravených skriptů umožňují dohledat přesun. Bez zbývající práce. [Pravidla správy cache](plachtovehaly/ADMINISTRACE.md#lokální-pracovní-cache).
+
+### 20. 11. 2026 — návrh zlepšení pracovních postupů
+
+- **Revize workflow — návrh, nezavedeno:** posouzena struktura repozitáře, rozcestník, plán, provozní návody, verzované migrační nástroje a vybrané zprávy aktivních i archivovaného projektového chatu. Doporučení zahrnují priority a odpovědnosti otevřených úkolů, oddělení aktuálního provozního stavu od historie, evidenci nasazených bloků, přenositelné nástroje a závislosti, opakovatelné kontroly a koordinaci souběžných změn. Kontrola byla čtecí, bez nového ověření živého obchodu; implementace ani nasazení nejsou součástí výsledku. Podklady: [administrace](plachtovehaly/ADMINISTRACE.md), [předání](plachtovehaly/PREDANI.md), [nástroje](../src/plachtovehaly/tools/); zdrojový chat „Navrhni optimalizaci projektu“, ID 01a1f8da-6a92-7220-a97c-458c1ea15d25. Konkrétní doporučení jsou v odpovědi tohoto chatu; nejde o schválený nový seznam úkolů.
+
+### 20. 11. 2026 — přenositelné předání automatizace Shoptetu
+
+- **Přihlašovací modul — připraven a živě ověřen:** `src/plachtovehaly/tools/browser` obsahuje Playwright modul, čtecí test přihlášení, tři jednotkové testy, package.json a lockfile. Bez závislosti na interním runtime Codexu, původní cache či třetím řádku přístupů; cílové HTTPS domény a formulář kontrolovány před odesláním. Ověřena instalace `npm ci`, instalace Chromium, všechny tři testy a skutečné přihlášení bez změny katalogu/nastavení. Lokální accesses.txt doplněn o pojmenované klíče při zachování starých řádků; obsah nepublikován. Přístupy, cache a node_modules jsou ignorované. [Nástroje](../src/plachtovehaly/tools/browser/session.cjs).
+- **Předání bez původní cache — návod zaveden:** AGENTS, README, rozcestník, administrace a katalog odkazují na [instalaci a převzetí](plachtovehaly/AUTOMATIZACE.md). Výchozí provoz kolegy je Shoptet; WEXBO podklady po dohodě zachovány jako historie a pro dokončení migrace, nikoli jako požadavek běžné správy. Odlišena čerstvá provozní záloha od nedostupných historických vstupů. Test na počítači kolegy zůstává součástí budoucího předání; nebyl proveden. Zdroj: chat „Navrhni optimalizaci projektu“, ID 01a1f8da-6a92-7220-a97c-458c1ea15d25.
+
+### 20. 11. 2026 — souhrnné uložení pracovního stromu
+
+- **Commit a push — připraveno na pokyn zadavatele:** zahrnut celý projektový pracovní strom: změny kategorií a Mapy webu, patička, oddělení cache, přenositelná automatizace a dokumentace s ověřovacími podklady. Kontrola diffu, názvů souborů, známých tajných hodnot a signatur prošla; accesses.txt, obě cache a node_modules zůstávají mimo Git. Funkční ověření jednotlivých změn je uvedeno u jejich záznamů výše; toto uložení nepředstavuje nové nasazení. Výsledek odeslání a hash commitu budou uvedeny ve zdrojovém chatu „Navrhni optimalizaci projektu“, ID 01a1f8da-6a92-7220-a97c-458c1ea15d25.

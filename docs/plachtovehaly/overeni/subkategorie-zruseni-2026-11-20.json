@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-20",
+  "categories": [
+    {
+      "path": "/obloukove-haly/",
+      "cards": [
+        {
+          "name": "Náhradní oblouk pro halu šířky 6 m",
+          "url": "/nahradni-oblouk-pro-halu-1000059/"
+        },
+        {
+          "name": "Náhradní oblouk pro halu šířky 9 m",
+          "url": "/nahradni-oblouk-pro-halu-1000203/"
+        },
+        {
+          "name": "Oblouková hala R 6,1m šířka",
+          "url": "/obloukova-hala-se-zipovymi-vraty/"
+        },
+        {
+          "name": "Oblouková hala R 9,15m šířka",
+          "url": "/obloukova-hala-s-navijakem/"
+        }
+      ]
+    },
+    {
+      "path": "/zastreseni-lodnich-kontejneru/",
+      "cards": [
+        {
+          "name": "Přední čelo s vraty pro zastřešení C20, šířka 6 m",
+          "url": "/predni-celo-s-vraty-pro-zastreseni-c20/"
+        },
+        {
+          "name": "Nájezdová rampa do kontejneru PD08B, nosnost 6 t",
+          "url": "/najezdova-rampa-do-kontejneru-pd08b-nosnost-6-t/"
+        },
+        {
+          "name": "Přední čelo s vraty pro zastřešení C26, šířka 8 m",
+          "url": "/predni-celo-s-vraty-pro-zastreseni-c26/"
+        },
+        {
+          "name": "Přední čelo s vraty pro zastřešení C33S, šířka 10 m",
+          "url": "/predni-celo-s-vraty-pro-zastreseni-c33s/"
+        },
+        {
+          "name": "Zastřešení kontejnerů C20",
+          "url": "/zastreseni-kontejneru-c20/"
+        },
+        {
+          "name": "Zastřešení kontejnerů C26",
+          "url": "/zastreseni-kontejneru-c26/"
+        },
+        {
+          "name": "Zastřešení kontejnerů C33S",
+          "url": "/zastreseni-kontejneru-c33s/"
+        },
+        {
+          "name": "Zastřešení kontejnerů 12 × 12 m (C4040), otevřené",
+          "url": "/zastreseni-kontejneru-c4040-otevrene/"
+        },
+        {
+          "name": "Zastřešení kontejnerů 12 × 12 m (C4040), s vraty",
+          "url": "/zastreseni-kontejneru-c4040-s-vraty/"
+        },
+        {
+          "name": "Zastřešení kontejnerů s navijákovými vraty",
+          "url": "/zastreseni-kontejneru-s-navijakovymi-vraty/"
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "name": "Náhradní oblouk pro halu šířky 6 m",
+      "url": "/nahradni-oblouk-pro-halu-1000059/",
+      "crumbs": "Domů\n / Obloukové haly / Náhradní oblouk pro halu šířky 6 m"
+    },
+    {
+      "name": "Náhradní oblouk pro halu šířky 9 m",
+      "url": "/nahradni-oblouk-pro-halu-1000203/",
+      "crumbs": "Domů\n / Obloukové haly / Náhradní oblouk pro halu šířky 9 m"
+    },
+    {
+      "name": "Přední čelo s vraty pro zastřešení C20, šířka 6 m",
+      "url": "/predni-celo-s-vraty-pro-zastreseni-c20/",
+      "crumbs": "Domů\n / Zastřešení lodních kontejnerů / Přední čelo s vraty pro zastřešení C20, šířka 6 m"
+    },
+    {
+      "name": "Nájezdová rampa do kontejneru PD08B, nosnost 6 t",
+      "url": "/najezdova-rampa-do-kontejneru-pd08b-nosnost-6-t/",
+      "crumbs": "Domů\n / Zastřešení lodních kontejnerů / Nájezdová rampa do kontejneru PD08B, nosnost 6 t"
+    },
+    {
+      "name": "Přední čelo s vraty pro zastřešení C26, šířka 8 m",
+      "url": "/predni-celo-s-vraty-pro-zastreseni-c26/",
+      "crumbs": "Domů\n / Zastřešení lodních kontejnerů / Přední čelo s vraty pro zastřešení C26, šířka 8 m"
+    },
+    {
+      "name": "Přední čelo s vraty pro zastřešení C33S, šířka 10 m",
+      "url": "/predni-celo-s-vraty-pro-zastreseni-c33s/",
+      "crumbs": "Domů\n / Zastřešení lodních kontejnerů / Přední čelo s vraty pro zastřešení C33S, šířka 10 m"
+    }
+  ],
+  "screens": [
+    "docs/plachtovehaly/overeni/subkategorie-mapa-webu-1440.png",
+    "docs/plachtovehaly/overeni/subkategorie-obloukove-haly-1440.png",
+    "docs/plachtovehaly/overeni/subkategorie-zastreseni-lodnich-kontejneru-1440.png",
+    "docs/plachtovehaly/overeni/subkategorie-mapa-webu-390.png",
+    "docs/plachtovehaly/overeni/subkategorie-obloukove-haly-390.png",
+    "docs/plachtovehaly/overeni/subkategorie-zastreseni-lodnich-kontejneru-390.png"
+  ],
+  "cart": [
+    "1000059"
+  ],
+  "checkout": "detail → košík → doprava a platba, bez odeslání objednávky",
+  "exportComparison": {
+    "beforeCards": 236,
+    "afterCards": 236,
+    "changedFieldsOnly": "CATEGORIES",
+    "changedProductIds": [
+      47,
+      587,
+      725,
+      719,
+      722,
+      716
+    ],
+    "otherProductDataUnchanged": true
+  },
+  "testSession": "Samostatná dočasná relace uzavřena; objednávka neodeslána."
+}

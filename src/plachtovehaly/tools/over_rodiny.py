@@ -81,7 +81,7 @@ def update_map(manifest, urls):
 if __name__=="__main__":
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument("export",type=Path)
-    p.add_argument("--original",type=Path,default=ROOT/".wexbo-cache/shoptet-po-skladu.xml")
+    p.add_argument("--original",type=Path,default=ROOT/".shoptet-cache/shoptet-po-skladu.xml")
     p.add_argument("--map",action="store_true",help="Při úplné shodě zapsat ověřené cíle do mapy URL.")
     args=p.parse_args()
     manifest=json.loads((DOC/"rodiny-variant.json").read_text(encoding="utf-8"))
@@ -89,6 +89,6 @@ if __name__=="__main__":
     if issues:
         raise SystemExit("\n".join(issues))
     if args.map:
-        urls=json.loads((ROOT/".wexbo-cache/rodiny-target-urls.json").read_text(encoding="utf-8-sig"))
+        urls=json.loads((ROOT/".shoptet-cache/rodiny-target-urls.json").read_text(encoding="utf-8-sig"))
         update_map(manifest,urls)
     print("Shoda všech produktů, prodejních kódů a archivů v dávce.")

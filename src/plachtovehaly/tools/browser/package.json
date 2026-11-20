@@ -1,0 +1,13 @@
+{
+  "name": "plachtovehaly-browser-tools",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test session.test.cjs",
+    "check-login": "node check-login.cjs",
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "1.65.1"
+  }
+}

@@ -10,6 +10,8 @@ Pro pokračování migrace otevřete [plán a historii projektu](PLAN.md): naho�
 
 ## Plachtové haly · správa a předání
 
+- [Převzetí automatizace Shoptetu bez cache](plachtovehaly/AUTOMATIZACE.md)
+
 - [Kde udělat změnu v Shoptetu](plachtovehaly/ADMINISTRACE.md)
 - [Předání e-shopu Agro Dabaki](plachtovehaly/PREDANI.md)
 - [Obchodní rozhodnutí pro správce](plachtovehaly/ROZHODNUTI.md)

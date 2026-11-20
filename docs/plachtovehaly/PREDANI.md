@@ -1,5 +1,7 @@
 # Předání e-shopu Agro Dabaki
 
+**Technické převzetí na novém počítači:** [instalace, přístupy a čtecí test Shoptetu](AUTOMATIZACE.md). Výchozí provoz po předání je Shoptet; staré cache se nekopírují. WEXBO podklady zůstávají pro historii a dokončení migrace. Přejímací test kolegy zatím nebyl proveden.
+
 **Výchozí návod pro přebírajícího správce a jeho Codex:** [Správa katalogu](katalog/SPRAVA-KATALOGU.md). Postupy jsou použitelné bez historie chatu a bez lokální pracovní cache; přístupy se předávají zvlášť.
 
 19. 11. 2026 — Původní doména je připravena v Shoptetu jako přesměrovaná s cílem `*`, hlavní adresa zůstává `plachtovehaly.agrodabaki.cz`. DNS u WEXBO dosud nezměněno; hlášení nesprávných DNS hodnot je v této fázi očekávané. [Nastavení domény](https://plachtovehaly.agrodabaki.cz/admin/dns-presmerovani-detail/?marketId=2&redirectionId=1237637) · [ověření, další kroky a návrat](MIGRACE.md#příprava-domény-v-shoptetu--19-11-2026).
@@ -222,3 +224,19 @@ Termíny naskladnění jsou nově oranžové s textem „Dostupné od“ v kateg
 
 
 19. 11. 2026 — Z nabídky dostupností odstraněno nepoužívané „nedostupné“ (71). Následně na pokyn zadavatele převedeno 10 přiřazení na systémové „Vyprodáno“ a dvě na „Na dotaz“, vlastní duplicity odstraněny. Nabídka obsahuje 28 stavů bez duplicit lišících se velikostí písmen. Používejte systémové názvy; skladová a nákupní pravidla zachována. [Význam obou skladových sloupců, kontrola a návrat](ADMINISTRACE.md#sloupce-dostupnosti-a-úklid-nabídky--19-11-2026).
+
+
+19. 11. 2026 — Do patičky přidán běžný odkaz Facebook Agro Dabaki převzatý z WEXBO; X na přání zadavatele nepřidáván. [Místo správy a ověření](ADMINISTRACE.md#facebook-v-patičce--19-11-2026). Cookie audit zůstává samostatně otevřený.
+
+
+19. 11. 2026 — Facebook z patičky následně odstraněn: zadavatel oznámil neexistující stránku. Aktuálně není vložen odkaz na Facebook ani X. Původní odkaz z WEXBO neobnovovat bez ověření nového profilu. [Kontrola odstranění](ADMINISTRACE.md#odstranění-neplatného-facebooku--19-11-2026).
+
+
+### Sloučené podkategorie — 20. 11. 2026
+
+Náhradní oblouky (2 karty) se spravují přímo v Obloukových halách; příslušenství kontejnerů (4 karty) přímo v Zastřešení lodních kontejnerů, vždy včetně výchozí kategorie. Obě podkategorie jsou odstraněné a Mapa webu již zobrazuje společné seznamy pod hlavními kategoriemi. Staré adresy se před spuštěním podle zadání nepřesměrovávají. [Postup a ověření](ADMINISTRACE.md#sloučení-podkategorií--20-11-2026).
+
+
+### Lokální cache podle systému — 20. 11. 2026
+
+Pracovní exporty, zálohy a skripty Shoptetu jsou v ignorované `.shoptet-cache`; původní podklady a skripty WEXBO zůstávají v `.wexbo-cache`. Ani jedna složka se nepředává přes Git. Cesty verzovaných migračních nástrojů a provozních návodů odpovídají tomuto rozdělení. [Pravidla a ověření přesunu](ADMINISTRACE.md#lokální-pracovní-cache).

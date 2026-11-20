@@ -172,7 +172,7 @@ def main():
             print(name, str(exc))
     codes = shop.xpath("//SHOPITEM/CODE/text() | //VARIANT/CODE/text()")
     assert len(codes) == len(set(codes))
-    schema = etree.RelaxNG(etree.parse(str(ROOT / ".wexbo-cache/schema/products-complete-v10.rng")))
+    schema = etree.RelaxNG(etree.parse(str(ROOT / ".shoptet-cache/schema/products-complete-v10.rng")))
     schema.assertValid(shop)
     args.output.write_bytes(etree.tostring(shop, encoding="UTF-8", xml_declaration=True, pretty_print=True))
     print(f"{len(shop)} karet, {len(codes)} prodejních kódů")

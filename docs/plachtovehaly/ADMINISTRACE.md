@@ -186,7 +186,7 @@ Doplnění 18. 11. 2026: interní šablona orderAdmin (ID 27) má rozlišující
 
 Nastavení → Základní nastavení → Nastavení obchodu → Kontaktní údaje pro vaše zákazníky → Fotografie obchodníka. Portrét montéra je ilustrační AI postava, nikoli fotografie konkrétního zaměstnance. Název firmy a telefon zůstávají v původních kontaktních polích.
 
-Nasazený [PNG 76 × 76](../../src/plachtovehaly/shoptet/monter-podpora-76.png) je na `/user/merchant/monter-podpora-76.png`; [originál](../../src/plachtovehaly/shoptet/monter-podpora.png) je uložen v projektu. Shoptet uvádí maximální rozměry 76 × 84 px, proto nahrávejte připravenou malou verzi. Nahrání se uloží přímo; ověřte znovunačtením administrace a veřejného košíku. Při změně zachovejte volby zobrazení fotografie a kontaktů. Pro návrat nahrajte předchozí fotografii; lokální záloha původního portrétu je `.wexbo-cache/portrait-original.png`.
+Nasazený [PNG 76 × 76](../../src/plachtovehaly/shoptet/monter-podpora-76.png) je na `/user/merchant/monter-podpora-76.png`; [originál](../../src/plachtovehaly/shoptet/monter-podpora.png) je uložen v projektu. Shoptet uvádí maximální rozměry 76 × 84 px, proto nahrávejte připravenou malou verzi. Nahrání se uloží přímo; ověřte znovunačtením administrace a veřejného košíku. Při změně zachovejte volby zobrazení fotografie a kontaktů. Pro návrat nahrajte předchozí fotografii; lokální záloha původního portrétu je `.shoptet-cache/portrait-original.png`.
 
 Ověřen prázdný košík při 390 a 1440 px: nový obrázek načten, kruhový ořez bez deformace, jméno firmy a `tel:+420774960063` zachovány, bez vodorovného přetečení. [Telefon](overeni/monter-podpora-390.png) · [Počítač](overeni/monter-podpora-1440.png). Nákupní logika beze změny, objednávka při této vizuální úpravě nevytvářena.
 
@@ -235,7 +235,7 @@ Produkty → Sklad: „Dostupnost“ (`availabilityInStockId`) určuje text pro 
 
 Nastavení → Produkty → Dostupnosti: odstraněna pouze vlastní nepoužívaná položka **nedostupné** (ID 71, nulové přiřazení v obou sloupcích). Zmizení ověřeno v přehledu i nabídce skladu. Při prvním úklidu bylo vlastní **vyprodáno** (ID 68) přiřazené k 10 archivním kódům ARCHIV-SP-, **na dotaz** (ID 77) ke dvěma variantám, prodejní 1000324 a archivní ARCHIV-SP-1000324; tehdy ponechány, následně sjednoceny podle odstavce níže. Všechny vlastní termíny i Na objednání mají přiřazení. Systémové položky zachovány. Malé počáteční písmeno není kritériem nepoužívané dostupnosti.
 
-Záloha formuláře a kompletní exporty před/po jsou lokálně v `.wexbo-cache/availability-71-backup.json` a `availability-cleanup-before.xml` / `availability-cleanup-after.xml`. Návrat: vytvořit vlastní „nedostupné“ s prázdným popisem, lhůtami, Google dostupností a barvou; nové ID může být jiné. Nejsou žádné produktové vazby k obnově. Veřejný vzhled a nákupní cesta se neměnily, nebyly znovu testovány. [Protokol kontroly](overeni/dostupnosti-uklid-2026-11-19.json).
+Záloha formuláře a kompletní exporty před/po jsou lokálně v `.shoptet-cache/availability-71-backup.json` a `availability-cleanup-before.xml` / `availability-cleanup-after.xml`. Návrat: vytvořit vlastní „nedostupné“ s prázdným popisem, lhůtami, Google dostupností a barvou; nové ID může být jiné. Nejsou žádné produktové vazby k obnově. Veřejný vzhled a nákupní cesta se neměnily, nebyly znovu testovány. [Protokol kontroly](overeni/dostupnosti-uklid-2026-11-19.json).
 
 
 ### Sjednocení velikosti písmen — 19. 11. 2026
@@ -244,4 +244,40 @@ Na následný pokyn zadavatele převedeno v Produkty → Sklad všech 10 přiřa
 
 Porovnání kompletních exportů všech 448 kódů potvrdilo pouze 12 požadovaných změn dostupnosti při vyprodání; zásoby, ceny, viditelnost, nákup do minusu i ostatní produktová data jsou shodná. Veřejně a vizuálně ověřena prodejní varianta 1000324 (bílá hala s navijákem 9,15 × 30 m) při 390/1440 px: „Na dotaz“, cena 189 900 Kč a nákupní tlačítko. Průchod objednávkou neopakován; nákupní nastavení se nezměnilo. [Protokol](overeni/dostupnosti-sjednoceni-2026-11-19.json) · [Mobil](overeni/sjednoceni-na-dotaz-390.png) · [Počítač](overeni/sjednoceni-na-dotaz-1440.png).
 
-Zálohy: lokální `.wexbo-cache/availability-merge-before.xml`, `availability-merge-after.xml`, formuláře `availability-68-backup.json` a `availability-77-backup.json`. Pro případný návrat vytvořit původní vlastní stavy podle záloh a přiřadit pouze 12 kódů z protokolu; nové ID nebude původní. Bez zbývající práce.
+Zálohy: lokální `.shoptet-cache/availability-merge-before.xml`, `availability-merge-after.xml`, formuláře `availability-68-backup.json` a `availability-77-backup.json`. Pro případný návrat vytvořit původní vlastní stavy podle záloh a přiřadit pouze 12 kódů z protokolu; nové ID nebude původní. Bez zbývající práce.
+
+
+## Facebook v patičce — 19. 11. 2026
+
+**Aktuální stav: odkaz následně odstraněn 19. 11. 2026.** Zadavatel oznámil, že stránka neexistuje. Níže je historie původního vložení, nikoli pokyn k obnovení. Ověřený nový profil nemáme; bez jeho potvrzení odkaz nevracet.
+
+Editor → HTML kódy → Zápatí, šablona `dabaki-paticka`: poslední položka ve sloupci Technika a vybavení je běžný odkaz **Facebook Agro Dabaki** na `https://www.facebook.com/dabaki.cz`. Cíl převzat z veřejné homepage původního WEXBO. Zadavatel potvrdil pouze Facebook, profil X neexistuje. [Zdroj patičky](../../src/plachtovehaly/shoptet/paticka.html).
+
+Přidán pouze anchor bez SDK, iframe nebo widgetu. Existující sdílecí tlačítka Facebook/X a analytika nebyly měněny; jejich samostatný cookie audit v plánu není tímto uzavřen. Zjištěno zapnuté sdílecí tlačítko Facebook v Propojení → Sociální sítě. Při práci s touto stránkou nelogovat hodnoty tajných integračních polí.
+
+Zápatí je blízko limitu Shoptetu 8192; editor odmítl delší variantu bez změny polí. Finální šablona má odstraněné pouze mezery mezi HTML značkami, okolní obsah zápatí zachován a po uložení porovnán. Znovunačtení administrace a veřejná kontrola při 390/1440 px potvrdily odkaz po odmítnutí cookies, správný cíl, viditelnost a nepřetékání. [Protokol](overeni/facebook-paticka.json) · [Mobil](overeni/facebook-paticka-390.png) · [Počítač](overeni/facebook-paticka-1440.png). Nákupní cesta nezměněna, netestována. Návrat: odebrat pouze li s tímto odkazem; pracovní záloha celého pole je lokálně `.shoptet-cache/facebook-footer-before.html`.
+
+
+### Odstranění neplatného Facebooku — 19. 11. 2026
+
+Na pokyn zadavatele odstraněn pouze prvek li s odkazem `facebook.com/dabaki.cz` z šablony dabaki-paticka v Editor → HTML kódy → Zápatí. Znovu načtené pole odpovídá původnímu obsahu bez tohoto prvku; zdroj paticka.html synchronizován. Na veřejné homepage při 390/1440 px nula těchto odkazů a žádné přetečení, snímky vizuálně ověřeny. [Protokol](overeni/facebook-odstranen.json) · [Mobil](overeni/facebook-odstranen-390.png) · [Počítač](overeni/facebook-odstranen-1440.png). Historické snímky přidaného odkazu ponechány jako evidence. Nákupní cesta nezměněna; cookie audit existujících sdílecích prvků je nadále otevřený.
+
+
+## Sloučení podkategorií — 20. 11. 2026
+
+Náhradní oblouky již nejsou samostatnou podkategorií: obě karty 47 a 587 patří přímo do Obloukových hal (707). Příslušenství kontejnerů (karty 725, 719, 722, 716) patří přímo do Zastřešení lodních kontejnerů (782). Produkty → detail → Kategorie: nastavovat členství i výchozí kategorii. Původní kategorie 710 a 788 byly po přesunu odstraněny.
+
+Mapa webu (Stránky, ID 794) má sloučené seznamy produktů bez obou mezilehlých nadpisů; udržujte [zdroj mapy](../../src/plachtovehaly/shoptet/mapa-webu.html). Článek Poradny ID 11 odkazuje na hlavní kategorii kontejnerů. Staré adresy se podle zadání před spuštěním nepřesměrovávají. Historické importy mohou staré členění obnovit; používejte aktuální export. Případný návrat vyžaduje znovu vytvořit podkategorie, přiřadit produkty i výchozí kategorii a upravit Mapu webu; neobnovovat celý starý katalog.
+
+Čerstvé úplné exporty před/po obsahují shodně 236 karet a liší se pouze CATEGORIES šesti uvedených karet. Veřejné detaily, odkazy a mobilní/desktopové kategorie i Mapa webu ověřeny; mobilní test SKU 1000059 prošel do dopravy bez objednání. [Protokol](overeni/subkategorie-zruseni-2026-11-20.json), snímky ve stejné složce s prefixem subkategorie-. Pracovní zálohy XML/HTML jsou lokálně v ignorované .shoptet-cache/subcats-* a nejsou součástí předání.
+
+
+## Lokální pracovní cache
+
+Pro nový klon použijte [instalaci a čtecí kontrolu přihlášení](AUTOMATIZACE.md). Sdílený modul je verzovaný v `src/plachtovehaly/tools/browser`; návody již nevyžadují lokální `flag-common.cjs`. Běžná správa Shoptetu nepotřebuje WEXBO ani historické exporty. Před každou změnou pořiďte vlastní čerstvou zálohu. Opakovaně používané nástroje patří do `src/plachtovehaly/tools`; zmínky o skriptech v cache níže se týkají jednorázové a historické práce.
+
+Od 20. 11. 2026 používejte `.shoptet-cache` pro skripty, exporty, zálohy, snímky a importní výstupy Shoptetu. `.wexbo-cache` obsahuje pouze původní stránky, inventuru a čtecí skripty WEXBO. Migrační skript může číst obě složky; umístění vstupu se řídí systémem, ze kterého data pocházejí, a výstup pro import do Shoptetu patří do `.shoptet-cache`. Například číselné HTML produktů zůstává ve WEXBO, schéma `products-complete-v10.rng` a import `sklad-wexbo.xml` patří do Shoptetu (poslední soubor má přes název formát importu Shoptetu).
+
+Obě složky jsou ignorované Gitem, mohou obsahovat citlivá data a nejsou součástí předání. Trvalé zdroje patří do `src/plachtovehaly`, ověřovací protokoly bez citlivých údajů do `docs/plachtovehaly/overeni`. Samotný přesun ani kontrola syntaxe neopravuje staré přístupy, historické cesty nebo zastaralé obchodní údaje: před spuštěním staré automatizace vždy prověřte její rozsah.
+
+Lokální `.shoptet-cache/cache-split-manifest.json` eviduje původní a nové cesty a kontrolní součty všech 2 235 souborů. `.shoptet-cache/cache-split-checks.json` obsahuje výsledek kontroly. Původní znění 232 upravených skriptů je v `.shoptet-cache/cache-split-original-scripts`; slouží pouze pro návrat a obsahuje staré cesty. Při návratu postupujte podle manifestu a neobnovujte zálohu přes novější práci. Data exportů, obrázků a HTML nebyla při přesunu obsahově měněna.

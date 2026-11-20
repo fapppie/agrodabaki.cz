@@ -36,4 +36,4 @@ Před změnou zálohovat aktuální HTML, title, SEO title, meta description a a
 
 Veřejně ověřit všechny upravené detaily a výpis při 390/1440 px: načtení ilustrace i schématu, alternativní texty, jedinou ilustraci bez duplikátu, náhledy ve výpisu, zvětšení, nepřetékání stránky a zachování SEO metadat. Výsledky této sady patří do `ilustrace-styl-c/overeni/produkce.json`. Konečný výsledek nasazení je v [plánu](../../PLAN.md).
 
-Zálohy před nasazením této sady jsou lokálně v ignorované `.wexbo-cache/poradna-c-before-<slug>.json`. Pro návrat obnovit odpovídající HTML a původní náhled ze schématu, potom synchronizovat projektové zdroje a ověřit veřejnou stránku. Sdílené CSS ponechat. Nepotřebné obrázky nemazat, dokud nejsou zkontrolované všechny odkazy na ně.
+Zálohy před nasazením této sady jsou lokálně v ignorované `.shoptet-cache/poradna-c-before-<slug>.json`. Pro návrat obnovit odpovídající HTML a původní náhled ze schématu, potom synchronizovat projektové zdroje a ověřit veřejnou stránku. Sdílené CSS ponechat. Nepotřebné obrázky nemazat, dokud nejsou zkontrolované všechny odkazy na ně.

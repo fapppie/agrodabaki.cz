@@ -8,7 +8,7 @@
 - Změnu nákupní cesty otestuj od detailu přes košík po dotčený krok objednávky. Vzhled ověř na mobilu i počítači. Po nasazení zapiš do plánu datum, místo správy, výsledek kontroly a zbývající práci. Aktualizuj příslušný provozní návod a [předání správci](docs/plachtovehaly/PREDANI.md).
 - Kategorie, názvy a navigaci navrhuj podle sortimentu a zákazníka. Před importem posuď model, parametry a kompatibilitu WEXBO. Provedení stejného výrobku sdruž pod varianty, samostatné alternativy propoj; řady 26 a 40 mají vlastní karty. Každému zdrojovému ID a URL přiřaď cíl. Zachovej SKU, cenu, dostupnost, fotografie a odlišující parametry. Obchodní údaje ověř proti aktuálním podkladům firmy.
 - Pro český košík rozhoduje cena zboží včetně DPH. Do 100 000 Kč včetně GEIS, výše externí spedice.
-- Přístupy ke správě jsou v lokálním ignorovaném souboru accesses.txt v kořeni. Předávej je bezpečně zvlášť. Hesla, tokeny ani exporty objednávek či zákazníků nepatří do Gitu, chatu ani logů. Lokální pracovní soubory v .wexbo-cache nejsou součástí předání.
+- Přístupy ke správě jsou v lokálním ignorovaném souboru accesses.txt v kořeni. Předávej je bezpečně zvlášť. Hesla, tokeny ani exporty objednávek či zákazníků nepatří do Gitu, chatu ani logů. Lokální pracovní soubory v `.shoptet-cache` (Shoptet) a `.wexbo-cache` (původní WEXBO) nejsou součástí předání. Nové zálohy, exporty a skripty ukládej podle systému; migrační skripty pro Shoptet čtou původní podklady z `.wexbo-cache` a výstupy ukládají do `.shoptet-cache`.
 
 ## Vedení plánu a historie
 
@@ -23,6 +23,7 @@
 ## Přístup do administrace Shoptetu
 
 - Pro správu používej samostatnou relaci prohlížeče na pozadí. Nevyžaduj otevření ani ovládání uživatelova Chromu, pokud lze úkol provést samostatně. Nejprve ověř dostupné nástroje a dosavadní postupy projektu.
-- Dosavadní automatizace používala Playwright s vlastním headless Chromem a přihlášením z `accesses.txt`, nikoli veřejné API Shoptetu. Příklad postupu je v lokálním `.wexbo-cache/flag-common.cjs`; před použitím existujícího skriptu zkontroluj jeho rozsah a vedlejší účinky. Použij způsob ovládání povolený nástroji aktuálního chatu; dostupný samostatný in-app browser je také vhodný.
+- Přenositelný základ automatizace je [session.cjs](src/plachtovehaly/tools/browser/session.cjs), instalace a čtecí test jsou v [návodu převzetí](docs/plachtovehaly/AUTOMATIZACE.md). Používá Playwright se samostatným headless Chromium a pojmenovanými přístupy v `accesses.txt`, nikoli veřejné API Shoptetu. Běžná správa po předání nevyžaduje původní cache ani WEXBO. Před použitím skriptu zkontroluj jeho rozsah a vedlejší účinky. Použij způsob ovládání povolený nástroji aktuálního chatu; dostupný samostatný in-app browser je také vhodný.
+- Opakovaně používané nástroje ukládej do verzovaného `src/plachtovehaly/tools`; do cache patří jejich pracovní data a jednorázové pokusy. Historické migrační nástroje nejsou startovací postup pro běžnou správu Shoptetu.
 - Administrace je na `https://plachtovehaly.agrodabaki.cz/admin/`, případně `https://828678.myshoptet.com/admin/`. Před zadáním přístupů ověř cílovou doménu. Přístupy načítej bez vypsání do chatu či logů.
 - Selhání ovládání nativního okna neznamená, že administrace není dostupná samostatnou relací. O zásah uživatele požádej až při konkrétní překážce, kterou nelze vyřešit dostupným povoleným postupem; vysvětli, co přesně brání pokračování.

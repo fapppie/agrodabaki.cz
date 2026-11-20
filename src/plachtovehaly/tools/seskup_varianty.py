@@ -11,7 +11,7 @@ from lxml import etree as E
 
 ROOT = Path(__file__).resolve().parents[3]
 DOC = Path(__file__).resolve().parents[1] / "migrace"
-CACHE = ROOT / ".wexbo-cache"
+CACHE = ROOT / ".shoptet-cache"
 # První ID je zachovaná karta. Seznamy omezují seskupení na porovnané řady.
 FAMILIES = [
     ("Sedlová hala s dvojitou konstrukcí, šířka 6,1 m", "délka", [152,122,125,143,128,131,155]),

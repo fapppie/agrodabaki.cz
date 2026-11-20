@@ -105,7 +105,7 @@ Správa: Produkty → Přehled → galerie. Po uložení ověřeno celé pořad�
 
 Uživatel výslovně schválil odstranění 38 nahrazených fotografií a jejich bajtově totožných kopií u všech 15 karet. Před mazáním bylo převedeno a ověřeno všech 34 vazeb variant na nové covery. Ostatní pohledy a výkresy se zachovávají.
 
-Správa: Produkty → Přehled → detail → Hlavní údaje → Fotogalerie; vazby variant v Ceníku. Inventář, přesná ID s SHA256 a ověření variant jsou v produkční složce coverů jako `uklid-inventar.json`, `uklid-plan.json` a `uklid-varianty.json`. Originály jsou lokálně zálohované v ignorované `.wexbo-cache/cover-cleanup/`.
+Správa: Produkty → Přehled → detail → Hlavní údaje → Fotogalerie; vazby variant v Ceníku. Inventář, přesná ID s SHA256 a ověření variant jsou v produkční složce coverů jako `uklid-inventar.json`, `uklid-plan.json` a `uklid-varianty.json`. Originály jsou lokálně zálohované v ignorované `.shoptet-cache/cover-cleanup/`.
 
 Opětovným načtením administrace ověřeno odstranění osmi snímků: u 698 foto 2144, u 701 foto 2147, u 689 fotografie 3380 a 2123, u 50 fotografie 605, 3620, 3653 a 3686. Karty 689/698/701 nyní obsahují pouze nové covery. U 50 zbývá 3710. U 113 pokus o smazání 716 nevedl k uložené změně. Aktuální pořadí těchto pěti kontrolovaných galerií je v `uklid-vysledek.json`.
 
@@ -127,7 +127,7 @@ Vzhled galerie PP ověřen při 1440 a 390 px, C4040 s vraty při 390 px. Správ
 
 Uživatel v anonymním okně nahlásil 404 u obrázku kontejnerů na homepage. Předchozí kontrola produktových galerií nepokryla ruční HTML odkazy mimo produkty. Homepage stále používala pět odstraněných zdrojů (689, 164-6, 710-2, 674-2, 659-4), Mapa webu další výskyt 689. V běžné relaci se staré obrázky ještě zobrazovaly; samotná kontrola načtení obrázku v existující relaci proto nestačí.
 
-Ve Vzhled a obsah → Titulní strana a Stránky → Mapa webu (794) byly pouze dotčené URL nahrazeny ověřenými novými covery produktů 689, 164, 710, 674 a 659. Aktuální HTML zálohováno v `.wexbo-cache/*-before-image-fix-2026-11-18.html`; projektové zdroje `titulni-strana.html` a `mapa-webu.html` upraveny souběžně. Veřejná kontrola potvrdila načtení náhrad a nepřítomnost odkazů na odstraněnou sadu; homepage vizuálně při 1440/390 px. Anonymní relace nebyla touto kontrolou přímo ovládána.
+Ve Vzhled a obsah → Titulní strana a Stránky → Mapa webu (794) byly pouze dotčené URL nahrazeny ověřenými novými covery produktů 689, 164, 710, 674 a 659. Aktuální HTML zálohováno v `.shoptet-cache/*-before-image-fix-2026-11-18.html`; projektové zdroje `titulni-strana.html` a `mapa-webu.html` upraveny souběžně. Veřejná kontrola potvrdila načtení náhrad a nepřítomnost odkazů na odstraněnou sadu; homepage vizuálně při 1440/390 px. Anonymní relace nebyla touto kontrolou přímo ovládána.
 
 Před dalším mazáním fotografie prověřit nejen galerii a vazby variant, ale i ruční obsah homepage, Mapy webu, bannerů a dalších stránek. Porovnávat URL se seznamem odstraněných souborů, nikoli pouze načtení z cache. Starou URL neobnovovat bez obnovení samotného souboru.
 
