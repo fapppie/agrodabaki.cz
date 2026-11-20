@@ -10,6 +10,8 @@ Pro pokračování migrace otevřete [plán a historii projektu](PLAN.md): naho�
 
 ## Plachtové haly · správa a předání
 
+- [Formát přístupů a parametrů](plachtovehaly/AUTOMATIZACE.md#přístupy) · [prázdná šablona](../accesses.example.txt)
+
 - [Převzetí automatizace Shoptetu bez cache](plachtovehaly/AUTOMATIZACE.md)
 
 - [Kde udělat změnu v Shoptetu](plachtovehaly/ADMINISTRACE.md)

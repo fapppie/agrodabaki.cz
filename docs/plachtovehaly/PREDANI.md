@@ -1,5 +1,7 @@
 # Předání e-shopu Agro Dabaki
 
+Přístupy v lokálním `accesses.txt` mají [jednotné pojmenované klíče](AUTOMATIZACE.md#přístupy) podle [prázdné šablony](../../accesses.example.txt). Sekce používají komentáře `#`; hodnoty se předávají bezpečně zvlášť, nikoli s repozitářem.
+
 **Technické převzetí na novém počítači:** [instalace, přístupy a čtecí test Shoptetu](AUTOMATIZACE.md). Výchozí provoz po předání je Shoptet; staré cache se nekopírují. WEXBO podklady zůstávají pro historii a dokončení migrace. Přejímací test kolegy zatím nebyl proveden.
 
 **Výchozí návod pro přebírajícího správce a jeho Codex:** [Správa katalogu](katalog/SPRAVA-KATALOGU.md). Postupy jsou použitelné bez historie chatu a bez lokální pracovní cache; přístupy se předávají zvlášť.

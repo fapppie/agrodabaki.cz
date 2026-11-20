@@ -17,7 +17,7 @@ Balíček a lockfile určují verzi Playwrightu. Prohlížeč se instaluje zvlá
 
 ## Přístupy
 
-V kořeni klonu vytvořte lokální ignorovaný `accesses.txt`. Pokud již existuje, zachovejte jej a přidejte pouze tyto dva klíče, každý právě jednou:
+V kořeni klonu vytvořte lokální ignorovaný `accesses.txt` podle verzované prázdné [šablony accesses.example.txt](../../accesses.example.txt). Existující soubor nepřepisujte prázdnou šablonou. Pro přihlášení Shoptetu vyplňte tyto dva klíče, každý právě jednou:
 
 ```text
 SHOPTET_EMAIL=<přihlašovací e-mail správce>
@@ -25,6 +25,21 @@ SHOPTET_PASSWORD=<heslo správce>
 ```
 
 Zástupné hodnoty nahraďte v místním editoru. Nepoužívejte uvozovky; vše za prvním `=` je hodnota, včetně dalších `=` a případných mezer v hesle. Starý formát „třetí řádek, e-mail / heslo“ nový modul záměrně nečte. Nepředávejte kolegovi celý soubor s přístupy k jiným službám. Pro běžnou správu stačí oprávněný účet Shoptetu; SFTP firemního webu a DNS se předávají samostatně podle rozsahu práce.
+
+Soubor používá `KEY=value`, sekce jsou komentáře začínající `#`. Prázdné řádky se ignorují. Klíče mají velká písmena, bez mezer kolem `=`; hodnoty jsou jednořádkové, bez expanze proměnných a bez zpracování escape sekvencí. Není to shell skript a nespouští se jako příkaz. Nejde o plnou implementaci dotenv. Uvnitř hodnoty se `#`, `/` i `=` zachovávají doslovně.
+
+| Služba | Klíče |
+| --- | --- |
+| Shoptet | `SHOPTET_ADMIN_URL`, `SHOPTET_URL`, `SHOPTET_EMAIL`, `SHOPTET_PASSWORD` |
+| E-mail | `EMAIL_USERNAME`, `EMAIL_PASSWORD` |
+| SFTP | `SFTP_HOST`, `SFTP_PORT`, `SFTP_USERNAME`, `SFTP_PASSWORD` |
+| Historický WEXBO | `WEXBO_ADMIN_URL`, `WEXBO_USERNAME`, `WEXBO_PASSWORD` |
+
+Výchozí veřejná URL je `https://plachtovehaly.agrodabaki.cz/`, administrace `https://plachtovehaly.agrodabaki.cz/admin/`. Tyto netajné parametry jsou předvyplněné i v šabloně. Adresa `https://828678.myshoptet.com/admin/` zůstává záložním přímým vstupem při potížích s vlastní doménou; není výchozím veřejným odkazem. Používejte cestu `/admin/` s koncovým lomítkem.
+
+URL a hostitelé jsou evidované parametry, hesla jsou tajné údaje. Současný Playwright modul čte pouze `SHOPTET_EMAIL` a `SHOPTET_PASSWORD`; cílovou doménu záměrně určuje a ověřuje ve zdrojovém kódu. Samotná změna `SHOPTET_ADMIN_URL` tedy nepřesměruje automatizaci na jiný obchod. Ostatní klíče jsou určené pro příslušné provozní postupy, nepřidávají automaticky podporu nové služby. Přístupy k DNS či iDokladu doplňte až podle skutečně zvolené služby; šablona je nevymýšlí.
+
+Od 20. 11. 2026 je celý lokální soubor převeden na pojmenované klíče. Historické skripty v cache, které čtou pevné číslo řádku nebo dvojici `uživatel / heslo`, s ním nejsou kompatibilní. Před jejich případným použitím převeďte čtení na odpovídající klíče; neobnovujte starý formát kvůli historickému skriptu. Staré skripty nebyly tímto plošně migrovány ani spuštěny.
 
 Přístupy nevkládejte do příkazů ani chatu. Nezapínejte při přihlašování debug logy Playwrightu, trace nebo video; mohou zachytit vyplňované hodnoty. Ani chyby callbacku nevypisujte celé bez kontroly obsahu.
 

@@ -486,3 +486,13 @@ Pro 14. 11. 2026 nebyl v dohledaných podkladech identifikován samostatný dolo
 ### 20. 11. 2026 — souhrnné uložení pracovního stromu
 
 - **Commit a push — připraveno na pokyn zadavatele:** zahrnut celý projektový pracovní strom: změny kategorií a Mapy webu, patička, oddělení cache, přenositelná automatizace a dokumentace s ověřovacími podklady. Kontrola diffu, názvů souborů, známých tajných hodnot a signatur prošla; accesses.txt, obě cache a node_modules zůstávají mimo Git. Funkční ověření jednotlivých změn je uvedeno u jejich záznamů výše; toto uložení nepředstavuje nové nasazení. Výsledek odeslání a hash commitu budou uvedeny ve zdrojovém chatu „Navrhni optimalizaci projektu“, ID 01a1f8da-6a92-7220-a97c-458c1ea15d25.
+
+### 20. 11. 2026 — jednotný formát lokálních přístupů
+
+- **Pojmenované přístupy a parametry — lokálně převedeno:** accesses.txt používá 14 klíčů KEY=value pro Shoptet, e-mail, SFTP a historické WEXBO; původní hodnoty zachovány a porovnány bez výpisu. Soubor zůstává ignorovaný. Přidána prázdná [šablona](../accesses.example.txt), aktualizovány aktuální provozní návody, README a AGENTS; [popis formátu](plachtovehaly/AUTOMATIZACE.md#přístupy). Kontrola shody klíčů se šablonou, duplicit, kompatibility současné čtečky Shoptetu a diffu prošla. Historické čtečky pevných řádků v cache výslovně označeny jako nekompatibilní, nebyly migrovány ani spuštěny. Živé služby a jejich hesla neměněny, nové přihlášení neprováděno. Zdroj: tento chat, žádost sjednotit zbytek přístupů a odkazy v dokumentaci.
+
+- **Odstranění chybně pojmenované URL e-mailu — opraveno:** na upřesnění zadavatele odebrán EMAIL_WEBMAIL_URL z lokálního accesses.txt, prázdné šablony a aktuálního návodu. Šlo o odkaz na nápovědu nastavení pošty, nikoli webmail. Zůstává 13 klíčů; ověřena shoda se šablonou a zachování ostatních přístupů. Navazuje na předchozí převod 14 klíčů; služby ani hesla neměněny.
+
+- **Výchozí URL Shoptetu — sjednoceno na vlastní doménu:** SHOPTET_URL a SHOPTET_ADMIN_URL v lokálním accesses.txt i předávací šabloně používají plachtovehaly.agrodabaki.cz a cestu /admin/. Návod určuje myshoptet.com pouze jako záložní vstup. Ověřena shoda s cílem současného přihlašovacího modulu; DNS ani živý obchod neměněny, nové síťové ověření neprováděno. Zdroj: tento chat, žádost rozhodnout mezi vlastní a technickou doménou.
+
+- **Uložení jednotných přístupů — připraveno k commitu:** na žádost zadavatele zahrnut celý aktuální pracovní strom s prázdnou šablonou a navazující dokumentací; skutečný accesses.txt zůstává ignorovaný. Kontrola diffu a výskytu lokálních hesel v ukládaných souborech prošla. Push na origin/main čeká na vyřešení předchozího zamítnutí automatickou kontrolou oprávnění; výsledek a hash budou v tomto chatu.

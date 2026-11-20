@@ -1,5 +1,7 @@
 # Kde udělat změnu v Shoptetu
 
+Přihlášení čte `SHOPTET_EMAIL` a `SHOPTET_PASSWORD` z lokálního `accesses.txt`; [formát všech přístupů a parametrů](AUTOMATIZACE.md#přístupy) vychází z prázdné verzované šablony. Historické čtení pevných řádků již nepoužívejte.
+
 Pro běžnou správu produktů a předání AI začněte [návodem správy katalogu](katalog/SPRAVA-KATALOGU.md). Aktuální pravidla dostupností a jejich sjednocení k 19. 11. 2026 jsou součástí tohoto návodu.
 
 Obchod 828678 používá Business a Adamin nad šablonou Classic. Živé nastavení, objednávky, ceny a sklad jsou v administraci. Repozitář obsahuje nasazované bloky, migrační data a záznamy kontrol. [Přihlášení](https://828678.myshoptet.com/admin/) · [Veřejný obchod](https://plachtovehaly.agrodabaki.cz/)

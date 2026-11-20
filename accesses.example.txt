@@ -1,0 +1,24 @@
+# Zkopírujte jako accesses.txt a doplňte jen potřebné služby.
+# Hodnoty za prvním = jsou doslovné, bez uvozovek a interpolace.
+# Skutečné přístupy nepatří do Gitu.
+
+# Shoptet
+SHOPTET_ADMIN_URL=https://plachtovehaly.agrodabaki.cz/admin/
+SHOPTET_URL=https://plachtovehaly.agrodabaki.cz/
+SHOPTET_EMAIL=
+SHOPTET_PASSWORD=
+
+# E-mail
+EMAIL_USERNAME=
+EMAIL_PASSWORD=
+
+# SFTP
+SFTP_HOST=
+SFTP_PORT=
+SFTP_USERNAME=
+SFTP_PASSWORD=
+
+# WEXBO – historická migrace
+WEXBO_ADMIN_URL=
+WEXBO_USERNAME=
+WEXBO_PASSWORD=

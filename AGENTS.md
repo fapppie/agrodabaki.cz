@@ -1,5 +1,7 @@
 # Práce s projektem
 
+- Formát lokálních přístupů je `KEY=value` s komentáři `#`, podle [prázdné šablony](accesses.example.txt) a [popisu klíčů](docs/plachtovehaly/AUTOMATIZACE.md#přístupy). Čti pojmenované klíče, nikdy pevné číslo řádku ani dvojice oddělené lomítkem. Hodnoty jsou doslovné; soubor nespouštěj jako shell skript. Historické čtečky v cache vyžadují před použitím úpravu.
+
 - Pro změny katalogu načti [návod pro správce a přebírající Codex](docs/plachtovehaly/katalog/SPRAVA-KATALOGU.md): dostupnosti, produkty, varianty, názvy, parametry a ověření.
 
 - Piš česky. Otevři [rozcestník](docs/README.md) a [aktuální plán](docs/PLAN.md), potom jen dokumentaci k danému projektu a úkolu. Starší evidenci načítej při dohledávání konkrétního rozhodnutí.

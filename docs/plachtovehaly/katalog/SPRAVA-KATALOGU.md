@@ -4,6 +4,8 @@ Provozní pravidla a pracovní postup, stav ověřený **19. 11. 2026**. Tento n
 
 ## 1. Jak převzít práci bez historie chatu
 
+Pro lokální `accesses.txt` platí [pojmenované klíče a prázdná šablona](../AUTOMATIZACE.md#přístupy). Shoptet používá `SHOPTET_EMAIL` a `SHOPTET_PASSWORD`; pořadí řádků není významové.
+
 1. Přečtěte kořenový [AGENTS.md](../../../AGENTS.md), [rozcestník](../../README.md) a otevřené úkoly v [plánu](../../PLAN.md). Potom tento návod a jen tematické dokumenty k zásahu.
 2. Ověřte `git status`, větev a remote. Cizí rozpracované změny nepřepisujte ani bez rozlišení nepřidávejte do commitu.
 3. Živý stav katalogu zjistěte v administraci Shoptetu projektu **828678**. Historická XML v repozitáři nejsou záloha současných cen a skladů. Před hromadnou změnou stáhněte nový kompletní XML export přes Produkty → Export.
